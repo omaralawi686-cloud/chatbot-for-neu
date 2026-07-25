@@ -1,0 +1,137 @@
+{
+  "source": "https://neu.edu.tr/phone-directory/?lang=en",
+  "note": "This is NEU's official published staff/office directory. It lists internal extension numbers per office/role — NOT physical room numbers. NEU does not publish individual professor or lecture-hall room numbers publicly; this directory is the closest official equivalent (who to call / which extension reaches which office).",
+  "last_verified": "2026-07-04",
+  "switchboard": {
+    "tel": ["+90 (392) 2236464", "+90 (392) 6802000", "444 0 YDU", "444 0 NEU", "+90 (548) 8440638"],
+    "fax": "+90 (392) 2236461"
+  },
+  "offices": [
+    {
+      "office": "Board of Trustees / Rectorate",
+      "staff": [
+        {"name": "Dr. Suat İrfan Günsel", "position": "Founding Rector", "extension": "5201"},
+        {"name": "Havva Alkan", "position": "Executive Secretary of Founding Rector", "extension": "5201"},
+        {"name": "Asst. Prof. Dr. Gülsün Başarı", "position": "Executive Assistant of Founding Rector & Protocol Manager", "extension": "5274"},
+        {"name": "Prof. Dr. İrfan Suat Günsel", "position": "Chairman of Board of Trustees", "phone": "+90 (392) 4440535", "extension": "2001"},
+        {"name": "Özer Turan", "position": "Private Secretary to the Chairman & Press/PR Manager", "phone": "0548 890 4479"},
+        {"name": "Prof. Dr. Tamer Şanlıdağ", "position": "Rector", "phone": "+90 (392) 4440535", "extension": "3027"},
+        {"name": "Ayşe Yürün", "position": "Private Secretary to the Rector", "phone": "+90 (392) 4440535", "extension": "1890"},
+        {"name": "Prof. Dr. Mustafa Kurt", "position": "Vice Rector", "phone": "+90 (392) 4440535", "extension": "1239"},
+        {"name": "Sefaye Şevik", "position": "Assistant of Vice Rector", "phone": "+90 (392) 4440535", "extension": "1239"},
+        {"name": "Prof. Dr. Murat Tüzünkan", "position": "Vice Rector", "phone": "+90 (392) 4440535", "extension": "1233"},
+        {"name": "Ayşe Yürün", "position": "Assistant of Vice Rector", "phone": "+90 (392) 4440535", "extension": "1233"},
+        {"name": "Prof. Dr. Umut Aksoy", "position": "Vice Rector", "phone": "+90 (392) 4440535", "extension": "1396"},
+        {"name": "Ayten Angın", "position": "Assistant of Vice Rector", "phone": "+90 (392) 4440535", "extension": "1396"}
+      ]
+    },
+    {
+      "office": "Student Affairs",
+      "staff": [
+        {"name": "Ümit Serdaroğlu", "position": "Head of Registrar's Office", "extension": "5401"},
+        {"name": "Ayşe Korutürk", "position": "Senior Deputy Head of Student Affairs Office", "extension": "5401"},
+        {"name": "Çiler Kurt", "position": "Acting Deputy Head of Student Affairs Office", "extension": "5313/5290"},
+        {"name": "Mustafa Ancın", "position": "Acting Deputy Head of Student Affairs Office", "extension": "5313/5290"},
+        {"name": "Hasan Yağcı", "position": "Acting Deputy Head of Student Affairs Office", "extension": "5313/5290"},
+        {"name": "Burak Şimşek", "position": "Student Affairs Department IT Officer", "extension": "5170/5171"}
+      ]
+    },
+    {
+      "office": "General Secretariat",
+      "staff": [
+        {"name": "Prof. Dr. Yeter Tabur", "position": "General Secretary", "extension": "3045-3029"},
+        {"name": "Pembe Kanatlı", "position": "Registrar's Office Departmental Manager", "extension": "3046"},
+        {"name": "Tuğba Bafkanlı", "position": "Assistant of General Secretary", "extension": "3045-3029"}
+      ]
+    },
+    {
+      "office": "Faculty/Institute Student Affairs Directors & Registration Contacts",
+      "description": "Extension to call for student affairs, accounting, and registration/admission matters, grouped by which faculties/schools share the same contact team.",
+      "groups": [
+        {
+          "faculties": ["Faculty of Medicine", "Faculty of Engineering", "Faculty of Veterinary Medicine", "Faculty of Performing Arts", "School of Computer and Technology (Computer Technologies and Application, Electrical and Electronic Technologies)", "Vocational Schools"],
+          "student_affairs_director": "Meltem Mahirel",
+          "accounting_officer": "Mehmetali Taluğ",
+          "registration_admission_officer": "Ayşe Evran",
+          "extension": "5214 / 5222"
+        },
+        {
+          "faculties": ["Ataturk Faculty of Education", "Institute of Educational Sciences"],
+          "student_affairs_director": "Alsev Keleş (Şef)",
+          "extension": "5259 / 5566"
+        },
+        {
+          "faculties": ["Faculty of Law", "Faculty of Arts and Sciences", "Faculty of Civil and Environmental Engineering", "School of Theology", "Faculty of Communication", "Faculty of Sports Sciences", "School of Computer and Technology (Construction and Technical Drawing Technologies)", "Justice Vocational School"],
+          "student_affairs_director": "Mehmet Lakadamyalı (Şef)",
+          "extension": "5259 / 55566"
+        },
+        {
+          "faculties": ["Faculty of Economics and Administrative Sciences", "Faculty of Tourism", "Faculty of Fine Arts", "Faculty of Architecture", "Faculty of Agriculture", "Institute of Forensic Sciences", "Institute of Science"],
+          "student_affairs_director": "Hüseyin Kuşo",
+          "accounting_officer": "Güngör Kaya",
+          "registration_admission_officer": "Güngör Kaya",
+          "extension": "3131"
+        },
+        {
+          "faculties": ["Institute of Social Sciences"],
+          "student_affairs_director": "Hüseyin Kuşo",
+          "accounting_officer": "Feryat Kıranel",
+          "registration_admission_officer": "Feryat Kıranel",
+          "extension": "3131"
+        },
+        {
+          "faculties": ["Faculty of Nursing", "Faculty of Health Sciences", "Health Services Vocational School"],
+          "student_affairs_director": "Senem Özsezer",
+          "accounting_officer": "Hatice Can",
+          "registration_admission_officer": "Demet Hacımulla",
+          "extension": "3448 / 3449"
+        },
+        {
+          "faculties": ["Faculty of Dentistry", "Faculty of Pharmacy", "Faculty of Artificial Intelligence and Informatics", "Institute of Health Sciences"],
+          "student_affairs_director": "Emine Kılıçoğulları (Şef)",
+          "accounting_officer": "Ayşe Özyükselen",
+          "registration_admission_officer": "Dilber Atanç",
+          "extension": "5217 / 5377"
+        }
+      ]
+    },
+    {
+      "office": "International Student Office",
+      "staff": [
+        {"name": "Assist. Prof. Dr. Cemre S. Günsel Haskasap", "position": "Member of Board of Trustees", "extension": "5610"},
+        {"name": "Assist. Prof. Dr. Rana Serdaroğlu Tezel", "position": "International Director", "extension": "5610"},
+        {"name": "Gozel Aknazarova", "position": "Deputy of International Director / Regional Supervisor (Online, Middle East, Eurasia)", "extension": "5143"},
+        {"name": "Sevim Madencioglu", "position": "Assistant to ISO Manager / ISO Coordinator", "extension": "5610"},
+        {"name": "Dinara Gaybullayeva", "position": "Assistant to ISO Manager / ISO Coordinator", "extension": "5610"},
+        {"name": "Muhabbat Akyön", "position": "Regional Supervisor for Africa", "extension": "5163"},
+        {"name": "Beliz Özdiren", "position": "Registration Unit R2 - International Students Office Manager", "extension": "5418"},
+        {"name": "Muazzez İnce", "position": "Registration Unit R2 - International Students Office Manager", "extension": "5295"},
+        {"name": "Mahmoud Anaqwah", "position": "Registration Unit R1 - International Students Office Manager", "extension": "5140"}
+      ]
+    },
+    {"office": "Security Directorate", "staff": [{"name": "Talat Ürer", "position": "Director of Security Services", "extension": "5308"}]},
+    {"office": "Directorate of Transportation", "staff": [{"name": "Sezer Ekinci", "position": "Transportation Manager", "extension": "5474"}]},
+    {"office": "Transportation Maintenance and Repair Directorate", "staff": [{"name": "Sadrettin Tavukçu", "position": "Transportation Maintenance and Repair Manager", "extension": "5474"}]},
+    {"office": "Directorate of Dormitories", "staff": [{"name": "Recep Uğur Arslan", "position": "Dormitories Manager"}]},
+    {"office": "Directorate of Internal Services", "staff": [{"name": "Ömer Faris", "position": "Internal Services Officer"}]},
+    {"office": "Atatürk Cultural and Congress Center (AKKM)", "staff": [{"name": "Arif İşgüzar", "position": "Director", "extension": "5345/5344"}]},
+    {"office": "Grand Library", "staff": [{"name": "Emre Karahasan", "position": "Director", "extension": "5536"}]},
+    {"office": "Indoor Olympic Swimming Pool", "staff": [{"name": "Avni Cankurt", "position": "Director", "phone": "+90 (392) 6802080 & 2236464", "extension": "5240"}]},
+    {"office": "Sports Tower", "staff": [{"name": "Menteş Cenik", "position": "Director", "extension": "5771"}]},
+    {"office": "Cyprus Car Museum", "staff": [{"name": "Ulus Candanal", "position": "Director", "phone": "0(542) 888 06 00", "extension": "5536"}]},
+    {"office": "Cyprus Modern Art Museum", "staff": [{"name": "Görkem Bulunç", "position": "Director (Acting)", "extension": "5656"}]},
+    {"office": "Cyprus Herbarium and Natural History Museum", "staff": [{"name": "Prof. Dr. Salih Gücel", "position": "Director", "extension": "5135"}]},
+    {"office": "Dorana Residence Nicosia Hotel", "staff": [{"name": "Deniz Kaygan Kasap", "position": "Responsible", "extension": "3410/3442"}]},
+    {"office": "Near East Hospital", "staff": [{"name": "Prof. Dr. Salih Müjdat Balkan", "position": "Chief Physician", "phone": "+90 (392) 4440535"}]},
+    {"office": "Near East Animal Hospital", "staff": [{"name": "Dr. Mehmet İsfendiyaroğlu", "position": "Chief Physician", "phone": "+90 (392) 4440535", "extension": "3150/3145"}]},
+    {"office": "Faculty of Dentistry Hospital", "staff": [{"name": "Assoc. Prof. Dr. Onur Lokman Uyanık", "position": "Chief Physician", "phone": "+90 (392) 6802030"}]},
+    {"office": "Office of Health, Culture and Sports", "staff": [{"name": "Assoc. Prof. Dr. Hakan Atamtürk", "position": "Chairman", "extension": "5266"}]},
+    {"office": "Near East TV", "staff": [{"name": "Near East TV", "position": "Director", "extension": "5348"}]},
+    {"office": "Near East FM", "staff": [{"name": "Sinem Kasımoğlu", "position": "Director", "extension": "5412/5413"}]},
+    {"office": "Yakın Doğu İlkokulu (Primary School)", "staff": [{"name": "Fatma Coşar", "position": "Director", "extension": "5232"}]},
+    {"office": "Near East College", "staff": [
+      {"name": "Raif Asfaroğlu Özdilek", "position": "High School Principal", "extension": "5266"},
+      {"name": "Raif Asfaroğlu Özdilek", "position": "Secondary School Principal", "extension": "5161"}
+    ]}
+  ]
+}

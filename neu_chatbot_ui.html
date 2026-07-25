@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>NEU Assistant</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --neu-navy:   #0a2240;
+    --neu-gold:   #c8972a;
+    --neu-light:  #f5f7fa;
+    --neu-white:  #ffffff;
+    --neu-gray:   #6b7280;
+    --neu-border: #e2e8f0;
+    --bot-bubble: #0a2240;
+    --usr-bubble: #c8972a;
+    --radius:     18px;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--neu-light);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 16px;
+  }
+
+  .chat-wrapper {
+    width: 100%;
+    max-width: 720px;
+    height: 90vh;
+    max-height: 820px;
+    display: flex;
+    flex-direction: column;
+    background: var(--neu-white);
+    border-radius: 24px;
+    box-shadow: 0 20px 60px rgba(10,34,64,0.15);
+    overflow: hidden;
+  }
+
+  /* ── Header ── */
+  .chat-header {
+    background: var(--neu-navy);
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-shrink: 0;
+  }
+
+  .avatar {
+    width: 46px; height: 46px;
+    background: var(--neu-gold);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+    flex-shrink: 0;
+  }
+
+  .header-text h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    color: var(--neu-white);
+    letter-spacing: 0.3px;
+  }
+
+  .header-text p {
+    font-size: 0.75rem;
+    color: var(--neu-gold);
+    margin-top: 2px;
+  }
+
+  .status-dot {
+    width: 8px; height: 8px;
+    background: #4ade80;
+    border-radius: 50%;
+    margin-left: auto;
+    box-shadow: 0 0 6px #4ade80;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  /* ── Messages ── */
+  .chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    scroll-behavior: smooth;
+  }
+
+  .chat-messages::-webkit-scrollbar { width: 4px; }
+  .chat-messages::-webkit-scrollbar-track { background: transparent; }
+  .chat-messages::-webkit-scrollbar-thumb { background: var(--neu-border); border-radius: 4px; }
+
+  .message-row {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    animation: fadeUp 0.25s ease;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .message-row.user { flex-direction: row-reverse; }
+
+  .msg-avatar {
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+
+  .msg-avatar.bot { background: var(--neu-navy); }
+  .msg-avatar.user { background: var(--neu-gold); }
+
+  .bubble {
+    max-width: 75%;
+    padding: 12px 16px;
+    border-radius: var(--radius);
+    font-size: 0.88rem;
+    line-height: 1.55;
+    word-break: break-word;
+  }
+
+  .message-row.bot .bubble {
+    background: var(--neu-navy);
+    color: var(--neu-white);
+    border-bottom-left-radius: 4px;
+  }
+
+  .message-row.user .bubble {
+    background: var(--neu-gold);
+    color: var(--neu-white);
+    border-bottom-right-radius: 4px;
+  }
+
+  .sources {
+    font-size: 0.72rem;
+    color: var(--neu-gold);
+    margin-top: 6px;
+    border-top: 1px solid rgba(200,151,42,0.3);
+    padding-top: 6px;
+  }
+
+  /* Typing indicator */
+  .typing-bubble {
+    display: flex; gap: 5px; align-items: center;
+    padding: 14px 18px;
+  }
+
+  .typing-bubble span {
+    width: 7px; height: 7px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 50%;
+    animation: bounce 1.2s infinite;
+  }
+
+  .typing-bubble span:nth-child(2) { animation-delay: 0.2s; }
+  .typing-bubble span:nth-child(3) { animation-delay: 0.4s; }
+
+  @keyframes bounce {
+    0%, 80%, 100% { transform: translateY(0); }
+    40%           { transform: translateY(-6px); }
+  }
+
+  /* ── Quick chips ── */
+  .chip-row {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    padding: 0 20px 14px;
+    flex-shrink: 0;
+  }
+
+  .chip {
+    background: var(--neu-light);
+    border: 1px solid var(--neu-border);
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 0.78rem;
+    color: var(--neu-navy);
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .chip:hover {
+    background: var(--neu-navy);
+    color: var(--neu-white);
+    border-color: var(--neu-navy);
+  }
+
+  /* ── Input bar ── */
+  .chat-input-bar {
+    padding: 16px 20px;
+    border-top: 1px solid var(--neu-border);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  #userInput {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1.5px solid var(--neu-border);
+    border-radius: 12px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.88rem;
+    outline: none;
+    transition: border-color 0.2s;
+    background: var(--neu-light);
+    color: var(--neu-navy);
+  }
+
+  #userInput:focus { border-color: var(--neu-navy); background: var(--neu-white); }
+  #userInput::placeholder { color: #9ca3af; }
+
+  #sendBtn {
+    width: 44px; height: 44px;
+    background: var(--neu-navy);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: background 0.2s, transform 0.1s;
+    flex-shrink: 0;
+  }
+
+  #sendBtn:hover { background: var(--neu-gold); }
+  #sendBtn:active { transform: scale(0.95); }
+
+  #sendBtn svg { width: 18px; height: 18px; fill: white; }
+
+  #uploadBtn {
+    width: 44px; height: 44px;
+    background: var(--neu-light);
+    border: 1.5px solid var(--neu-border);
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: background 0.2s, border-color 0.2s;
+    flex-shrink: 0;
+    font-size: 18px;
+  }
+
+  #uploadBtn:hover { background: var(--neu-white); border-color: var(--neu-navy); }
+  #uploadBtn.uploading { opacity: 0.5; pointer-events: none; }
+
+  .system-note {
+    align-self: center;
+    font-size: 0.75rem;
+    color: var(--neu-gray);
+    background: var(--neu-light);
+    border: 1px solid var(--neu-border);
+    border-radius: 12px;
+    padding: 8px 14px;
+    max-width: 85%;
+    text-align: center;
+  }
+
+  .system-note.error { color: #b91c1c; background: #fef2f2; border-color: #fecaca; }
+  .system-note.success { color: #15803d; background: #f0fdf4; border-color: #bbf7d0; }
+
+  /* ── Notice bar ── */
+  .notice {
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--neu-gray);
+    padding: 0 20px 12px;
+  }
+
+  .notice a { color: var(--neu-gold); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<div class="chat-wrapper">
+
+  <!-- Header -->
+  <div class="chat-header">
+    <div class="avatar">🎓</div>
+    <div class="header-text">
+      <h1>NEU Assistant</h1>
+      <p>Near East University · Nicosia, Cyprus</p>
+    </div>
+    <div class="status-dot" title="Online"></div>
+  </div>
+
+  <!-- Messages -->
+  <div class="chat-messages" id="chatMessages">
+    <!-- Welcome message -->
+    <div class="message-row bot">
+      <div class="msg-avatar bot">🎓</div>
+      <div class="bubble">
+        Hello! 👋 Welcome to <strong>NEU Assistant</strong>. I'm here to help you with anything about Near East University — faculties, departments, campus facilities, research, admissions, and more.<br><br>What would you like to know?
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick chips -->
+  <div class="chip-row" id="chipRow">
+    <div class="chip" onclick="sendChip(this)">🏫 Faculties & Departments</div>
+    <div class="chip" onclick="sendChip(this)">📋 Admission Requirements</div>
+    <div class="chip" onclick="sendChip(this)">📍 Campus Locations</div>
+    <div class="chip" onclick="sendChip(this)">🔬 Research Centers</div>
+    <div class="chip" onclick="sendChip(this)">🏥 Hospital Info</div>
+  </div>
+
+  <!-- Input bar -->
+  <div class="chat-input-bar">
+    <button id="uploadBtn" onclick="document.getElementById('fileInput').click()" title="Upload a document to the knowledge base">📎</button>
+    <input id="fileInput" type="file" accept=".txt,.pdf,.docx,.csv,.md" style="display:none" onchange="uploadFile(this.files[0])"/>
+    <input id="userInput" type="text" placeholder="Ask me anything about NEU…" autocomplete="off"/>
+    <button id="sendBtn" onclick="sendMessage()" title="Send">
+      <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+    </button>
+  </div>
+
+  <p class="notice">
+    Connected to your local NEU Python backend on <code>http://localhost:5050</code>.<br>
+    Make sure the Flask server cell is running in Jupyter. Use 📎 to add new documents to the knowledge base. · <a href="mailto:info@neu.edu.tr">info@neu.edu.tr</a>
+  </p>
+
+</div>
+
+<script>
+const BACKEND = "http://localhost:5050/ask";
+const UPLOAD_ENDPOINT = "http://localhost:5050/upload";
+
+const messagesEl = document.getElementById("chatMessages");
+const inputEl    = document.getElementById("userInput");
+
+function addSystemNote(text, type) {
+  const note = document.createElement("div");
+  note.className = `system-note${type ? " " + type : ""}`;
+  note.textContent = text;
+  messagesEl.appendChild(note);
+  messagesEl.scrollTop = messagesEl.scrollHeight;
+}
+
+async function uploadFile(file) {
+  if (!file) return;
+
+  const uploadBtn = document.getElementById("uploadBtn");
+  uploadBtn.classList.add("uploading");
+  addSystemNote(`Uploading "${file.name}"…`);
+
+  const formData = new FormData();
+  formData.append("file", file);
+
+  try {
+    const res = await fetch(UPLOAD_ENDPOINT, { method: "POST", body: formData });
+    const data = await res.json();
+
+    if (!res.ok) throw new Error(data.error || `Server error: ${res.status}`);
+
+    addSystemNote(`✅ "${file.name}" added (${data.chunks_added} chunk(s) indexed).`, "success");
+  } catch (err) {
+    addSystemNote(`⚠️ Could not upload "${file.name}": ${err.message}`, "error");
+  } finally {
+    uploadBtn.classList.remove("uploading");
+    document.getElementById("fileInput").value = "";
+  }
+}
+
+// Enter key sends
+inputEl.addEventListener("keydown", e => {
+  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); }
+});
+
+function sendChip(el) {
+  inputEl.value = el.textContent.replace(/^[^\w]+/, '').trim();
+  // hide chips after first use
+  document.getElementById("chipRow").style.display = "none";
+  sendMessage();
+}
+
+function addMessage(role, html, sources) {
+  const row = document.createElement("div");
+  row.className = `message-row ${role}`;
+
+  const av = document.createElement("div");
+  av.className = `msg-avatar ${role}`;
+  av.textContent = role === "bot" ? "🎓" : "🧑";
+
+  const bub = document.createElement("div");
+  bub.className = "bubble";
+  bub.innerHTML = html;
+
+  if (sources) {
+    const src = document.createElement("div");
+    src.className = "sources";
+    src.textContent = sources;
+    bub.appendChild(src);
+  }
+
+  row.appendChild(av);
+  row.appendChild(bub);
+  messagesEl.appendChild(row);
+  messagesEl.scrollTop = messagesEl.scrollHeight;
+  return row;
+}
+
+function addTyping() {
+  const row = document.createElement("div");
+  row.className = "message-row bot";
+  row.id = "typingIndicator";
+
+  const av = document.createElement("div");
+  av.className = "msg-avatar bot";
+  av.textContent = "🎓";
+
+  const bub = document.createElement("div");
+  bub.className = "bubble typing-bubble";
+  bub.innerHTML = "<span></span><span></span><span></span>";
+
+  row.appendChild(av);
+  row.appendChild(bub);
+  messagesEl.appendChild(row);
+  messagesEl.scrollTop = messagesEl.scrollHeight;
+  return row;
+}
+
+async function sendMessage() {
+  const text = inputEl.value.trim();
+  if (!text) return;
+
+  // Hide chips after first message
+  document.getElementById("chipRow").style.display = "none";
+
+  addMessage("user", escapeHtml(text));
+  inputEl.value = "";
+
+  const typing = addTyping();
+
+  try {
+    const res = await fetch(BACKEND, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: text })
+    });
+
+    if (!res.ok) throw new Error(`Server error: ${res.status}`);
+    const data = await res.json();
+
+    typing.remove();
+    addMessage("bot", escapeHtml(data.answer).replace(/\n/g, "<br>"), data.sources || null);
+
+  } catch (err) {
+    typing.remove();
+    addMessage("bot",
+      `⚠️ Could not reach the backend.<br><small>Make sure the Flask server cell is running in Jupyter on port 5050.<br><em>${err.message}</em></small>`
+    );
+  }
+}
+
+function escapeHtml(t) {
+  return t.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
+</script>
+
+</body>
+</html>

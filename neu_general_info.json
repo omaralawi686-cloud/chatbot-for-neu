@@ -1,0 +1,135 @@
+{
+  "university": {
+    "name": "Near East University",
+    "name_turkish": "Yakın Doğu Üniversitesi",
+    "abbreviation": "NEU",
+    "abbreviation_turkish": "YDÜ",
+    "founded": 1988,
+    "type": "Private",
+    "founder": "Suat Günsel",
+    "chairman_board_of_trustees": "Irfan Günsel",
+    "location": {
+      "address": "Near East Boulevard",
+      "city": "Nicosia",
+      "country": "Turkish Republic of Northern Cyprus (TRNC)",
+      "postal_code": "99138",
+      "mail_address": "Mersin 10, Turkey",
+      "coordinates": {
+        "latitude": 35.2274,
+        "longitude": 33.3183
+      },
+      "google_maps": "https://www.google.com/maps?ll=35.226735,33.326385&z=15"
+    },
+    "contact": {
+      "phone": [
+        "+90 (392) 223 64 64",
+        "+90 (392) 680 20 00"
+      ],
+      "fax": "+90 (392) 223 64 61",
+      "email": "info@neu.edu.tr",
+      "whatsapp": "+90 548 843 05 35",
+      "international_students_office_whatsapp": "+90 548 818 08 18",
+      "website": "https://neu.edu.tr",
+      "prospective_students_portal": "https://aday.neu.edu.tr",
+      "phone_directory_website": "https://neu.edu.tr/phone-directory/?lang=en",
+      "staff_room_numbers_note": "Individual professor office/room numbers are not publicly listed. Use the phone directory or contact the faculty directly."
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/YakinDoguUniversitesiOfficial/",
+      "twitter": "https://twitter.com/YakinDoguUni",
+      "instagram": "https://www.instagram.com/YakinDoguUniversitesiOfficial/",
+      "youtube": "https://www.youtube.com/channel/UCakoFxzp6LXKlbCf4IdQhVA/",
+      "linkedin": "https://www.linkedin.com/company/yakin-dogu-university"
+    },
+    "statistics": {
+      "total_students": "25000+",
+      "countries_represented": "100+",
+      "faculties": 20,
+      "departments": "98+",
+      "graduate_schools": 5,
+      "vocational_schools": 4,
+      "research_centers": 28,
+      "undergraduate_programs": 196,
+      "masters_programs": 240,
+      "doctoral_programs": "included in masters count",
+      "high_schools_on_campus": 2
+    },
+    "rankings": {
+      "qs_world_ranking_engineering": "Top 250",
+      "qs_world_ranking_computer_science": "Top 250",
+      "qs_wur_subject_2026": "#701-750",
+      "regional_status": "Largest university in Northern Cyprus"
+    },
+    "vision_mission": {
+      "mission": "To educate self-confident, highly qualified, dedicated and determined individuals; to be a campus that produces science.",
+      "values": [
+        "International identity",
+        "Academic excellence",
+        "Research and innovation",
+        "Multicultural environment",
+        "Critical and pluralist thinking"
+      ]
+    },
+    "accreditations_and_memberships": [
+      {
+        "name": "Joint Commission International (JCI)",
+        "scope": "NEU Hospital",
+        "year": 2009
+      },
+      {
+        "name": "Accreditation Council for Pharmacy Education (ACPE)",
+        "scope": "Faculty of Pharmacy",
+        "year": 2014
+      },
+      {
+        "name": "European University Association (EUA)",
+        "scope": "Full member"
+      },
+      {
+        "name": "International Association of Universities (IAU/UNESCO)",
+        "scope": "Full member"
+      },
+      {
+        "name": "International Society for Engineering Education (IGIP)",
+        "scope": "Full member"
+      },
+      {
+        "name": "Federation of the Universities of the Islamic World (FUIW)",
+        "scope": "Full member"
+      }
+    ],
+    "connected_institutions": [
+      {
+        "name": "NEU Hospital (Near East Hospital)",
+        "website": "https://neareasthospital.com",
+        "note": "JCI accredited, 55,000 m², most advanced in Northern Cyprus"
+      },
+      {
+        "name": "University of Kyrenia",
+        "website": "https://kyrenia.edu.tr"
+      },
+      {
+        "name": "Dr. Suat Günsel University of Kyrenia Hospital",
+        "website": "https://hospital.kyrenia.edu.tr"
+      },
+      {
+        "name": "Near East Colleges (K-12)",
+        "website": "https://nec.k12.tr",
+        "levels": [
+          "Kindergarten",
+          "Primary School",
+          "Middle School",
+          "High School"
+        ]
+      },
+      {
+        "name": "Near East Bank",
+        "website": "https://www.neareastbank.com"
+      },
+      {
+        "name": "Günsel Electric Vehicle",
+        "website": "https://www.gunsel.com.tr/en"
+      }
+    ]
+  }
+}

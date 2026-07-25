@@ -1,0 +1,307 @@
+{
+  "faculties": [
+    {
+      "id": "F01",
+      "name": "Faculty of Architecture",
+      "website": "https://mimarlik.neu.edu.tr",
+      "departments": [
+        "Architecture (Turkish Program)",
+        "Architecture (English Program)",
+        "Interior Architecture"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"],
+      "language_options": ["Turkish", "English"]
+    },
+    {
+      "id": "F02",
+      "name": "Atatürk Faculty of Education",
+      "website": "https://egitim.neu.edu.tr",
+      "departments": [
+        "Department of Computer Education and Instructional Technologies",
+        "Philosophy Group Teaching Department",
+        "Science Education Department",
+        "Department of Arts and Craft Education",
+        "Music Teaching Department",
+        "Preschool Education Department",
+        "Special Education Teaching Department",
+        "Guidance and Psychological Counselling Department",
+        "Classroom Teaching Department",
+        "Social Studies Teaching Department"
+      ],
+      "degree_types": ["BA", "BSc", "MA", "PhD"]
+    },
+    {
+      "id": "F03",
+      "name": "Faculty of Dentistry",
+      "website": "https://dentistry.neu.edu.tr",
+      "departments": [
+        "Oral, Dental and Maxillofacial Surgery",
+        "Oral, Dental and Maxillofacial Radiology",
+        "Endodontics",
+        "Department of Orthodontics",
+        "Department of Pedodontics",
+        "Department of Periodontology",
+        "Department of Prosthesis",
+        "Department of Restorative Dentistry",
+        "Department of Basic Medical Sciences"
+      ],
+      "degree_types": ["DDS", "MSc", "PhD"],
+      "note": "Only dentistry faculty in Northern Cyprus"
+    },
+    {
+      "id": "F04",
+      "name": "Faculty of Pharmacy",
+      "website": "https://eczacilik.neu.edu.tr",
+      "departments": [
+        "Pharmacy"
+      ],
+      "degree_types": ["PharmD", "MSc", "PhD"],
+      "accreditation": "Accreditation Council for Pharmacy Education (ACPE), 2014"
+    },
+    {
+      "id": "F05",
+      "name": "Faculty of Arts and Sciences",
+      "website": "https://fenedebiyat.neu.edu.tr",
+      "departments": [
+        "Department of Molecular Biology and Genetics",
+        "Department of English Language and Literature",
+        "Department of Mathematics",
+        "Department of Turkish Language and Literature",
+        "Department of Psychology (Turkish Program)",
+        "Department of Psychology (English Program)",
+        "Department of History",
+        "Department of Geography",
+        "Translation Science"
+      ],
+      "degree_types": ["BSc", "BA", "MSc", "MA", "PhD"],
+      "language_options": ["Turkish", "English"]
+    },
+    {
+      "id": "F06",
+      "name": "Faculty of Fine Arts and Design",
+      "website": "https://guzelsanatlar.neu.edu.tr",
+      "departments": [
+        "Graphic Design Department",
+        "Plastic Arts Department"
+      ],
+      "degree_types": ["BA", "MA"]
+    },
+    {
+      "id": "F07",
+      "name": "Faculty of Nursing",
+      "website": "https://hemsirelik.neu.edu.tr",
+      "departments": [
+        "Nursing"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"]
+    },
+    {
+      "id": "F08",
+      "name": "Faculty of Law",
+      "website": "https://hukuk.neu.edu.tr",
+      "departments": [
+        "Law"
+      ],
+      "degree_types": ["LLB", "LLM", "PhD"]
+    },
+    {
+      "id": "F09",
+      "name": "Faculty of Economics and Administrative Sciences",
+      "website": "https://iktisat.neu.edu.tr",
+      "departments": [
+        "Business Administration",
+        "Economics",
+        "Marketing",
+        "Management Information Systems",
+        "International Relations",
+        "International Business",
+        "Banking and Finance",
+        "Political Science",
+        "Human Resources Management",
+        "Tourism Management",
+        "Public Administration",
+        "Department of European Union Relations",
+        "Insurance and Actuarial Department",
+        "Health Care Organizations Management",
+        "Information and Document Management"
+      ],
+      "degree_types": ["BA", "BSc", "MA", "MSc", "PhD"],
+      "language_options": ["Turkish", "English"]
+    },
+    {
+      "id": "F10",
+      "name": "Faculty of Civil and Environmental Engineering",
+      "website": "https://insaatvecevre.neu.edu.tr",
+      "departments": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"]
+    },
+    {
+      "id": "F11",
+      "name": "Faculty of Theology",
+      "website": "https://ilahiyat.neu.edu.tr",
+      "departments": [
+        "Theology"
+      ],
+      "degree_types": ["BA", "MA", "PhD"]
+    },
+    {
+      "id": "F12",
+      "name": "Faculty of Communication",
+      "website": "https://iletisim.neu.edu.tr",
+      "departments": [
+        "Advertising and Public Relations",
+        "Journalism",
+        "Radio and Television",
+        "Visual Communication Design"
+      ],
+      "degree_types": ["BA", "MA"]
+    },
+    {
+      "id": "F13",
+      "name": "Faculty of Engineering",
+      "website": "https://muhendislik.neu.edu.tr",
+      "departments": [
+        "Department of Computer Engineering",
+        "Department of Electrical and Electronics Engineering",
+        "Artificial Intelligence Engineering Department",
+        "Department of Mechanical Engineering",
+        "Department of Biomedical Engineering",
+        "Department of Information Systems Engineering",
+        "Department of Food Engineering",
+        "Automotive Engineering Department",
+        "Software Engineering Department",
+        "Department of Petroleum and Natural Gas Engineering",
+        "Department of Mechatronics Engineering",
+        "Department of Materials Science and Nanotechnology Engineering"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"],
+      "ranking": "Top 250 globally (QS)"
+    },
+    {
+      "id": "F14",
+      "name": "Faculty of Health Sciences",
+      "website": "https://saglikbilimleri.neu.edu.tr",
+      "departments": [
+        "Health Sciences"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"]
+    },
+    {
+      "id": "F15",
+      "name": "Faculty of Sports Sciences",
+      "website": "https://sporbilimleri.neu.edu.tr",
+      "departments": [
+        "Physical Education and Sports Teaching Department",
+        "Department of Sports Management",
+        "Coaching Training",
+        "Recreation Department"
+      ],
+      "degree_types": ["BSc", "MSc"]
+    },
+    {
+      "id": "F16",
+      "name": "Faculty of Medicine",
+      "website": "https://medicine.neu.edu.tr",
+      "departments": [
+        "Medicine"
+      ],
+      "degree_types": ["MD", "MSc", "PhD"],
+      "established": 2008,
+      "note": "Only medical faculty in Northern Cyprus; hospital inaugurated 2009"
+    },
+    {
+      "id": "F17",
+      "name": "Faculty of Tourism",
+      "website": "https://turizm.neu.edu.tr",
+      "departments": [
+        "Tourism and Hotel Management (Turkish Program)",
+        "Tourism and Hotel Management (English Program)",
+        "Gastronomy",
+        "Cookery"
+      ],
+      "degree_types": ["BSc", "MSc"],
+      "language_options": ["Turkish", "English"]
+    },
+    {
+      "id": "F18",
+      "name": "Faculty of Veterinary Medicine",
+      "website": "https://veterinary.neu.edu.tr",
+      "departments": [
+        "Veterinary Medicine"
+      ],
+      "degree_types": ["DVM", "MSc", "PhD"]
+    },
+    {
+      "id": "F19",
+      "name": "Faculty of Artificial Intelligence and Informatics",
+      "website": "https://aif.neu.edu.tr",
+      "departments": [
+        "Artificial Intelligence",
+        "Informatics"
+      ],
+      "degree_types": ["BSc", "MSc", "PhD"],
+      "note": "Dedicated faculty for AI programs"
+    },
+    {
+      "id": "F20",
+      "name": "Faculty of Agriculture",
+      "website": "https://ziraat.neu.edu.tr",
+      "departments": [
+        "Plant Production and Technologies"
+      ],
+      "degree_types": ["BSc", "MSc"]
+    }
+  ],
+  "vocational_schools": [
+    {
+      "name": "Computer Technologies and Programming",
+      "degree": "Associate Degree"
+    },
+    {
+      "name": "Construction Technology",
+      "degree": "Associate Degree"
+    },
+    {
+      "name": "First and Emergency Aid",
+      "degree": "Associate Degree"
+    },
+    {
+      "name": "Public Relations and Advertising",
+      "degree": "Associate Degree"
+    },
+    {
+      "name": "Radio and TV Programming",
+      "degree": "Associate Degree"
+    }
+  ],
+  "applied_schools": [
+    {
+      "name": "School of Justice",
+      "url": "https://neu.edu.tr/academic/applied-schools/?lang=en"
+    },
+    {
+      "name": "School of Tourism and Management",
+      "url": "https://neu.edu.tr/academic/applied-schools/?lang=en"
+    }
+  ],
+  "graduate_schools": [
+    {
+      "name": "Institute of Graduate Studies",
+      "website": "https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en",
+      "programs_count": "200+",
+      "degree_types": ["MSc", "MA", "MBA", "PhD"]
+    }
+  ],
+  "common_courses": [
+    "German (Common Courses)",
+    "Physics (Common Courses)",
+    "French (Common Courses)",
+    "Chemistry (Common Courses)",
+    "Mathematics (Common Courses)",
+    "English (Common Courses)",
+    "Turkish for Foreigners (Common Courses)"
+  ]
+}

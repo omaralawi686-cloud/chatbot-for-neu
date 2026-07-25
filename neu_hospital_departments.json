@@ -1,0 +1,904 @@
+{
+  "_metadata": {
+    "source": "Near East University Hospital – neareasthospital.com",
+    "last_updated": "2026-06-27",
+    "total_departments": 55,
+    "note": "All floor/block/hours data fetched directly from individual department pages. DEP53 (Medical Genetics Diagnostic Laboratory) is the same unit as DEP24 (Genetics) and is merged there. Hours are outpatient clinic hours unless otherwise stated.",
+    "hospital_structure": {
+      "total_area_sqm": 55000,
+      "blocks": [
+        "East Block",
+        "West Block"
+      ],
+      "floors_east": "Ground (0) through 4th floor",
+      "floors_west": "Ground (0) through 9th floor",
+      "total_patient_rooms": 209,
+      "vip_rooms": 22,
+      "max_bed_capacity": 500
+    },
+    "contact": {
+      "phone": "+90 392 444 0 535",
+      "website": "https://neareasthospital.com",
+      "address": "Near East University Hospital, Near East Boulevard, Nicosia, North Cyprus"
+    },
+    "appointment_booking": {
+      "website": "https://neareasthospital.com",
+      "phone": "+90 392 444 0 535",
+      "note": "Appointments can be booked online or by phone."
+    }
+  },
+  "departments": {
+    "DEP01": {
+      "name_en": "Emergency Medicine",
+      "name_tr": "Acil Tıp",
+      "url": "https://neareasthospital.com/departments/emergency-medicine/",
+      "floor": "1st Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_sunday": "24/7 – Open every day, all hours"
+      },
+      "facilities": [
+        "Resuscitation room",
+        "Trauma room",
+        "Minor procedure room",
+        "3 examination rooms",
+        "4 triage rooms",
+        "12-bed observation area with bedside monitors"
+      ],
+      "notes": "24/7 emergency services including trauma, cardiac arrest, stroke; direct admission to ICU if needed"
+    },
+    "DEP02": {
+      "name_en": "Allergy and Immunology",
+      "name_tr": "Alerji ve İmmünoloji",
+      "url": "https://neareasthospital.com/departments/allergy-and-immunology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Adult allergy and immunology polyclinic; treats allergic rhinitis, asthma, food/drug/insect allergies, skin allergies, primary immunodeficiencies"
+    },
+    "DEP03": {
+      "name_en": "Anesthesiology and Reanimation",
+      "name_tr": "Anesteziyoloji ve Reanimasyon",
+      "url": "https://neareasthospital.com/departments/anesthesiology-and-reanimation/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "General, regional, spinal, epidural and sedation anaesthesia; pain management clinic; operates in all surgical theatres across the hospital"
+    },
+    "DEP04": {
+      "name_en": "Nutrition and Dietetics",
+      "name_tr": "Beslenme ve Diyetetik",
+      "url": "https://neareasthospital.com/departments/nutrition-and-dietetics/",
+      "floor": "6th Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Clinical nutrition counselling; weight management; therapeutic diets for diabetes, renal disease, oncology patients"
+    },
+    "DEP05": {
+      "name_en": "Brain and Neurosurgery",
+      "name_tr": "Beyin ve Sinir Cerrahisi",
+      "url": "https://neareasthospital.com/departments/brain-and-neurosurgery/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Established 2010; 24/7 emergency neurosurgical services; brain/spinal cord tumours, waist/neck hernias, paediatric neurosurgery, hydrocephalus. Head: Prof. Dr. Doğa GÜRKANLAR"
+    },
+    "DEP06": {
+      "name_en": "Biochemistry Laboratory",
+      "name_tr": "Biyokimya Laboratuvarı",
+      "url": "https://neareasthospital.com/departments/biochemistry-laboratory/",
+      "floor": "Ground Floor (0. Kat)",
+      "block": "East Block",
+      "hours": {
+        "monday_sunday": "24/7 – Open every day, all hours"
+      },
+      "notes": "Over 700,000 tests/year; more than 200 test types; automated high-throughput analysers; includes toxicology and special chemistry panels"
+    },
+    "DEP07": {
+      "name_en": "Pediatric Surgery",
+      "name_tr": "Çocuk Cerrahisi",
+      "url": "https://neareasthospital.com/departments/pediatric-surgery/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Surgical treatment of congenital anomalies, trauma, tumours and acquired diseases in children; neonatal surgery capability"
+    },
+    "DEP08": {
+      "name_en": "Pediatric Endocrinology",
+      "name_tr": "Çocuk Endokrinolojisi",
+      "url": "https://neareasthospital.com/departments/pediatric-endocrinology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Diagnosis and treatment of hormonal disorders in children and adolescents; diabetes, growth disorders, thyroid diseases"
+    },
+    "DEP09": {
+      "name_en": "Pediatric Gastroenterology",
+      "name_tr": "Çocuk Gastroenterolojisi",
+      "url": "https://neareasthospital.com/departments/pediatric-gastroenterology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Digestive, liver and nutritional disorders in children; endoscopy capability for paediatric patients"
+    },
+    "DEP10": {
+      "name_en": "Pediatric Immunology and Allergy",
+      "name_tr": "Çocuk İmmünoloji ve Alerji",
+      "url": "https://neareasthospital.com/departments/pediatric-immunology-and-allergy/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Primary immunodeficiencies and allergic diseases in children; skin prick tests and allergy panels for paediatric patients"
+    },
+    "DEP11": {
+      "name_en": "Pediatric Cardiology",
+      "name_tr": "Çocuk Kardiyolojisi",
+      "url": "https://neareasthospital.com/departments/pediatrics-cardiology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Cardiac diseases from foetal period to age 18; foetal echocardiography, Holter ECG, effort test, tilt test, cardiac catheterisation unit"
+    },
+    "DEP12": {
+      "name_en": "Pediatric Nephrology",
+      "name_tr": "Çocuk Nefrolojisi",
+      "url": "https://neareasthospital.com/departments/pediatric-nephrology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Kidney diseases in children; hypertension, nephrotic syndrome, urinary tract infections; peritoneal dialysis for children"
+    },
+    "DEP13": {
+      "name_en": "Pediatric Neurology",
+      "name_tr": "Çocuk Nörolojisi",
+      "url": "https://neareasthospital.com/departments/pediatric-neurology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Epilepsy, developmental disorders, cerebral palsy, neuromuscular diseases in children; EEG laboratory"
+    },
+    "DEP14": {
+      "name_en": "Child and Adolescent Psychiatry",
+      "name_tr": "Çocuk ve Ergen Psikiyatrisi",
+      "url": "https://neareasthospital.com/departments/child-and-adolescent-psychiatry/",
+      "floor": "6th Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "ADHD, autism spectrum disorder, anxiety, depression, learning difficulties in children and adolescents; psychological testing"
+    },
+    "DEP15": {
+      "name_en": "Pediatric Rheumatology",
+      "name_tr": "Çocuk Romatolojisi",
+      "url": "https://neareasthospital.com/departments/pediatric-rheumatology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Juvenile idiopathic arthritis, lupus, vasculitis and other rheumatic diseases in children"
+    },
+    "DEP16": {
+      "name_en": "Pediatric Health and Diseases (Pediatrics)",
+      "name_tr": "Çocuk Sağlığı ve Hastalıkları",
+      "url": "https://neareasthospital.com/departments/pediatric-health-and-diseases/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "facilities": [
+        "Neonatal Intensive Care Unit (NICU)"
+      ],
+      "notes": "General paediatrics from newborn to adolescence; vaccination, growth monitoring, well-child visits; 17-bed NICU"
+    },
+    "DEP17": {
+      "name_en": "Dermatology",
+      "name_tr": "Dermatoloji",
+      "url": "https://neareasthospital.com/departments/dermatology/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Skin, hair and nail diseases; dermatoscopy, patch testing, cryotherapy, laser dermatology, PDT"
+    },
+    "DEP18": {
+      "name_en": "Endocrinology and Metabolic Diseases",
+      "name_tr": "Endokrinoloji ve Metabolizma Hastalıkları",
+      "url": "https://neareasthospital.com/departments/endocrinology-and-metabolic-diseases/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Diabetes mellitus, thyroid diseases, adrenal disorders, pituitary diseases, metabolic syndrome, osteoporosis"
+    },
+    "DEP19": {
+      "name_en": "Infectious Diseases and Clinical Microbiology",
+      "name_tr": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji",
+      "url": "https://neareasthospital.com/departments/infectious-diseases-and-clinical-microbiology/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "HIV/AIDS, hepatitis, tuberculosis, tropical diseases, travel medicine, antibiotic stewardship, hospital infection control"
+    },
+    "DEP20": {
+      "name_en": "Physical Medicine and Rehabilitation",
+      "name_tr": "Fiziksel Tıp ve Rehabilitasyon",
+      "url": "https://neareasthospital.com/departments/physical-medicine-and-rehabilitation/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Musculoskeletal rehabilitation, post-stroke rehabilitation, back and neck pain, electrotherapy, hydrotherapy, occupational therapy"
+    },
+    "DEP21": {
+      "name_en": "Gastroenterology",
+      "name_tr": "Gastroenteroloji",
+      "url": "https://neareasthospital.com/departments/gastroenterology/",
+      "floor": "Not specified on department page",
+      "block": "Not specified on department page",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Digestive system diseases; upper and lower GI endoscopy, ERCP, colonoscopy, liver diseases, IBD",
+      "floor_note": "Floor not specified on department page. Contact hospital directly or visit department page.",
+      "department_url": "https://neareasthospital.com/departments/gastroenterology/"
+    },
+    "DEP22": {
+      "name_en": "General Surgery",
+      "name_tr": "Genel Cerrahi",
+      "url": "https://neareasthospital.com/departments/general-surgery/",
+      "floor": "1st Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Laparoscopic and open surgery; bariatric surgery, colorectal surgery, hernia repair, thyroid/parathyroid surgery, breast surgery"
+    },
+    "DEP23": {
+      "name_en": "Geriatrics",
+      "name_tr": "Geriatri",
+      "url": "https://neareasthospital.com/departments/geriatrics/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Comprehensive geriatric assessment; dementia, falls prevention, polypharmacy management, frailty, palliative care coordination"
+    },
+    "DEP24": {
+      "name_en": "Genetics – Medical Genetics Diagnostic Laboratory",
+      "name_tr": "Tıbbi Genetik / Genetik Tanı Laboratuvarı",
+      "url": "https://neareasthospital.com/departments/genetics/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Only cytogenetics laboratory of its kind in Northern Cyprus; chromosomal analysis, molecular genetics, prenatal diagnosis, genetic counselling. Also listed as DEP53 (Medical Genetics Diagnostic Laboratory) – same unit."
+    },
+    "DEP25": {
+      "name_en": "Interventional Radiology",
+      "name_tr": "Girişimsel Radyoloji",
+      "url": "https://neareasthospital.com/departments/interventional-radiology/",
+      "floor": "1st Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Minimally invasive image-guided procedures; angioplasty, embolisation, biopsies, drainage procedures, vascular access"
+    },
+    "DEP26": {
+      "name_en": "Thoracic Surgery",
+      "name_tr": "Göğüs Cerrahisi",
+      "url": "https://neareasthospital.com/departments/thoracic-surgery/",
+      "floor": "6th Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Lung, pleura, mediastinum, chest wall and tracheal surgery; VATS (video-assisted thoracoscopic surgery); oesophageal surgery"
+    },
+    "DEP27": {
+      "name_en": "Chest Diseases (Pulmonology)",
+      "name_tr": "Göğüs Hastalıkları",
+      "url": "https://neareasthospital.com/departments/chest-diseases/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Asthma, COPD, sleep-disordered breathing, interstitial lung diseases, lung cancer, bronchoscopy; connected with Sleep Laboratory"
+    },
+    "DEP28": {
+      "name_en": "Ophthalmology (Eye Diseases)",
+      "name_tr": "Göz Hastalıkları",
+      "url": "https://neareasthospital.com/departments/ophthalmology/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Cataract, glaucoma, retinal diseases, strabismus, corneal diseases, refractive surgery; LASIK capability"
+    },
+    "DEP29": {
+      "name_en": "Haematology",
+      "name_tr": "Hematoloji",
+      "url": "https://neareasthospital.com/departments/haematology/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Blood cancers (leukaemia, lymphoma, myeloma), anaemias, coagulation disorders; bone marrow biopsy; chemotherapy unit"
+    },
+    "DEP30": {
+      "name_en": "Internal Medicine",
+      "name_tr": "İç Hastalıkları",
+      "url": "https://neareasthospital.com/departments/internal-medicine/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "General adult medicine; diabetes, hypertension, infections, anaemia; inpatient ward; coordinates subspecialty referrals"
+    },
+    "DEP31": {
+      "name_en": "Cardiovascular Surgery",
+      "name_tr": "Kalp ve Damar Cerrahisi",
+      "url": "https://neareasthospital.com/departments/cardiovascular-surgery/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "facilities": [
+        "10-bed ward",
+        "4-bed Cardiovascular Surgery ICU",
+        "2 dedicated operating theatres"
+      ],
+      "notes": "Established 2010; open-heart surgery, coronary bypass, valve replacement, aortic surgery, peripheral vascular surgery; ~600 open-heart and ~500 peripheral vascular cases performed since opening"
+    },
+    "DEP32": {
+      "name_en": "Gynaecology and Obstetrics",
+      "name_tr": "Kadın Hastalıkları ve Doğum",
+      "url": "https://neareasthospital.com/departments/gynaecology-and-obstetrics/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "facilities": [
+        "17-bed Neonatal ICU"
+      ],
+      "notes": "~1,500 patient examinations, ~50 gynaecological procedures, ~1,000 ultrasounds and ~20 foetal echocardiograms per month; high-risk obstetrics; laparoscopic gynaecological surgery"
+    },
+    "DEP33": {
+      "name_en": "Female Urology",
+      "name_tr": "Kadın Ürolojisi",
+      "url": "https://neareasthospital.com/departments/female-urology/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Urinary incontinence, vaginal prolapse, pelvic pain syndromes, sexual dysfunctions, reconstructive urology; collaborative with Plastic Surgery and Urology. Specialists: Prof. Dr. Ali Ulvi ÖNDER, Assoc. Prof. Dr. Necmi BAYRAKTAR"
+    },
+    "DEP34": {
+      "name_en": "Blood Bank",
+      "name_tr": "Kan Bankası",
+      "url": "https://neareasthospital.com/departments/blood-bank/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "donor_acceptance": "08:00–22:00 daily (emergency donations accepted outside these hours)",
+        "monday_friday": "08:00–17:00 (laboratory services)"
+      },
+      "notes": "Operational since June 2010; blood component preparation, crossmatching, compatibility testing; emergency 24/7 supply to surgical and ICU patients"
+    },
+    "DEP35": {
+      "name_en": "Cardiology",
+      "name_tr": "Kardiyoloji",
+      "url": "https://neareasthospital.com/departments/cardiology/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "facilities": [
+        "24-hour Coronary Intensive Care Unit (10 beds)",
+        "Cardiac Check-up Unit",
+        "Effort Test Laboratory",
+        "Nuclear Cardiology Unit"
+      ],
+      "notes": "ECG, echocardiography, Holter monitoring, angiography, pacemaker implantation, cardiac catheterisation; Nuclear Cardiology with PET imaging"
+    },
+    "DEP36": {
+      "name_en": "Ear, Nose and Throat (ENT / Otorhinolaryngology)",
+      "name_tr": "Kulak Burun Boğaz",
+      "url": "https://neareasthospital.com/departments/ear-nose-and-throat/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "~10,000 patients/year; ~500 surgeries/year; hearing tests, tympanometry, endoscopy; tonsil, sinus, middle ear, thyroid surgeries; cochlear implant assessment"
+    },
+    "DEP37": {
+      "name_en": "Medical Oncology",
+      "name_tr": "Medikal Onkoloji",
+      "url": "https://neareasthospital.com/departments/medical-oncology/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Chemotherapy, targeted therapy, immunotherapy, hormonal therapy; day chemotherapy unit; multidisciplinary tumour board coordination"
+    },
+    "DEP38": {
+      "name_en": "Molecular Microbiology Laboratory",
+      "name_tr": "Moleküler Mikrobiyoloji Laboratuvarı",
+      "url": "https://neareasthospital.com/departments/molecular-microbiology-laboratory/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "PCR-based molecular diagnostic testing; respiratory pathogen panel, STD panel, hepatitis B/C quantification, HIV viral load, HPV genotyping; ISO-compliant protocols"
+    },
+    "DEP39": {
+      "name_en": "Nephrology",
+      "name_tr": "Nefroloji",
+      "url": "https://neareasthospital.com/departments/nephrology/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Serves patients aged 16 and above; chronic kidney disease, dialysis (haemodialysis and peritoneal), glomerulonephritis, hypertension-related kidney disease; kidney biopsy"
+    },
+    "DEP40": {
+      "name_en": "Neurology",
+      "name_tr": "Nöroloji",
+      "url": "https://neareasthospital.com/departments/neurology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "sub_clinics": [
+        "Headache Clinic",
+        "Parkinson's and Movement Disorders Clinic",
+        "Stroke Unit",
+        "Multiple Sclerosis Clinic",
+        "Dementia Clinic",
+        "Epilepsy Clinic",
+        "Video-EEG Monitoring Unit (only one on the island)"
+      ],
+      "notes": "Comprehensive neurology with island-exclusive Video-EEG monitoring unit; EMG, EEG, evoked potentials; botulinum toxin clinic"
+    },
+    "DEP41": {
+      "name_en": "Nuclear Medicine",
+      "name_tr": "Nükleer Tıp",
+      "url": "https://neareasthospital.com/departments/nuclear-medicine/",
+      "floor": "1st Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "equipment": [
+        "GE Discovery STE 16 PET/CT – first and only PET/CT in Cyprus",
+        "Dual-head SPECT gamma camera",
+        "Inpatient rooms for high-dose radionuclide therapy (thyroid cancer I-131)"
+      ],
+      "notes": "PET/CT oncology staging and therapy monitoring; thyroid scintigraphy and radioiodine therapy; bone, cardiac and renal scintigraphy"
+    },
+    "DEP42": {
+      "name_en": "Obesity, Diabetes and Reflux Surgery",
+      "name_tr": "Obezite, Diyabet ve Reflü Cerrahisi",
+      "url": "https://neareasthospital.com/departments/obesity-diabetes-and-reflux-surgery/",
+      "floor": "Not specified on department page",
+      "block": "Not specified on department page",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Sleeve gastrectomy, gastric bypass, SADI-S; anti-reflux surgery (Nissen fundoplication); multidisciplinary team including dietitian, psychologist, endocrinologist",
+      "floor_note": "Floor not specified on department page. Contact hospital directly or visit department page.",
+      "department_url": "https://neareasthospital.com/departments/obesity-diabetes-and-reflux-surgery/"
+    },
+    "DEP43": {
+      "name_en": "Orthopaedics and Traumatology",
+      "name_tr": "Ortopedi ve Travmatoloji",
+      "url": "https://neareasthospital.com/departments/orthopaedics-and-traumatology/",
+      "floor": "3rd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Established 2010; joint replacement (hip, knee, shoulder), arthroscopy, sports injuries, fracture fixation, spine surgery, paediatric orthopaedics. Specialist: Assoc. Prof. Dr. Deniz AYDIN"
+    },
+    "DEP44": {
+      "name_en": "Pathology",
+      "name_tr": "Patoloji",
+      "url": "https://neareasthospital.com/departments/pathology/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Surgical pathology, histopathology, cytopathology (Pap smear screening), immunohistochemistry, molecular pathology; forensic and scientific autopsies"
+    },
+    "DEP45": {
+      "name_en": "Plastic, Reconstructive and Aesthetic Surgery",
+      "name_tr": "Plastik, Rekonstrüktif ve Estetik Cerrahi",
+      "url": "https://neareasthospital.com/departments/plastic-reconstructive-and-aesthetics-surgery/",
+      "floor": "2nd Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Reconstructive surgery, aesthetic surgery (rhinoplasty, liposuction, breast surgery, facelifts), laser treatments, scar treatment, hand surgery, melanoma, burn reconstruction"
+    },
+    "DEP46": {
+      "name_en": "Radiation Oncology",
+      "name_tr": "Radyasyon Onkolojisi",
+      "url": "https://neareasthospital.com/departments/radiation-oncology/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "equipment": [
+        "RapidArc (VMAT) – distinguishes the unit from other Cypriot institutions",
+        "Brachytherapy unit"
+      ],
+      "notes": "Operational since April 2010; curative and palliative radiotherapy for all cancer types; IMRT, IGRT, stereotactic radiosurgery, SRS, SBRT"
+    },
+    "DEP47": {
+      "name_en": "Radiology",
+      "name_tr": "Radyoloji",
+      "url": "https://neareasthospital.com/departments/radiology/",
+      "floor": "1st Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "equipment": [
+        "1.5 Tesla 48-channel MRI – Siemens Magnetom Aera",
+        "256-slice CT scanner",
+        "Digital mammography",
+        "Digital angiography system"
+      ],
+      "notes": "Full diagnostic imaging services; CT angiography, MRI, mammography, ultrasound, plain X-ray, fluoroscopy; 24/7 on-call radiology for emergency imaging"
+    },
+    "DEP48": {
+      "name_en": "Rheumatology",
+      "name_tr": "Romatoloji",
+      "url": "https://neareasthospital.com/departments/rheumatology/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Rheumatoid arthritis, lupus (SLE), ankylosing spondylitis, psoriatic arthritis, gout, fibromyalgia; biological therapy administration; joint injection clinic"
+    },
+    "DEP49": {
+      "name_en": "Psychiatry / Mental Health and Diseases",
+      "name_tr": "Ruh Sağlığı ve Hastalıkları",
+      "url": "https://neareasthospital.com/departments/psychiatry/",
+      "floor": "6th Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "facilities": [
+        "Psychometry Laboratory",
+        "ECT (Electroconvulsive Therapy) Unit"
+      ],
+      "notes": "Depression, anxiety, bipolar disorder, schizophrenia, addiction; ECT available; psychological testing; inpatient psychiatric ward"
+    },
+    "DEP50": {
+      "name_en": "Sports Medicine",
+      "name_tr": "Spor Hekimliği",
+      "url": "https://neareasthospital.com/departments/sports-medicine/",
+      "floor": "Ground Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Sports injury diagnosis and treatment; athlete performance assessment; doping control; exercise prescription for chronic diseases; rehabilitation coordination"
+    },
+    "DEP51": {
+      "name_en": "Smoking Cessation Clinic",
+      "name_tr": "Sigara Polikliniği",
+      "url": "https://neareasthospital.com/departments/smoking-cessation-clinic/",
+      "floor": "6th Floor",
+      "block": "West Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Pharmacotherapy (NRT, varenicline, bupropion) combined with behavioural support; CO breath testing; individual and group sessions"
+    },
+    "DEP52": {
+      "name_en": "Sleep Laboratory",
+      "name_tr": "Uyku Laboratuvarı",
+      "url": "https://neareasthospital.com/departments/sleep-laboratory/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00 (referrals/consultations)",
+        "overnight_studies": "Studies conducted overnight in private home-like rooms"
+      },
+      "notes": "Full overnight polysomnography with video monitoring; CPAP titration; sleep apnoea, insomnia, parasomnias, narcolepsy diagnosis; works in coordination with Chest Diseases and Neurology"
+    },
+    "DEP53": {
+      "name_en": "Urology",
+      "name_tr": "Üroloji",
+      "url": "https://neareasthospital.com/departments/urology/",
+      "floor": "1st Floor",
+      "block": "East Block",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "notes": "Kidney stones (shock-wave lithotripsy, URS, PCNL), prostate diseases (TURP), bladder cancer, testicular diseases, male infertility, incontinence; uroflow laboratory; robotic surgery capability"
+    },
+    "DEP54": {
+      "name_en": "Intensive Care Units",
+      "name_tr": "Yoğun Bakım Üniteleri",
+      "url": "https://neareasthospital.com/departments/intensive-care-unit/",
+      "floor": "Various – see sub-units",
+      "block": "East and West Blocks",
+      "hours": {
+        "monday_sunday": "24/7 – Open every day, all hours"
+      },
+      "sub_units": [
+        {
+          "name": "General Intensive Care Unit",
+          "notes": "Tertiary-level care; mechanical ventilation, haemodynamic monitoring, CRRT, one-on-one specialist nursing"
+        },
+        {
+          "name": "Cardiovascular Surgery ICU",
+          "floor": "2nd Floor",
+          "block": "East Block",
+          "beds": 4
+        },
+        {
+          "name": "Coronary (Cardiology) ICU",
+          "floor": "2nd Floor",
+          "block": "East Block",
+          "beds": 10,
+          "notes": "24-hour monitoring; cardiac pacemakers, intra-aortic balloon pump, mechanical ventilation"
+        },
+        {
+          "name": "Neonatal ICU (NICU)",
+          "floor": "3rd Floor",
+          "block": "East Block",
+          "beds": 17,
+          "notes": "Attached to Gynaecology and Obstetrics and Paediatrics"
+        }
+      ]
+    },
+    "DEP55": {
+      "name_en": "Oral and Dental Health",
+      "name_tr": "Ağız ve Diş Sağlığı",
+      "url": "https://neareasthospital.com/departments/oral-and-dental-health/",
+      "floor": "Dental Hospital – separate building on NEU campus",
+      "block": "Near East University Dental Hospital",
+      "hours": {
+        "monday_friday": "08:00–17:00",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "sub_departments": [
+        "Dental and Maxillofacial Radiology",
+        "Periodontology",
+        "Restorative Dentistry",
+        "Endodontics (Root Canal Treatment)",
+        "Oral and Maxillofacial Surgery",
+        "Prosthodontics",
+        "Paedodontics (Paediatric Dentistry)",
+        "Orthodontics"
+      ],
+      "notes": "8 departments; general anaesthesia for anxious/disabled child patients; dental implants; panoramic and cephalometric radiography"
+    }
+  },
+  "quick_reference": {
+    "24_7_departments": [
+      "DEP01 – Emergency Medicine (1st Floor, West Block)",
+      "DEP06 – Biochemistry Laboratory (Ground Floor, East Block)",
+      "DEP54 – Intensive Care Units (24/7, various floors)"
+    ],
+    "ground_floor_east": [
+      "DEP06 – Biochemistry Laboratory",
+      "DEP19 – Infectious Diseases and Clinical Microbiology",
+      "DEP20 – Physical Medicine and Rehabilitation",
+      "DEP24 – Genetics / Medical Genetics Diagnostic Laboratory",
+      "DEP34 – Blood Bank",
+      "DEP44 – Pathology",
+      "DEP46 – Radiation Oncology",
+      "DEP50 – Sports Medicine"
+    ],
+    "first_floor_east": [
+      "DEP18 – Endocrinology and Metabolic Diseases",
+      "DEP23 – Geriatrics",
+      "DEP27 – Chest Diseases (Pulmonology)",
+      "DEP30 – Internal Medicine",
+      "DEP33 – Female Urology",
+      "DEP38 – Molecular Microbiology Laboratory",
+      "DEP39 – Nephrology",
+      "DEP48 – Rheumatology",
+      "DEP52 – Sleep Laboratory",
+      "DEP53 – Urology"
+    ],
+    "first_floor_west": [
+      "DEP01 – Emergency Medicine",
+      "DEP22 – General Surgery",
+      "DEP25 – Interventional Radiology",
+      "DEP41 – Nuclear Medicine",
+      "DEP47 – Radiology"
+    ],
+    "second_floor_east": [
+      "DEP03 – Anesthesiology and Reanimation",
+      "DEP17 – Dermatology",
+      "DEP28 – Ophthalmology",
+      "DEP29 – Haematology",
+      "DEP31 – Cardiovascular Surgery",
+      "DEP35 – Cardiology",
+      "DEP36 – ENT",
+      "DEP37 – Medical Oncology",
+      "DEP45 – Plastic, Reconstructive and Aesthetic Surgery"
+    ],
+    "third_floor_east": [
+      "DEP02 – Allergy and Immunology",
+      "DEP05 – Brain and Neurosurgery",
+      "DEP07 – Pediatric Surgery",
+      "DEP08 – Pediatric Endocrinology",
+      "DEP09 – Pediatric Gastroenterology",
+      "DEP10 – Pediatric Immunology and Allergy",
+      "DEP11 – Pediatric Cardiology",
+      "DEP12 – Pediatric Nephrology",
+      "DEP13 – Pediatric Neurology",
+      "DEP15 – Pediatric Rheumatology",
+      "DEP16 – Pediatric Health and Diseases",
+      "DEP32 – Gynaecology and Obstetrics",
+      "DEP40 – Neurology",
+      "DEP43 – Orthopaedics and Traumatology"
+    ],
+    "sixth_floor_west": [
+      "DEP04 – Nutrition and Dietetics",
+      "DEP14 – Child and Adolescent Psychiatry",
+      "DEP26 – Thoracic Surgery",
+      "DEP49 – Psychiatry / Mental Health",
+      "DEP51 – Smoking Cessation Clinic"
+    ],
+    "separate_building": [
+      "DEP55 – Oral and Dental Health (NEU Dental Hospital)"
+    ]
+  }
+}

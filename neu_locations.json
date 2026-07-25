@@ -1,0 +1,524 @@
+{
+  "_metadata": {
+    "source": "Near East University – neu.edu.tr, neareasthospital.com, official campus data",
+    "last_updated": "2026-06-27",
+    "purpose": "Location and navigation data for NEU campus in Nicosia, North Cyprus (Lefkoşa, KKTC)"
+  },
+
+  "campus_overview": {
+    "name": "Near East University Main Campus",
+    "also_known_as": "Yakın Doğu Üniversitesi Kampüsü",
+    "address": "Near East Boulevard (Yakın Doğu Bulvarı), Nicosia (Lefkoşa), TRNC",
+    "postal_code": "99138",
+    "mail_address": "Mersin 10, Turkey",
+    "coordinates": {
+      "latitude": 35.2274,
+      "longitude": 33.3183
+    },
+    "google_maps": "https://www.google.com/maps?ll=35.226735,33.326385&z=15",
+    "distance_from_nicosia_centre_km": 5,
+    "distance_from_nicosia_fair_centre_km": 2,
+    "how_to_reach": {
+      "by_shuttle": "Free NEU shuttle buses run from 06:45 to 22:15 between campus and Nicosia city centre, Kyrenia, Famagusta, and Güzelyurt. Schedule: https://bus.neu.edu.tr/",
+      "by_public_bus": "Frequent public buses between campus and Nicosia city centre via Gönyeli.",
+      "by_car": "Follow Near East Boulevard (Yakın Doğu Bulvarı) from the Nicosia ring road. The main campus gate is clearly signposted.",
+      "from_airport": "Ercan Airport is approximately 20–25 minutes by car. NEU shuttle also serves airport route on request."
+    }
+  },
+
+  "academic_buildings": [
+    {
+      "id": "B01",
+      "name": "Faculty of Engineering",
+      "name_tr": "Mühendislik Fakültesi",
+      "location_description": "Main Campus, central-north area",
+      "near": "Faculty of Architecture, Computer Labs",
+      "website": "https://muhendislik.neu.edu.tr",
+      "departments_housed": [
+        "Computer Engineering",
+        "Electrical and Electronics Engineering",
+        "Artificial Intelligence Engineering",
+        "Mechanical Engineering",
+        "Biomedical Engineering",
+        "Information Systems Engineering",
+        "Food Engineering",
+        "Automotive Engineering",
+        "Software Engineering",
+        "Petroleum and Natural Gas Engineering",
+        "Mechatronics Engineering",
+        "Materials Science and Nanotechnology Engineering"
+      ],
+      "directions": "Enter the main campus gate on Near East Boulevard. The Faculty of Engineering building is in the central-north part of campus. Follow the main road and look for the engineering signboards."
+    },
+    {
+      "id": "B02",
+      "name": "Faculty of Medicine",
+      "name_tr": "Tıp Fakültesi",
+      "location_description": "Main Campus, adjacent to NEU Hospital",
+      "near": "NEU Hospital (Near East Hospital)",
+      "website": "https://medicine.neu.edu.tr",
+      "directions": "The Faculty of Medicine is located directly beside the NEU Hospital building. Follow signs to the hospital from the main gate; the Faculty of Medicine entrance is adjacent."
+    },
+    {
+      "id": "B03",
+      "name": "Faculty of Dentistry / NEU Dental Hospital",
+      "name_tr": "Diş Hekimliği Fakültesi / Diş Hastanesi",
+      "location_description": "Separate dedicated building on NEU campus",
+      "near": "Faculty of Medicine, NEU Hospital",
+      "phone": "+90 (392) 680 2030",
+      "website": "https://dentistry.neu.edu.tr",
+      "directions": "The Dental Hospital is a separate building on the NEU campus, near the Faculty of Medicine. Follow signs for 'Dental Hospital' or 'Diş Hastanesi' from the main campus road."
+    },
+    {
+      "id": "B04",
+      "name": "Faculty of Architecture",
+      "name_tr": "Mimarlık Fakültesi",
+      "location_description": "Main Campus",
+      "near": "Faculty of Engineering, Fine Arts",
+      "website": "https://mimarlik.neu.edu.tr",
+      "directions": "Located in the main campus area near the Faculty of Engineering. Follow campus signboards for 'Architecture' or 'Mimarlık'."
+    },
+    {
+      "id": "B05",
+      "name": "Faculty of Law",
+      "name_tr": "Hukuk Fakültesi",
+      "location_description": "Main Campus",
+      "near": "Psychological Counselling Centre (located in same building)",
+      "website": "https://hukuk.neu.edu.tr",
+      "note": "The Psychological Counselling and Research Centre (free counselling for students) is located in the Faculty of Law building.",
+      "directions": "Follow campus signboards for 'Faculty of Law' or 'Hukuk Fakültesi'."
+    },
+    {
+      "id": "B06",
+      "name": "Faculty of Economics and Administrative Sciences",
+      "name_tr": "İktisadi ve İdari Bilimler Fakültesi",
+      "location_description": "Main Campus",
+      "near": "Post Office (Ground Floor of this building)",
+      "website": "https://iktisat.neu.edu.tr",
+      "note": "The NEU Post Office is located on the Ground Floor of this faculty building.",
+      "directions": "Follow campus signboards for 'Economics' or 'İİBF'. The post office is on the ground floor."
+    },
+    {
+      "id": "B07",
+      "name": "Faculty of Pharmacy",
+      "name_tr": "Eczacılık Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://eczacilik.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Pharmacy' or 'Eczacılık'."
+    },
+    {
+      "id": "B08",
+      "name": "Faculty of Nursing",
+      "name_tr": "Hemşirelik Fakültesi",
+      "location_description": "Main Campus, near Faculty of Medicine",
+      "website": "https://hemsirelik.neu.edu.tr",
+      "directions": "Near the Faculty of Medicine and NEU Hospital. Follow signs for 'Nursing' or 'Hemşirelik'."
+    },
+    {
+      "id": "B09",
+      "name": "Faculty of Arts and Sciences",
+      "name_tr": "Fen-Edebiyat Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://fenedebiyat.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Arts and Sciences' or 'Fen-Edebiyat'."
+    },
+    {
+      "id": "B10",
+      "name": "Faculty of Communication",
+      "name_tr": "İletişim Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://iletisim.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Communication' or 'İletişim'. Near East TV and Radio are also in this area."
+    },
+    {
+      "id": "B11",
+      "name": "Faculty of Fine Arts and Design",
+      "name_tr": "Güzel Sanatlar ve Tasarım Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://guzelsanatlar.neu.edu.tr",
+      "directions": "Follow signs for 'Fine Arts' or 'Güzel Sanatlar'."
+    },
+    {
+      "id": "B12",
+      "name": "Faculty of Tourism",
+      "name_tr": "Turizm Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://turizm.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Tourism' or 'Turizm'."
+    },
+    {
+      "id": "B13",
+      "name": "Faculty of Civil and Environmental Engineering",
+      "name_tr": "İnşaat ve Çevre Mühendisliği Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://insaatvecevre.neu.edu.tr",
+      "directions": "Follow signs for 'Civil Engineering' or 'İnşaat'. Near the main engineering cluster."
+    },
+    {
+      "id": "B14",
+      "name": "Faculty of Artificial Intelligence and Informatics",
+      "name_tr": "Yapay Zeka ve Bilişim Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://aif.neu.edu.tr",
+      "directions": "Follow signs for 'AI and Informatics' or 'Yapay Zeka'. Near the engineering faculties."
+    },
+    {
+      "id": "B15",
+      "name": "Atatürk Faculty of Education",
+      "name_tr": "Atatürk Eğitim Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://egitim.neu.edu.tr",
+      "directions": "Follow signs for 'Education Faculty' or 'Eğitim Fakültesi'."
+    },
+    {
+      "id": "B16",
+      "name": "Faculty of Health Sciences",
+      "name_tr": "Sağlık Bilimleri Fakültesi",
+      "location_description": "Main Campus, health cluster near hospital",
+      "website": "https://saglikbilimleri.neu.edu.tr",
+      "directions": "Located near the NEU Hospital. Follow signs for 'Health Sciences' or 'Sağlık Bilimleri'."
+    },
+    {
+      "id": "B17",
+      "name": "Faculty of Veterinary Medicine / Near East Animal Hospital",
+      "name_tr": "Veterinerlik Fakültesi / Hayvan Hastanesi",
+      "location_description": "Main Campus",
+      "phone_extension": "3150 / 3145",
+      "chief": "Dr. Mehmet İsfendiyaroğlu",
+      "website": "https://veterinary.neu.edu.tr",
+      "directions": "Follow signs for 'Veterinary' or 'Veterinerlik'. The animal hospital is attached to the faculty building."
+    },
+    {
+      "id": "B18",
+      "name": "Faculty of Sports Sciences",
+      "name_tr": "Spor Bilimleri Fakültesi",
+      "location_description": "Main Campus, near sports facilities",
+      "website": "https://sporbilimleri.neu.edu.tr",
+      "directions": "Located near the Olympic Swimming Pool and Sports Tower. Follow signs for 'Sports Sciences' or 'Spor Bilimleri'."
+    },
+    {
+      "id": "B19",
+      "name": "Faculty of Agriculture",
+      "name_tr": "Ziraat Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://ziraat.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Agriculture' or 'Ziraat'."
+    },
+    {
+      "id": "B20",
+      "name": "Faculty of Theology",
+      "name_tr": "İlahiyat Fakültesi",
+      "location_description": "Main Campus",
+      "website": "https://ilahiyat.neu.edu.tr",
+      "directions": "Follow campus signboards for 'Theology' or 'İlahiyat'."
+    }
+  ],
+
+  "key_locations": [
+    {
+      "id": "L01",
+      "name": "Grand Library (Near East University Grand Library)",
+      "name_tr": "Büyük Kütüphane",
+      "location_description": "Separate large building, central area of main campus",
+      "hours": "24/7 – Open every day, all hours",
+      "area_m2": 15000,
+      "floors": "Multiple floors",
+      "phone_extension": "5536",
+      "director": "Emre Karahasan",
+      "directions": "The Grand Library is a large standalone building in the heart of the campus. It is one of the most prominent buildings on campus and is signposted from all main campus roads. Open 24 hours.",
+      "what_is_inside": [
+        "2,250,000+ books",
+        "60,000+ electronic journals",
+        "12 individual and group study rooms",
+        "4 amphitheatres (capacity 350)",
+        "17 movie viewing booths",
+        "Children's library",
+        "Rare works section",
+        "CMC archive room",
+        "American Corner",
+        "Atila Türk special library",
+        "Kutlu Adalı special library",
+        "Book House (campus bookstore) — phone: +90 (392) 444 0 938 / 477",
+        "Audio-visual viewing cabins"
+      ],
+      "website": "https://neu.edu.tr/academic/grand-library/?lang=en"
+    },
+    {
+      "id": "L02",
+      "name": "NEU Hospital (Near East Hospital)",
+      "name_tr": "Yakın Doğu Hastanesi",
+      "location_description": "Separate large hospital building on NEU campus",
+      "hours": "24/7",
+      "floors": "Ground (0) to 9th floor (West Block); Ground to 4th floor (East Block)",
+      "blocks": ["East Block", "West Block"],
+      "phone": "+90 392 444 0 535",
+      "website": "https://neareasthospital.com",
+      "directions": "The NEU Hospital is a large, clearly marked building on the NEU campus. Follow signs for 'NEU Hospital' or 'Yakın Doğu Hastanesi' from the main campus gate. The hospital has its own dedicated entrance.",
+      "note": "See neu_hospital_departments.json for exact floor and block of all 55 departments."
+    },
+    {
+      "id": "L03",
+      "name": "Atatürk Culture and Congress Centre (AKKM)",
+      "name_tr": "Atatürk Kültür ve Kongre Merkezi",
+      "location_description": "Main Campus – prominent standalone building",
+      "floors": "Main hall at ground level",
+      "phone_extension": "5345 / 5344",
+      "director": "Arif İşgüzar",
+      "what_is_inside": [
+        "Main hall (capacity 700, stage 163.85 m²)",
+        "4 additional smaller halls",
+        "Cafe AKKM",
+        "Dormitory Registration Office (AKKM)"
+      ],
+      "directions": "The AKKM is a large standalone congress/theatre building on campus. It is the biggest congress hall in North Nicosia. Follow signs for 'AKKM' or 'Congress Centre'. Cafe AKKM is located inside.",
+      "website": "https://neu.edu.tr/campus-life/ataturk-culture-and-congress-centre/?lang=en"
+    },
+    {
+      "id": "L04",
+      "name": "Olympic Indoor Swimming Pool",
+      "name_tr": "Olimpik Kapalı Yüzme Havuzu",
+      "location_description": "Separate swimming pool building, sports area of campus",
+      "floors": "Ground level",
+      "phone": "+90 (392) 680 2080 / 223 6464",
+      "phone_extension": "5240",
+      "director": "Avni Cankurt",
+      "directions": "Located in the sports zone of the campus near the Sports Tower and Sports Sciences Faculty. The only Olympic indoor swimming pool in Northern Cyprus. Follow signs for 'Swimming Pool' or 'Yüzme Havuzu'."
+    },
+    {
+      "id": "L05",
+      "name": "Sports Tower",
+      "name_tr": "Spor Kulesi",
+      "location_description": "Sports area of main campus",
+      "phone_extension": "5771",
+      "director": "Menteş Cenik",
+      "directions": "Located in the sports zone near the Olympic Swimming Pool and Sports Sciences Faculty. Follow signs for 'Sports Tower' or 'Spor Kulesi'."
+    },
+    {
+      "id": "L06",
+      "name": "Student Dormitories",
+      "name_tr": "Öğrenci Yurtları",
+      "location_description": "Dormitory Complex on Main Campus",
+      "hours": "24/7",
+      "total_blocks": 13,
+      "female_blocks": 7,
+      "male_blocks": 6,
+      "total_capacity": 5500,
+      "supermarket": {
+        "location": "Below Dormitory 1",
+        "hours_weekdays": "08:00–24:00",
+        "hours_weekends": "10:00–24:00"
+      },
+      "directions": "The dormitory complex is located on the main campus. There are 7 female dormitory blocks and 6 male dormitory blocks. The Dormitory Registration Office is inside the AKKM building. A supermarket is located below Dormitory 1.",
+      "application_website": "https://neu.edu.tr/campus-life/dormitories/application/?lang=en"
+    },
+    {
+      "id": "L07",
+      "name": "Post Office",
+      "name_tr": "Postane",
+      "location_description": "Ground Floor, Faculty of Economics and Administrative Sciences building",
+      "directions": "The NEU Post Office is on the ground floor of the Faculty of Economics and Administrative Sciences (İktisadi ve İdari Bilimler Fakültesi) building. Follow signs for 'IIBF' or the Economics Faculty, then look for Post Office signs on the ground floor."
+    },
+    {
+      "id": "L08",
+      "name": "Supermarket",
+      "name_tr": "Süpermarket",
+      "location_description": "Below Dormitory 1, Dormitory Complex",
+      "hours_weekdays": "08:00–24:00",
+      "hours_weekends": "10:00–24:00",
+      "directions": "The campus supermarket is located below (underneath) Dormitory 1 in the dormitory complex. Follow signs for 'Dormitory 1' or 'Yurt 1'; the supermarket entrance is at ground/basement level."
+    },
+    {
+      "id": "L09",
+      "name": "Near East Bank (Campus Branch)",
+      "name_tr": "Yakın Doğu Bankası (Kampüs Şubesi)",
+      "location_description": "Main Campus",
+      "website": "https://www.neareastbank.com",
+      "directions": "Near East Bank has a full branch on the main campus. Follow campus signboards for 'Near East Bank'. Full banking services available."
+    },
+    {
+      "id": "L10",
+      "name": "Türkiye İş Bankası (Campus Branch)",
+      "location_description": "Main Campus",
+      "directions": "A full branch of Türkiye İş Bankası is located on the main campus. Follow campus signboards."
+    },
+    {
+      "id": "L11",
+      "name": "Ziraat Bankası ATM",
+      "location_description": "Main Campus",
+      "note": "ATM only — no full branch.",
+      "directions": "A Ziraat Bankası ATM is available on the main campus. ATM only, no full branch."
+    },
+    {
+      "id": "L12",
+      "name": "Fuel Station (Near East Fuel Station)",
+      "name_tr": "Akaryakıt İstasyonu",
+      "location_description": "On campus road/perimeter",
+      "directions": "The fuel station is on the campus perimeter road. Visible from Near East Boulevard."
+    },
+    {
+      "id": "L13",
+      "name": "NEU Lake",
+      "name_tr": "YDÜ Gölü",
+      "location_description": "Outdoor recreational area on campus grounds",
+      "directions": "An outdoor lake on the campus grounds, used as a recreational and relaxation area by students."
+    },
+    {
+      "id": "L14",
+      "name": "Park Near East",
+      "name_tr": "Park Yakın Doğu",
+      "location_description": "Large outdoor park on campus",
+      "area_m2": 220000,
+      "established": 2014,
+      "directions": "A 220,000 m² park on the campus grounds, used for large concerts and events (Deep Purple, Moscow State Ballet, Spring Fest, Rock 'n Cyprus Festival). Follow signs for 'Park Near East'."
+    },
+    {
+      "id": "L15",
+      "name": "Museum of Classical and Sports Cars (Cyprus Car Museum)",
+      "name_tr": "Klasik ve Spor Arabalar Müzesi",
+      "location_description": "Separate museum building on campus",
+      "phone": "0542 888 06 00",
+      "phone_extension": "5536",
+      "director": "Ulus Candanal",
+      "established": 2007,
+      "vehicles_on_display": "140+",
+      "directions": "A separate museum building on the NEU campus. Follow signs for 'Car Museum' or 'Araba Müzesi'. Over 140 vehicles on display. Mobile app available.",
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "L16",
+      "name": "GÜNSEL Art Museum (Cyprus Modern Art Museum)",
+      "name_tr": "GÜNSEL Sanat Müzesi",
+      "location_description": "Separate museum building on campus",
+      "phone_extension": "5656",
+      "director": "Görkem Bulunç",
+      "directions": "Follow signs for 'GÜNSEL Art Museum' or 'Sanat Müzesi'.",
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "L17",
+      "name": "Communications Museum",
+      "name_tr": "İletişim Müzesi",
+      "location_description": "Campus",
+      "directions": "Follow campus signs for 'Communications Museum' or 'İletişim Müzesi'.",
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "L18",
+      "name": "Dorana Residence (Hotel on Campus)",
+      "name_tr": "Dorana Rezidans",
+      "location_description": "Within NEU campus",
+      "rooms": 14,
+      "bed_capacity": 134,
+      "phone_extension": "3410 / 3442",
+      "manager": "Deniz Kaygan Kasap",
+      "amenities": "Central heating/cooling, LED TV, mini bar, shower, hair dryer, free internet",
+      "directions": "A small hotel/residence within the NEU campus, used by visiting guests and academics. Follow signs for 'Dorana Residence'."
+    },
+    {
+      "id": "L19",
+      "name": "Near East TV",
+      "name_tr": "Yakın Doğu TV",
+      "location_description": "Main Campus",
+      "phone_extension": "5348",
+      "directions": "Located in the campus media/communication area. Follow signs for 'Near East TV'."
+    },
+    {
+      "id": "L20",
+      "name": "Near East FM Radio",
+      "name_tr": "Yakın Doğu FM",
+      "location_description": "Main Campus",
+      "phone_extension": "5412 / 5413",
+      "director": "Sinem Kasımoğlu",
+      "directions": "Located in the campus media area, near Near East TV. Follow signs for 'Near East FM'."
+    },
+    {
+      "id": "L21",
+      "name": "Psychological Counselling and Research Centre",
+      "name_tr": "Psikolojik Danışma ve Araştırma Merkezi",
+      "location_description": "Faculty of Law building",
+      "note": "Free counselling services available to all NEU students.",
+      "directions": "Located inside the Faculty of Law building. Free psychological counselling for all NEU students. Ask at the Faculty of Law reception."
+    },
+    {
+      "id": "L22",
+      "name": "International Students Office (ISO)",
+      "name_tr": "Uluslararası Öğrenci Ofisi",
+      "location_description": "Main Campus administrative area",
+      "phone_whatsapp": "+90 548 818 08 18",
+      "hours": "Monday–Friday 09:00–17:00",
+      "directions": "Located in the main campus administrative buildings. Contact via WhatsApp or the main switchboard for exact location."
+    },
+    {
+      "id": "L23",
+      "name": "Student Deanship",
+      "name_tr": "Öğrenci Dekanlığı",
+      "location_description": "Main Campus",
+      "hours": "Monday–Friday 08:30–16:30",
+      "dean": "Prof. Dr. Dudu Yavuz Özkum",
+      "website": "https://neu.edu.tr/?page_id=267204&lang=en",
+      "directions": "Located in the main campus administrative area. Follow signs for 'Student Deanship' or 'Öğrenci Dekanlığı'."
+    },
+    {
+      "id": "L24",
+      "name": "RA 25 Sports Hall",
+      "name_tr": "RA 25 Spor Salonu",
+      "location_description": "Main Campus, sports area",
+      "established": 2014,
+      "note": "Named after NEU's first solar-powered car. Multi-purpose indoor sports hall.",
+      "directions": "Located in the sports area of campus near the Olympic Swimming Pool. Follow signs for 'RA 25 Sports Hall'."
+    },
+    {
+      "id": "L25",
+      "name": "Health and Wellness Centre",
+      "name_tr": "Sağlık ve Yaşam Merkezi",
+      "location_description": "Main Campus",
+      "area_m2": 2000,
+      "directions": "Follow campus signs for 'Health and Wellness Centre' or 'Sağlık Merkezi'."
+    },
+    {
+      "id": "L26",
+      "name": "Book House (Campus Bookstore)",
+      "name_tr": "Kitap Evi",
+      "location_description": "Inside the Grand Library building",
+      "phone": "+90 (392) 444 0 938 / 477",
+      "directions": "The campus bookstore selling course books is located inside the Grand Library building. Enter the Grand Library and follow signs for 'Book House' or 'Kitap Evi'."
+    },
+    {
+      "id": "L27",
+      "name": "Cyprus Herbarium and Natural History Museum",
+      "name_tr": "Kıbrıs Herbaryumu ve Doğa Tarihi Müzesi",
+      "location_description": "Main Campus",
+      "phone_extension": "5135",
+      "director": "Prof. Dr. Salih Gücel",
+      "established": 2006,
+      "directions": "Follow campus signs for 'Herbarium'. Part of the university's research infrastructure."
+    }
+  ],
+
+  "hospital_quick_navigation": {
+    "note": "NEU Hospital has two blocks (East and West) with floors Ground (0) to 9th (West) and Ground to 4th (East). Full department list with exact floors in neu_hospital_departments.json.",
+    "emergency": {
+      "location": "1st Floor, West Block",
+      "hours": "24/7",
+      "note": "Go directly to Emergency on 1st Floor West Block for any emergency."
+    },
+    "ground_floor_east": ["Biochemistry Lab (24/7)", "Infectious Diseases", "Physical Medicine & Rehabilitation", "Genetics Lab", "Blood Bank", "Pathology", "Radiation Oncology", "Sports Medicine"],
+    "ground_floor_west": ["Main Hospital Entrance / Reception"],
+    "first_floor_east": ["Endocrinology", "Geriatrics", "Chest Diseases", "Internal Medicine", "Female Urology", "Molecular Microbiology Lab", "Nephrology", "Rheumatology", "Sleep Laboratory", "Urology"],
+    "first_floor_west": ["Emergency Medicine (24/7)", "General Surgery", "Interventional Radiology", "Nuclear Medicine", "Radiology"],
+    "second_floor_east": ["Anesthesiology", "Dermatology", "Ophthalmology", "Haematology", "Cardiovascular Surgery", "Cardiology", "ENT", "Medical Oncology", "Plastic Surgery"],
+    "third_floor_east": ["Allergy & Immunology", "Brain & Neurosurgery", "All Pediatric Departments", "Gynaecology & Obstetrics", "Neurology", "Orthopaedics"],
+    "sixth_floor_west": ["Nutrition & Dietetics", "Child & Adolescent Psychiatry", "Thoracic Surgery", "Psychiatry", "Smoking Cessation Clinic"],
+    "separate_dental_building": ["Oral and Dental Health — NEU Dental Hospital (separate building on campus)"]
+  },
+
+  "general_navigation_tips": {
+    "main_switchboard": "+90 (392) 223 64 64 or +90 (392) 680 20 00",
+    "tip1": "NEU does not publicly publish individual room numbers for administrative offices. Call the main switchboard or use the phone directory at https://neu.edu.tr/phone-directory/?lang=en to find specific rooms.",
+    "tip2": "Campus signboards in both Turkish and English are present at all major intersections on campus.",
+    "tip3": "The campus security office (extension 5308) can help with directions 24/7.",
+    "tip4": "Shuttle buses run from 06:45–22:15 and stop at major campus locations. Full schedule at https://bus.neu.edu.tr/",
+    "security_extension": "5308",
+    "security_hours": "24/7"
+  }
+}

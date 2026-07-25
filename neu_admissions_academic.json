@@ -1,0 +1,187 @@
+{
+  "admissions": {
+    "undergraduate": {
+      "requirements": [
+        "Original copy of High School Diploma or equivalent",
+        "Photocopy of passport",
+        "Copy of English language qualification (if taken)",
+        "For transfer students: copy of academic transcript and course description"
+      ],
+      "special_requirements": {
+        "medicine_dentistry_pharmacy_engineering": "General Certificate of Education (GCE) A-level results from Maths, Physics, Biology or Chemistry",
+        "note": "Language requirements vary by program and instruction language"
+      },
+      "application_portal": "https://aday.neu.edu.tr/?lang=en",
+      "processing_time": "Typically 2-4 weeks",
+      "intake_periods": [
+        "Fall semester",
+        "Spring semester"
+      ],
+      "on_campus_accommodation": true,
+      "fees_website": "https://neu.edu.tr/students/scholarships/?lang=en",
+      "current_tuition_note": "Fees listed are estimates only. Always verify current tuition at the official fees page.",
+      "dormitory_application": {
+        "process": "Register via NEU representatives in Turkey or Dormitory Registration Office (AKKM) on campus after obtaining a student number.",
+        "existing_students": "Make reservations in April-May by paying 25% deposit.",
+        "application_website": "https://neu.edu.tr/campus-life/dormitories/application/?lang=en",
+        "fees_website": "https://neu.edu.tr/campus-life/dormitories/fees/?lang=en"
+      }
+    },
+    "graduate": {
+      "programs": "200+ Master's and Doctoral programs",
+      "portal": "https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en",
+      "requirements_website": "https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en"
+    },
+    "double_major": {
+      "description": "Students can earn a second undergraduate diploma alongside their primary program",
+      "eligibility": "Must meet academic conditions set by the University Senate",
+      "application_process": "Apply to the Rectorate with the application form on the date determined by the University Senate",
+      "scope": "Same faculty or any department across the university",
+      "info_website": "https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en"
+    },
+    "minor_program": {
+      "description": "Secondary specialisation program alongside main degree",
+      "application_process": "Apply to the Rectorate",
+      "info_website": "https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en"
+    },
+    "summer_school": {
+      "available": true,
+      "website": "https://neu.edu.tr/students/summer-school/?lang=en"
+    },
+    "distance_learning": {
+      "available": true,
+      "website": "https://neu.edu.tr/academic/distance-learning-centre/?lang=en"
+    },
+    "preparatory_school": {
+      "available": true,
+      "description": "Language preparation programs for students who need to improve English or Turkish",
+      "website": "https://neu.edu.tr/academic/preparatory-schools/?lang=en"
+    }
+  },
+  "scholarships": {
+    "types": [
+      "Full scholarship",
+      "Half (50%) scholarship",
+      "Merit-based scholarships",
+      "Need-based scholarships"
+    ],
+    "notable": "75% scholarship available for Tourism and Hotel Management",
+    "website": "https://neu.edu.tr/students/scholarships/?lang=en",
+    "contact": "Available through the admissions office and neu-apply.com",
+    "conditions_website": "https://neu.edu.tr/students/scholarships/?lang=en",
+    "application_website": "https://neu.edu.tr/students/scholarships/?lang=en"
+  },
+  "tuition_fees": {
+    "note": "Fees listed are approximate and based on historical data; verify current fees at neu.edu.tr",
+    "medicine_dentistry": {
+      "approximate_annual_eur": 12500
+    },
+    "other_faculties": {
+      "approximate_annual_eur": 5600
+    },
+    "additional_fees": {
+      "registration_eur": 105,
+      "social_activity_annual_eur": 200,
+      "health_insurance_eur": 50
+    },
+    "vat": "5% VAT applies",
+    "policy": "Fixed tuition fees throughout the education period",
+    "current_fees_website": "https://neu.edu.tr/students/scholarships/?lang=en",
+    "dormitory_fees_website": "https://neu.edu.tr/campus-life/dormitories/fees/?lang=en",
+    "breakdown_2025_2026": {
+      "note": "Figures are from third-party sources and may vary. Always verify at: https://aday.neu.edu.tr/undergraduate-applications/programs-list-and-fees/?lang=en",
+      "medicine_per_semester_eur": 6740,
+      "medicine_annual_eur": "~13,480 (no automatic scholarship)",
+      "dentistry_english_per_semester_eur": 6215,
+      "dentistry_turkish_per_semester_eur": 5060,
+      "pharmacy_veterinary_per_semester_eur": 2382,
+      "most_undergraduate_programs_per_semester_eur": 1595,
+      "most_undergraduate_annual_eur": "~3,190 (after standard 50% international scholarship)",
+      "masters_annual_eur": "~2,500",
+      "phd_annual_eur": "~3,020",
+      "scholarship_note": "Most international students receive an automatic 50% scholarship on standard programs. Merit scholarships up to 75% available. Medicine and Dentistry generally have no automatic scholarship.",
+      "additional_fees": {
+        "registration_eur": 105,
+        "social_activity_annual_eur": 200,
+        "health_insurance_eur": 50,
+        "deposit_refundable_eur": 500
+      }
+    }
+  },
+  "academic_structure": {
+    "credit_system": "ECTS (European Credit Transfer System)",
+    "ects_info": "https://neu.edu.tr/academic/ects-european-credit-transfer-system/?lang=en",
+    "academic_calendar": "https://neu.edu.tr/academic/academic-calendar/?lang=en",
+    "regulations": "https://neu.edu.tr/academic/regulations/?lang=en",
+    "bulletin": "https://bulletin.neu.edu.tr/",
+    "weekly_lesson_programs": "https://neu.edu.tr/weekly-lesson-programs/?lang=en",
+    "regulations_website": "https://neu.edu.tr/academic/regulations/?lang=en",
+    "course_catalog_bulletin": "https://bulletin.neu.edu.tr/"
+  },
+  "student_services": {
+    "international_student_office": {
+      "contact": "+90 548 818 08 18 (WhatsApp)",
+      "website": "https://neu.edu.tr/students/international-student-office/?lang=en",
+      "services": [
+        "Visa and residence permit guidance",
+        "Orientation programs",
+        "Cultural integration support",
+        "Academic advising"
+      ],
+      "visa_residence_permit_info": "https://neu.edu.tr/students/international-student-office/?lang=en",
+      "orientation_programs": "https://neu.edu.tr/students/international-student-office/?lang=en"
+    },
+    "student_deanship": {
+      "website": "https://neu.edu.tr/?page_id=267204&lang=en",
+      "description": "Supports students' personal, cultural, social, and professional development",
+      "services_detail_website": "https://neu.edu.tr/?page_id=267204&lang=en"
+    },
+    "student_satisfaction_center": {
+      "website": "https://neu.edu.tr/?page_id=267199&lang=en",
+      "complaint_feedback_website": "https://neu.edu.tr/?page_id=267199&lang=en"
+    },
+    "student_appointment_system": {
+      "website": "https://neu.edu.tr/?page_id=267195&lang=en",
+      "booking_website": "https://neu.edu.tr/?page_id=267195&lang=en"
+    },
+    "registration_administration": {
+      "website": "https://neu.edu.tr/?page_id=267236&lang=en"
+    },
+    "counseling": "Available on campus",
+    "career_guidance": "Available on campus",
+    "language_support": "Available on campus",
+    "online_services": {
+      "description": "Online student portal for registrations, transcripts, payments and more",
+      "website": "https://neu.edu.tr/online-services/?lang=en"
+    }
+  },
+  "office_hours": {
+    "general_note": "Hours may vary by department; always confirm directly with the relevant office",
+    "administrative_offices": {
+      "days": "Monday–Friday",
+      "hours": "08:00–17:00"
+    },
+    "student_services": {
+      "days": "Monday–Friday",
+      "hours": "08:30–16:30"
+    },
+    "international_student_office": {
+      "days": "Monday–Friday",
+      "hours": "09:00–17:00"
+    },
+    "grand_library": {
+      "days": "All days",
+      "hours": "24/7"
+    },
+    "neu_hospital": {
+      "days": "All days",
+      "hours": "24/7"
+    },
+    "online_services": "https://neu.edu.tr/online-services/?lang=en"
+  },
+  "ai_professor": {
+    "name": "Ai. Prof. DUX",
+    "description": "NEU's AI-powered academic assistant",
+    "website": "https://neu.edu.tr/academic/ai-prof-dux/?lang=en"
+  }
+}

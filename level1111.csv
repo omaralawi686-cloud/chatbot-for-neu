@@ -1,0 +1,222 @@
+room_number,room_name,room_type,floor,building,location_description,Lecturers,Position/Title
+Room U01, XR,Lab,level_u (underground floor),innovation building,,,
+Room U02, Production,Lab,level_u (underground floor),innovation building,,,
+Room U03,Project,Lab,level_u (underground floor),innovation building,,,
+Room U04,Mechanical Engineering,Lab,level_u (underground floor),innovation building,,,
+Room U05,Robotics,Lab,level_u (underground floor),innovation building,,,
+Room U06,3D Print ,Lab,level_u (underground floor),innovation building,,,
+Room U07,Storage,Storage,level_u (underground floor),innovation building,,,
+Room U08,Grand Library Archives,Library,level_u (underground floor),innovation building,,,
+Room U09,Technical Room,Technical Room,level_u (underground floor),innovation building,,,
+Room 4,SEBAT PCR Room,Laboratory,level 0 (ground floor),innovation building,,,
+Room 5,Unassigned,Unassigned,level 0 (ground floor),innovation building,,,
+Room bathroom,WC ,Restroom (WC),level 0 (ground floor),innovation building,Next to Room 4 and near the main entrance of Building,,
+Room 6,Circuit Theory Systems,Lab,level 0 (ground floor),innovation building,,,
+Room 7,Electronic Systems,Lab,level 0 (ground floor),innovation building,,,
+Room 8,Punica,Innovation room / Meeting room / Research workspace,level 0 (ground floor),innovation building,,,
+Room 9,Office,Office,level 0 (ground floor),innovation building,,Prof. Dr. Fadi Al-Turjman,AloT - Director
+Room 9,Office,Office,level 0 (ground floor),innovation building,,Eng. Gresmarteneanos Tannous,AloT - Member
+Room 9,Office,Office,level 0 (ground floor),innovation building,,Eng. Nafiseh Yousefi Kian,AloT - Member
+Room 9,Office,Office,level 0 (ground floor),innovation building,,Eng. Farhaneh Aryanejad,AloT - Member
+Room 9,Office,Office,level 0 (ground floor),innovation building,,"Sinem Alturjman, MSc.",AloT - Member
+Room 9,Office,Office,level 0 (ground floor),innovation building,,"Zöhre Serttas, MSc.",AloT - Member
+Room 9,Office,Office,level 0 (ground floor),innovation building,,Precious Thom,AloT - Member
+Room 10,Office,Office,level 0 (ground floor),innovation building,,"Duygu Kaptanoglu Coskun, MSc.",Secretary General
+Room 10,Office,Office,level 0 (ground floor),innovation building,,"Ebru Bagci, MSc.",Coordinator
+Room 10,Office,Office,level 0 (ground floor),innovation building,,Yigit Akgün,
+Room 11,Office,Office,level 0 (ground floor),innovation building,,Prof. Dr. Murat Özgören,Chair of NERITA and Center of Excellence
+Room 11,Office,Office,level 0 (ground floor),innovation building,,"Sefik Emre Coskun, MSc.",TTO Coordinator / Board Member of CoE
+Room 11,Office,Office,level 0 (ground floor),innovation building,,Mehmet Seferbay,TTO Expert
+Room 11,Office,Office,level 0 (ground floor),innovation building,,"Hayrice Kocacan, MSc.",Executive Assistant of Ethics Committee and CoE
+Room 29,IT coordination,Office,level 0 (ground floor),innovation building,,,
+Room 101,"Biyomedikal Lab
+Biomaterials & Biosensing
+Technologies Lab.",Laboratory,level 1 (first floor),innovation building,,,
+Room 125,Medical Instrumentation Showroom,Showroom,level 1 (first floor),innovation building,,,
+Room 102,Classroom 102,Classroom,level 1 (first floor),innovation building,,,
+Room 103,Computer Lab 103,Computer Laboratory,level 1 (first floor),innovation building,,,
+Room 104,Computer Lab 104,Computer Laboratory,level 1 (first floor),innovation building,,,
+Room 105,Classroom 105,Classroom,level 1 (first floor),innovation building,,,
+Room 106,Classroom 106,Classroom,level 1 (first floor),innovation building,,,
+Room 107,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Cavit Atalar,"Petroleum and Natural
+Gas Engineering - HoD"
+Room 107,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr. z alihe Türken,Physics Engineering - HoD
+Room 107,Office,Office,level 1 (first floor),innovation building,,"Asst. Prof. Dr. Mohammad
+Karimzadeh Kolamroudi",Mechatronics Engineering
+Room 107,Office,Office,level 1 (first floor),innovation building,,Asst. Prof.Dr Marzieh Aydin,Mechatronics Engineering
+Room 107,Office,Office,level 1 (first floor),innovation building,,"Palang Moronke Guful, Msc.","Petroleum and Natural
+Gas Engineering"
+Room 107,Office,Office,level 1 (first floor),innovation building,,"Muloh Gariba Sheron, Msc.","Petroleum and Natural
+Gas Engineering"
+Room 108,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr. Ahmet ilhan,Computer Engineering
+Room 108,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr.Ümit ?lhan,Computer Engineering
+Room 108,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Elbrus ?manov,Computer Engineering
+Room 108,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Kaan Uyar,Artificial Intelligence Engineering
+Room 108,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Hamit Alt?parmak,Data Analytics Engineering
+Room 109,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Rahib Abiyev,Computer Engineering - HoD
+Room 109,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr.John Bush,Cyber Security Engineering - HoD
+Room 109,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Amr Abdelbari,"Information Systems
+Engineering-HoD"
+Room 109,Office,Office,level 1 (first floor),innovation building,,"Çagri Özkan, MSe",Information Systems Engineering
+Room 110,WC 110,Restroom (WC) for MEN,level 1 (first floor),innovation building,,,
+Room 111,WC 111,Restroom (WC) for WOMEN,level 1 (first floor),innovation building,,,
+Room 112,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr. Aydin Hassani,"Materials Science and
+Nanotechnology Engineering"
+Room 112,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Fatih Veysel Nurçin,Biomedical Engineering
+Room 112,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Lida Ebrahimi Vafaei,Mechatronics Engineering
+Room 112,Office,Office,level 1 (first floor),innovation building,,Dr. Farzad Zaare,Industrial Engineering
+Room 112,Office,Office,level 1 (first floor),innovation building,,Dr. Selin Temürlü,"Materials Science and
+Nanotechnology Engineering"
+Room 113,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Seyedeh Fatemeh Mirekhtiary,Physics
+Room 113,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Ismail Ruhi Umman,Physics
+Room 113,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Fezile Özdamli,Management Information Systems
+Room 113,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr. Seren Ba?aran,Data Analytics Engineering - HoD
+Room 113,Office,Office,level 1 (first floor),innovation building,,Dr. Galip Sava? ?lgi,Cyber Security Engineering
+Room 113,Office,Office,level 1 (first floor),innovation building,,Dr. Sila Gürler,"Information and Document
+Management"
+Room 113,Office,Office,level 1 (first floor),innovation building,,Fulden Ergün,Vocational School
+Room 114,Physics Lab 114,Physics Laboratory,level 1 (first floor),innovation building,,,
+Room 115,Office,Office,level 1 (first floor),innovation building,,Prof. Dr Sezer Kanbul,Director
+Room 115,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Fahriye Alt?nay,Al and Educational Technologies Coordinator
+Room 115,Office,Office,level 1 (first floor),innovation building,,"Zöhre Serttas, MSc.",E-Exam Coordinator
+Room 115,Office,Office,level 1 (first floor),innovation building,,Doç. Dr. ?ahin Akda? ,Hardware and Infrastructure Coordinator
+Room 115,Office,Office,level 1 (first floor),innovation building,,"Sinan Kudret, M.ed.",E-Exam Coordination
+Room 115,Office,Office,level 1 (first floor),innovation building,,Zehra Parastou Sarshar,EBYS Coordinator
+Room 115,Office,Office,level 1 (first floor),innovation building,,Mustafa Y?ld?r?m,E-Sinav Coordination
+Room 115,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Zehra Alt?nay,Vice Director
+Room 115,Office,Office,level 1 (first floor),innovation building,,"Murat Cem Acaralp, MA.","Academic Journal and Publication
+Coordinator"
+Room 115,Office,Office,level 1 (first floor),innovation building,,"Pelin Gür Yar?msakall?, Msc.","Distance Education and Informatics
+Coordinator"
+Room 115,Office,Office,level 1 (first floor),innovation building,,"Vedia Ese, M.ed.",Distance Education Coordination
+Room 115,Office,Office,level 1 (first floor),innovation building,,Aras.Gör. Hakan Bagmen,"APDF, MYO Coordinator"
+Room 115,Office,Office,level 1 (first floor),innovation building,,Necibe Can,Distance Education Coordination
+Room 117,Print Room 117,Print Room,level 1 (first floor),innovation building,,,
+Room 118,Technical Room 118,Technical Room,level 1 (first floor),innovation building,,,
+Room 119,Computer Lab 119,Computer Laboratory,level 1 (first floor),innovation building,,,
+Room 120,Office,Office,level 1 (first floor),innovation building,,Yalvaç Akgün,Director
+Room 107,Office,Office,level 1 (first floor),innovation building,,Prof. Dr. Cavit Atalar,Petroleum and Natural Gas Engineering - HoD
+Room 107,Office,Office,level 1 (first floor),innovation building,,Assoc. Prof. Dr. Zalihe Türker,Physics Engineering - HoD
+Room 107,Office,Office,level 1 (first floor),innovation building,,Asst. Prof. Dr. Mohammad Karimzadeh Kolamroudi,Mechatronics Engineering
+Room 107,Office,Office,level 1 (first floor),innovation building,,Asst. Prof.Dr Marzieh Ayd?n,Mechatronics Engineering
+Room 107,Office,Office,level 1 (first floor),innovation building,,"Palang Moronke Guful, Msc.",Petroleum and Natural Gas Engineering
+Room 107,Office,Office,level 1 (first floor),innovation building,,"Muloh Gariba Sheron, Msc.",Petroleum and Natural Gas Engineering
+Room 201,Central Computer Lab.,Computer Lab,level 2 (second floor),innovation building,,,
+Room 202,Central Computer Lab.,Computer Lab,level 2 (second floor),innovation building,,,
+Room 203,Communications Lab,Laboratory,level 2 (second floor),innovation building,,,
+Room 204,Logic & Medical Device Simulation Lab,Simulation Laboratory,level 2 (second floor),innovation building,,,
+Room 205,Office,Office,level 2 (second floor),innovation building,,Assoc. Prof. Dr. Sahar Ebadinezhad,Computer Information Systems
+Room 205,Office,Office,level 2 (second floor),innovation building,,Asst. Prof. Dr. Priscilla Olawale,Software Engineering
+Room 205,Office,Office,level 2 (second floor),innovation building,,Asst. Prof. Dr. Nasim Ahmadzadeh,Computer Information Systems
+Room 205,Office,Office,level 2 (second floor),innovation building,,Dr. Oluwafemi Ayotunde Oke,Computer Information Systems
+Room 205,Office,Office,level 2 (second floor),innovation building,,Dr. Rabiu Ebubekir,Information and Document Management
+Room 205,Office,Office,level 2 (second floor),innovation building,,Dr. Mohamad Ziad Altobel,Computer Engineering
+Room 206,WC 206,Restroom (WC) for MEN,level 2 (second floor),innovation building,,,
+Room 207,WC 207,Restroom (WC) for WOMEN,level 2 (second floor),innovation building,,,
+Room 208,Office,Office,level 2 (second floor),innovation building,,Prof. Dr. Boran Sekero?lu,Computer Engineering
+Room 208,Office,Office,level 2 (second floor),innovation building,,Asst. Prof. Dr. Omid Mirzaei,Biomedical Engineering - VHoD
+Room 208,Office,Office,level 2 (second floor),innovation building,,Assoc. Prof. Dr. Abdullahi U. ibrahim,Biomedical Engineering
+Room 208,Office,Office,level 2 (second floor),innovation building,,Dr. ?erife Kaba,Biomedical Engineering
+Room 208,Office,Office,level 2 (second floor),innovation building,,Dr. Mehmet Karagözlü,Food Engineering
+Room 209,Meeting Room,Meeting Room,level 2 (second floor),innovation building,,,
+Room 210,Media Production Lab.,Media Laboratory,level 2 (second floor),innovation building,,,
+Room 211,Office,Office,level 2 (second floor),innovation building,,"Orhan Gazi Selkan, MSc.",Content Planning and Marketing
+Room 211,Office,Office,level 2 (second floor),innovation building,,Ne?e Eserba?,Content Planning and Marketing
+Room 211,Office,Office,level 2 (second floor),innovation building,,"Kazim Syed, MSc.",Content Planning and Marketing
+Room 212,Computer Lab.,Computer Lab.,level 2 (second floor),innovation building,,,
+Room 213,Print Room 213,Print Room,level 2 (second floor),innovation building,,,
+Room 214,Technical Room 214,Technical Room,level 2 (second floor),innovation building,,,
+Room 215,Office,Office,level 2 (second floor),innovation building,,Prof. Dr. ?enol Bekta?,Electrical and Electronic Engineering
+Room 215,Office,Office,level 2 (second floor),innovation building,,Prof. Dr. Fahreddin M. Sad?ko?lu,Electrical and Electronic Engineering
+Room 301,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Bülent Bilgehan,Faculty of Engineering - Dean
+Room 302,Office,Office,level 3 (third floor),innovation building,,Asst. Prof. Dr. Özlem Sabuncu,Electrical and Electronic Engineering VHoOD
+Room 302,Office,Office,level 3 (third floor),innovation building,,Sude Durmaz,Faculty Secretary
+Room 303,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Fadi Alturjman,Faculty of Al and Informatics - Dean
+Room 303,Office,Office,level 3 (third floor),innovation building,,"Sinem Alturjman, MSc.",Artificial Intelligence Engineering
+Room 304,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Nadire Çavu?,Faculty of Al and Informatics - Vice Dean
+Room 304,Office,Office,level 3 (third floor),innovation building,,Assoc. Prof. Dr. Süleyman A??r,Faculty of Engineering - Vice Dean
+Room 305,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Hüseyin Çamur,Mechanical Engineering - HoD
+Room 305,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Mahmut Ahsen Sava?,Mechanical Engineering
+Room 305,Office,Office,level 3 (third floor),innovation building,,Assoc. Prof. Dr. Youssef Kassem,Mechanical Engineering
+Room 305,Office,Office,level 3 (third floor),innovation building,,Assoc. Prof. Dr. Melis Sümengen Özdenefe,Biomedical Engineering
+Room 305,Office,Office,level 3 (third floor),innovation building,,Asst. Prof. Dr. Metin Bilin,Mechanical Engineering - VHoD
+Room 305,Office,Office,level 3 (third floor),innovation building,,"Asl? Akyol ?nada, MSc.",Mechanical Engineering
+Room 306,WC 306,Restroom (WC) for WOMEN,level 3 (third floor),innovation building,,,
+Room 307,WC 307,Restroom (WC) for MEN,level 3 (third floor),innovation building,,,
+Room 308,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Kamil Dimililer,Electrical and Electronic Engineering
+Room 308,Office,Office,level 3 (third floor),innovation building,,Asst. Prof. Dr. Cemal Kavalcio?lu,Electrical and Electronic Engineering
+Room 308,Office,Office,level 3 (third floor),innovation building,,Assoc. Prof. Dr. Samuel Nii Tackie,Electrical and Electronic Engineering
+Room 308,Office,Office,level 3 (third floor),innovation building,,Dr. Arya Saboury,Electrical and Electronic Engineering
+Room 308,Office,Office,level 3 (third floor),innovation building,,Muhammed Kele?,Vocational School
+Room 309,Office,Office,level 3 (third floor),innovation building,,Prof. Dr. Gülsüm A??ksoy,Artificial Intelligence Engineering - HoD
+Room 309,Office,Office,level 3 (third floor),innovation building,,Dr. Ramiz Salama,Software Engineering
+Room 309,Office,Office,level 3 (third floor),innovation building,,Dr. Behnam Zahednejad,Artificial Intelligence Engineering
+Room 309,Office,Office,level 3 (third floor),innovation building,,"Behnaz Shirgir, MSc.",Artificial Intelligence Engineering
+Room PATISSERIE & BAKERY,PATISSERIE & BAKERY,Laboratory,underground floor,International Building,,,
+Room bathroom,WC,Restroom (WC) for WOMEN,ground floor,International Building,Near to entrance door,,
+Room bathroom,WC,Restroom (WC) for MEN,ground floor,International Building,Near to entrance door,,
+Room Accessible Cinema and Activity Center,Accessible Cinema and Activity Center,Activity Center,ground floor,International Building,"Accessible venue for cinema screenings, educational activities, workshops, and inclusive social events.",,
+Room PHOTOGRAPHY STUDIO,Photography Studio,Studio,ground floor,International Building,"A studio equipped for photography sessions, practical training, image production, and related educational activities.",,
+Room Photography and Videography Coordination,Photography and Videography Coordination,Office,ground floor,International Building,"An administrative office responsible for coordinating photography and videography services, managing media production requests, and supporting university events and promotional activities.",,
+Room Office,Office,Office,ground floor,International Building,"Faculty office used by Lecturer Gazi YUKSEL for academic work, student consultations, meetings, and administrative duties.",Gazi YUKSEL,"Lecturer (or the official title if different, such as Assistant Professor, Associate Professor, Professor, Instructor, etc.)"
+Room T.H.I.M. (Public Relations and Promotion Center),T.H.I.M. (Public Relations and Promotion Center),Office,ground floor,International Building,"An administrative office responsible for public relations, university promotion, communication, media coordination, and outreach activities.",,
+Room IL-1-D02,Central Computer Lab,Computer Laboratory,ground floor,International Building,"A central computer laboratory equipped with computers and software for teaching, practical training, programming, research, and academic activities.",,
+Room Staff Restroom (WC),Staff Restroom (WC),Restroom,ground floor,International Building,A restroom designated for use by university staff members.,,
+Room Technical Room,Technical Room,Technical Room,ground floor,International Building,"A room used to house and maintain technical equipment, building systems, or network and electrical infrastructure.",,
+Room Kitchen,Kitchen,Kitchen,ground floor,International Building,"A kitchen used for food preparation, cooking, and related activities.",,
+Room Ayhan DOLUNAY Office,Ayhan DOLUNAY Office,Office,ground floor,International Building,"Faculty office used by Assoc. Prof. Dr. Ayhan DOLUNAY for academic work, student consultations, meetings, and administrative duties.",Assoc. Prof. Dr. Ayhan DOLUNAY,Associate Professor
+Room Huseyin Turan Office,Huseyin Turan Office,Office,ground floor,International Building,"Faculty office used by Lecturer Huseyin Turan for academic work, student consultations, meetings, and administrative duties.",Huseyin Turan,Lecturer
+Room Department of Basic Communication Sciences,Department of Basic Communication Sciences,Department Office,ground floor,International Building,"Administrative office of the Department of Basic Communication Sciences, providing academic administration, student support, and departmental services.",,
+"Room Journalism, Radio, Television and Cinema, Public Relations and Publicity","Journalism, Radio, Television and Cinema, Public Relations and Publicity",Department Office,ground floor,International Building,"Administrative office serving the Departments of Journalism, Radio, Television and Cinema, and Public Relations and Publicity. Provides academic administration and student support services.",,
+Room Ibrahim OZEJDER Office,Ibrahim OZEJDER Office,Office,ground floor,International Building,"Faculty office used by Asst. Prof. Dr. Ibrahim OZEKDER for academic work, student advising, research, meetings, and administrative duties.",Asst. Prof. Dr. Ibrahim OZEKDER,Assistant Professor
+Room Department of New Media and Communication,Department of New Media and Communication,Department Office,ground floor,International Building,"Administrative office of the Department of New Media and Communication, providing academic administration, student support, and departmental services.",,
+Room Department of Journalism,Department of Journalism,Department Office,ground floor,International Building,"Administrative office of the Department of Journalism, providing academic administration, student support, and departmental services.",,
+Room IL-1-D01 (CLASSROOM-11),Ayca Demet ATAY Office,Office,ground floor,International Building,"Faculty office used by Assoc. Prof. Dr. Ayca Demet ATAY for academic work, student consultations, research, meetings, and administrative duties.",Assoc. Prof. Dr. Ayca Demet ATAY,Associate Professor
+Room Sarvaenaz SAFAVI Office,Sarvaenaz SAFAVI Office,Office,ground floor,International Building,"Faculty office used by Asst. Prof. Dr. Sarvaenaz SAFAVI for academic work, student consultations, research, meetings, and administrative duties.",Asst. Prof. Dr. Sarvaenaz SAFAVI,Assistant Professor
+Room Chair of Filmmaking and Broadcasting Department,Chair of Filmmaking and Broadcasting Department,Department Office,ground floor,International Building,"Administrative office of the Chair of Filmmaking and Broadcasting Department, responsible for department management, academic coordination, and administrative activities.",,Department Chair
+Room Coordinator of Film Making,Coordinator of Film Making,Office,ground floor,International Building,"Administrative office responsible for coordinating filmmaking activities, academic programs, student support, and departmental operations.",,Coordinator
+Room Naile BERBEROGLU Office,Naile BERBEROGLU Office,Office,ground floor,International Building,"Faculty office used by Asst. Prof. Dr. Naile BERBEROGLU for academic work, student consultations, research, meetings, and administrative duties.",Asst. Prof. Dr. Naile BERBEROGLU,Assistant Professor
+Room WC,WC,Restroom (WC) for WOMEN,ground floor,International Building,,,
+Room WC,WC,Restroom (WC) for MEN,ground floor,International Building,,,
+Room Laboratory,Laboratory,Laboratory,Underground,International Building,"An underground laboratory used for practical training, experiments, research activities, and academic work.",,
+Room Visual Design,Visual Design,Design Studio,Underground,International Building,"A design studio used for visual design education, creative projects, graphic design practice, and related artistic activities.",,
+Room TYPOGRAPHY,TYPOGRAPHY,Design Studio,Underground,International Building,"A design studio used for typography education, lettering practice, graphic design projects, and visual communication activities.",,
+Room Office,Office,Office,Underground,International Building,"An administrative or staff office used for academic, professional, and administrative activities.",,
+Room PHOTOGRAPHY,PHOTOGRAPHY,Studio,Underground,International Building,"A photography studio used for photography education, practical training, photo shoots, lighting practice, and image production activities.",,
+Room Special Needs Bathroom,Special Needs Bathroom,Restroom,Underground,International Building,An accessible restroom facility designed to accommodate individuals with special needs and mobility requirements.,,
+Room Women Bathroom,Women Bathroom,Restroom,Underground,International Building,A restroom facility designated for female users.,,
+Room Men Bathroom,Men Bathroom,Restroom,Underground,International Building,A restroom facility designated for male users.,,
+Room Accessible Cinema and Activity Center,Accessible Cinema and Activity Center,Activity Center,Underground,International Building,"An accessible facility used for cinema screenings, educational activities, workshops, and social events, designed to support inclusive participation for all users.",,
+Room Art and Design Studio,Art and Design Studio,Design Studio,First Floor,International Building,"A creative studio used for art and design education, practical projects, visual production, and artistic activities.",,
+Room Pembe Can Office,Pembe Can Office,Office,First Floor,International Building,"Faculty office used by Asst. Prof. Dr. Pembe Can for academic work, student consultations, research, meetings, and administrative duties.",Asst. Prof. Dr. Pembe Can,Assistant Professor
+Room Bahar Ozturk Gungor Office,Bahar Ozturk Gungor Office,Office,First Floor,International Building,"Faculty office used by Dr. Bahar Ozturk Gungor for academic work, student consultations, research, meetings, and administrative duties.",Dr. Bahar Ozturk Gungor,Doctor
+Room Visual Communication Design Department Chairmanship,Visual Communication Design Department Chairmanship,Department Office,First Floor,International Building,"Administrative office of the Chair of the Visual Communication Design Department, responsible for department leadership, academic coordination, student support, and administrative activities.",Asst. Prof. Dr. Savas Gungor,Department Chair
+Room IL-2-D01,Follow Up Unit,Office,First Floor,International Building,"An administrative office responsible for following up with prospective and current international students, providing guidance, support, and coordination of related services.",,
+Room Ozen CATAL Office,Ozen CATAL Office,Office,First Floor,International Building,"Faculty office used by Asst. Prof. Dr. Ozen CATAL for academic work, student consultations, research, meetings, and administrative duties.",Asst. Prof. Dr. Ozen CATAL,Assistant Professor
+Room Fuat Bogac EVREN Office,Fuat Bogac EVREN Office,Office,First Floor,International Building,"Faculty office used by Assoc. Prof. Dr. Fuat Bogac EVREN for academic work, student consultations, research, meetings, and administrative duties.",Assoc. Prof. Dr. Fuat Bogac EVREN,Associate Professor
+Room Ufuk ALTUNC Office,Ufuk ALTUNC Office,Office,First Floor,International Building,"Faculty office used by Lecturer Ufuk ALTUNC for academic work, student consultations, meetings, and administrative duties.",Ufuk ALTUNC,Lecturer
+Room Zeyde Yaliner OREK Office,Zeyde Yaliner OREK Office,Office,First Floor,International Building,"Faculty office used by Lecturer Zeyde Yaliner OREK for academic work, student consultations, meetings, research, and administrative duties.",Zeyde Yaliner OREK,Lecturer
+Room Kitchen,Kitchen,Kitchen,First Floor,International Building,"A kitchen used for food preparation, cooking, and related support activities.",,
+Technical Room,Technical Room,Technical Room,First Floor,International Building,"A room used to house and maintain building systems, electrical equipment, networking equipment, or other technical infrastructure.",,
+Room IL-2-D02,CLASSROOM - 22,Classroom,First Floor,International Building,"A classroom used for lectures, tutorials, seminars, and other academic teaching activities.",,
+Room Ladies Room,Ladies Room,Restroom,First Floor,International Building,A restroom designated for female users.,,
+Room Gents Room,Gents Room,Restroom,First Floor,International Building,A restroom designated for male users.,,
+Room IL-2-D03,Africa Region Unit,Office,First Floor,International Building,"An administrative office responsible for supporting prospective and current students from the African region, coordinating admissions, communication, and student services.",,
+Room IL-2-D04,"EURASIA, MIDDLE EAST AND FOLLOW UP UNIT",Administrative Office,First Floor,International Building,"Administrative unit responsible for Eurasia, Middle East, and follow-up/international coordination services.",,
+Room R-1,FOREIGN STUDENT AFFAIR,Administrative Office,Second Floor,International Building,"Administrative office that provides services and support for international students, including admissions, registration guidance, visa and residence procedures, and student affairs",,
+Room Men's Restroom,Men's Restroom,Restroom,Second Floor,International Building,"Men's restroom facility for students, staff, and visitors.",,
+Room Women's Restroom,Women's Restroom,Restroom,Second Floor,International Building,"Women's restroom facility for students, staff, and visitors.",,
+Room R-2,FOUNDATION PROGRAM,Administrative Office,Second Floor,International Building,"Administrative office responsible for the Foundation Program, providing information, coordination, and student support for foundation-level studies.",,
+Room R-2,FACULTY OF ENGINEERING,Faculty Office,Second Floor,International Building,"Administrative office of the Faculty of Engineering, providing academic administration, student services, and faculty support.",,
+Room R-2,FACULTY OF CIVIL AND ENVIRONMENTAL ENGINEERING,Faculty Office,Second Floor,International Building,"Administrative office of the Faculty of Civil and Environmental Engineering, providing academic administration, student services, and faculty support.",,
+Room R-2,FACULTY OF LAW,Faculty Office,Second Floor,International Building,"Administrative office of the Faculty of Law, providing academic administration, student services, and faculty support.",,
+Room R-2,OPEN AND DISTANCE LEARNING,Administrative Office,Second Floor,International Building,"Administrative office responsible for open and distance learning programs, providing academic support, coordination, and online education services.",,
+Room INTERNATIONAL OFFICE ADMINISTRATION – AFRICA REGION UNIT,INTERNATIONAL OFFICE ADMINISTRATION – AFRICA REGION UNIT,Administrative Office,Second Floor,International Building,"Administrative office within the International Office responsible for admissions, communication, and student support for the Africa region.",,
+Room INTERNATIONAL STUDENT OFFICE – ONLINE APPLICATION,INTERNATIONAL STUDENT OFFICE – ONLINE APPLICATION,Administrative Office,Second Floor,International Building,Administrative office responsible for processing and supporting online applications from international students.,,
+RoomTECHNICAL ROOM,TECHNICAL ROOM,Technical Room,Second Floor,International Building,"Room used to house and maintain technical equipment, network infrastructure, electrical systems, or other building support systems. Access is typically restricted to authorized personnel.",,
+Room Kitchen,Kitchen,Kitchen,Second Floor,International Building,Staff-only kitchen used for food preparation and catering services. Access is restricted to authorized personnel; no unauthorized access is permitted.,,
+"Room YDU FM 88.0 MHz – Press, Broadcasting and Public Relations Directorate / Prestij Public Relations Agency","YDU FM 88.0 MHz – Press, Broadcasting and Public Relations Directorate / Prestij Public Relations Agency",Administrative Office,Second Floor,International Building,"Office for YDU FM 88.0 MHz and the Press, Broadcasting and Public Relations Directorate (Bas?n Yay?n ve Halkla ?li?kiler Müdürlü?ü), including the Prestij Public Relations Agency. Responsible for university broadcasting, media relations, public relations, and communication activities.",,
+Room NEC K-12 – Near East Preschool–College,NEC K-12 – Near East Preschool–College,Administrative Office,Second Floor,International Building,"Administrative office for Near East College (K–12), serving preschool through secondary education.",,
+Room Foundation School Manager & International Development & Accreditation Coordinator Office,Foundation School Manager & International Development & Accreditation Coordinator Office,Administrative Office,Second Floor,International Building,"Administrative office for the Foundation School Manager and the International Development & Accreditation Coordinator, responsible for foundation program management, international development initiatives, and accreditation processes.",,
+Room R-3,International Office – Registration Unit / Postgraduate Students Affairs Office,Administrative Office,Second Floor,International Building,Administrative office providing registration services through the International Office Registration Unit and support for postgraduate student affairs.,,
+Room Near East University Television Studios,Near East University Television Studios,Television Studio,Third Floor ,International Building,"Television production studios used for video recording, broadcasting, filming, and media production activities for educational and institutional purposes.",,

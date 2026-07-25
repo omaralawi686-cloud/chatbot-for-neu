@@ -1,0 +1,684 @@
+# Near East University (NEU) — Q&A Dataset
+# Format: Q: question / A: answer
+# Source: neu.edu.tr, neareasthospital.com — verified live fetches June 2026
+# Last updated: 2026-06-27
+# Total Q&A pairs: 130+
+
+---
+
+Q: What is Near East University?
+A: Near East University (NEU), known in Turkish as Yakın Doğu Üniversitesi (YDÜ), is a private university founded in 1988 in North Nicosia, Northern Cyprus. It is the largest university in Northern Cyprus, with over 25,000 students from more than 100 countries, 20 faculties, and 98+ departments.
+
+Q: Where is Near East University located?
+A: Near East University is located on Near East Boulevard, ZIP: 99138, Nicosia, Turkish Republic of Northern Cyprus (TRNC), Mersin 10 – Turkey. The campus is a few kilometres from central Nicosia, accessible via the Near East Boulevard road.
+
+Q: What is the main phone number for NEU?
+A: NEU's main phone numbers are +90 (392) 223 64 64 and +90 (392) 680 20 00.
+
+Q: What is the email address for NEU?
+A: The general email is info@neu.edu.tr.
+
+Q: How do I contact the International Students Office?
+A: The International Students Office can be reached via WhatsApp at +90 548 818 08 18. You can also visit their page at https://neu.edu.tr/students/international-student-office/?lang=en.
+
+Q: Who founded Near East University?
+A: NEU was founded by Suat Günsel in 1988. His son, Irfan Günsel, is the current Chairman of the Board of Trustees.
+
+Q: When was NEU founded?
+A: Near East University was founded in 1988.
+
+Q: How many students does NEU have?
+A: NEU has over 25,000 students from more than 100 countries.
+
+Q: How many faculties does NEU have?
+A: NEU currently has 20 faculties, plus 5 graduate schools, 4 vocational schools, and applied schools.
+
+Q: What are the faculties at NEU?
+A: NEU's 20 faculties are: Architecture; Atatürk Faculty of Education; Dentistry; Pharmacy; Arts and Sciences; Fine Arts and Design; Nursing; Law; Economics and Administrative Sciences; Civil and Environmental Engineering; Theology; Communication; Engineering; Health Sciences; Sports Sciences; Medicine; Tourism; Veterinary Medicine; Artificial Intelligence and Informatics; and Agriculture.
+
+Q: What engineering departments does NEU have?
+A: The Faculty of Engineering offers: Computer Engineering, Electrical and Electronics Engineering, Artificial Intelligence Engineering, Mechanical Engineering, Biomedical Engineering, Information Systems Engineering, Food Engineering, Automotive Engineering, Software Engineering, Petroleum and Natural Gas Engineering, Mechatronics Engineering, and Materials Science and Nanotechnology Engineering.
+
+Q: Does NEU have a medical school?
+A: Yes. The Faculty of Medicine was established in 2008 and the hospital was inaugurated in 2009. NEU is the only university in Northern Cyprus offering education in Medicine and Dentistry.
+
+Q: Does NEU have a law school?
+A: Yes. The Faculty of Law offers LLB (undergraduate), LLM (postgraduate), and PhD programs.
+
+Q: What programs does the Faculty of Economics and Administrative Sciences offer?
+A: Departments include: Business Administration, Economics, Marketing, Management Information Systems, International Relations, International Business, Banking and Finance, Political Science, Human Resources Management, Tourism Management, Public Administration, European Union Relations, Insurance and Actuarial, Health Care Organizations Management, and Information and Document Management.
+
+Q: What departments are in the Faculty of Arts and Sciences?
+A: Molecular Biology & Genetics, English Language and Literature, Mathematics, Turkish Language and Literature, Psychology (Turkish and English programs), History, Geography, and Translation Science.
+
+Q: Does NEU have an AI faculty?
+A: Yes. The Faculty of Artificial Intelligence and Informatics is a dedicated faculty for AI programs, offering BSc, MSc, and PhD degrees.
+
+Q: What vocational (associate degree) programs does NEU offer?
+A: Computer Technologies and Programming; Construction Technology; First and Emergency Aid; Public Relations and Advertising; Radio and TV Programming.
+
+Q: What programs are offered in the Faculty of Communication?
+A: Advertising and Public Relations, Journalism, Radio and Television, and Visual Communication Design — all leading to a Bachelor of Arts (BA) degree.
+
+Q: What sports science programs does NEU offer?
+A: Physical Education and Sports Teaching, Sports Management, Coaching Training, and Recreation.
+
+Q: What tourism programs does NEU have?
+A: Tourism and Hotel Management (in both Turkish and English), Gastronomy, and Cookery, offered through the Faculty of Tourism.
+
+Q: Does NEU offer graduate programs?
+A: Yes. NEU offers over 200 master's and doctoral programs through its 5 graduate schools and the Institute of Graduate Studies.
+
+Q: What is a double major at NEU?
+A: A double major allows students enrolled in one undergraduate program to earn a second undergraduate diploma in another department within or outside their faculty, if they meet the academic conditions set by the University Senate.
+
+Q: How do I apply to NEU?
+A: Applications can be submitted online at https://aday.neu.edu.tr. Requirements include: original High School Diploma, photocopy of passport, English language qualification (if taken), and for transfer students, academic transcripts and course descriptions. Processing takes 2–4 weeks.
+
+Q: What are the admission requirements for Medicine, Dentistry, Pharmacy, and Engineering?
+A: Applicants must have GCE A-level results in Mathematics, Physics, Biology, or Chemistry (depending on the specific program).
+
+Q: Does NEU offer scholarships?
+A: Yes. NEU offers full and half (50%) scholarships, merit-based and need-based awards. A 75% scholarship is available for Tourism and Hotel Management. See https://neu.edu.tr/students/scholarships/?lang=en for details.
+
+Q: How much does NEU tuition cost?
+A: Approximate annual fees: Medicine/Dentistry ~€12,500; other faculties ~€5,600. Additional costs include registration (~€105), social activity fee (~€200/year), and health insurance (~€50). A 5% VAT applies. Fees are fixed throughout the study period.
+
+Q: Does NEU have a library?
+A: Yes. The NEU Grand Library is open 24/7, covering 15,000 m². It holds over 2,250,000 books, 60,000+ electronic journals, 650 million+ electronic resources, 10,500 DVDs, and accommodates up to 1,000 people. It has study rooms, amphitheatres, a children's library, and special collections.
+
+Q: What are the library's opening hours?
+A: The Grand Library is open 24 hours a day, 7 days a week.
+
+Q: Does NEU have a hospital on campus?
+A: Yes. NEU Hospital (Near East Hospital) is on campus, 55,000 m², JCI accredited. It is the most advanced hospital in Northern Cyprus. Website: https://neareasthospital.com. Phone: +90 392 444 0 535.
+
+Q: Is there a swimming pool at NEU?
+A: Yes. NEU has an Olympic indoor swimming pool (2,700 m²) — the only one of its kind in Northern Cyprus.
+
+Q: What campus facilities does NEU have?
+A: NEU offers: Grand Library (24/7), NEU Hospital (24/7), Olympic indoor swimming pool, sports halls, Atatürk Culture and Congress Centre, Park Near East (220,000 m²), 3 museums, student dormitories (5,500-bed capacity), 42 canteens/cafes, bank branches (Near East Bank, İş Bankası, Ziraat ATM), supermarket, travel agency, post office, Near East TV & FM radio, NEU-IBM Research Centre with supercomputer, and more.
+
+Q: Where can students live at NEU?
+A: NEU provides on-campus dormitories with a capacity of approximately 5,500 students across 13 blocks (7 female, 6 male). Three types of accommodation are available: standard dormitories, apartment dormitories, and residences. Each dormitory holds 250–300 students.
+
+Q: What museums are on the NEU campus?
+A: NEU has three museums: the Communications Museum, the GÜNSEL Art Museum, and the Museum of Classical and Sports Cars (140+ vehicles, founded 2007, mobile app available in English and Turkish).
+
+Q: How do students get around the NEU campus and city?
+A: NEU offers free shuttle services running from 06:45 to 22:15 between campus and Nicosia city centre, and also to Kyrenia, Famagusta, and Güzelyurt. A shuttle also runs between the dormitory area and campus units. Public buses also run between campus and Nicosia city centre via Gönyeli. Full schedule: https://bus.neu.edu.tr/
+
+Q: What is the shuttle timetable for NEU?
+A: Free shuttles run from 06:45 in the morning to 22:15 in the evening, operating between Campus–Nicosia, Nicosia–Campus, Campus–Kyrenia, Campus–Famagusta, and Campus–Güzelyurt. A dormitory-to-campus internal shuttle also operates. Full schedule: https://bus.neu.edu.tr/
+
+Q: What research facilities does NEU have?
+A: NEU has 28+ research centres, including: NEU-IBM Research Centre (with a supercomputer ranked 13th in the world), DESAM Research Institute, Near East Institute, Experimental Animals Research Centre, Nuclear Medicine Research Centre, Herbarium (est. 2006), and 40+ state-of-the-art laboratories.
+
+Q: What ranking does NEU's supercomputer have?
+A: NEU's supercomputer ranks 13th in the world and 1st in the region for computation speed and capacity.
+
+Q: What notable research has NEU conducted?
+A: NEU participated in CERN's Large Hadron Collider experiment, the Help Conquer Cancer project, and Ebola virus research (2014). NEU also created Northern Cyprus's first solar-powered car, RA 25, which competed in the South African Solar Challenge and finished 8th.
+
+Q: What accreditations does NEU hold?
+A: Key accreditations include JCI (hospital), ACPE (Faculty of Pharmacy, 2014). NEU is a member of the European University Association (EUA), IAU/UNESCO, IGIP, FUIW, and 118+ other international bodies.
+
+Q: What is the Atatürk Culture and Congress Centre?
+A: It is the largest congress hall in North Nicosia, located on the NEU campus. It has a main hall with 700-seat capacity and a stage of 163.85 m². It hosts congresses, concerts, theatre festivals, and cultural events. Cafe AKKM is located inside.
+
+Q: What administrative office hours does NEU have?
+A: General administrative offices: Monday–Friday, 08:00–17:00. Student Services: Monday–Friday, 08:30–16:30. International Students Office: Monday–Friday, 09:00–17:00. The Grand Library and hospital are open 24/7.
+
+Q: Does NEU offer distance learning?
+A: Yes. NEU has a Distance Learning Centre. Visit: https://neu.edu.tr/academic/distance-learning-centre/?lang=en.
+
+Q: Does NEU have a summer school?
+A: Yes. Summer school is available. Visit: https://neu.edu.tr/students/summer-school/?lang=en.
+
+Q: What is the Faculty of Pharmacy accredited by?
+A: The Faculty of Pharmacy is accredited by the Accreditation Council for Pharmacy Education (ACPE) since 2014.
+
+Q: What social media channels does NEU have?
+A: Facebook: https://www.facebook.com/YakinDoguUniversitesiOfficial/ | Twitter/X: https://twitter.com/YakinDoguUni | Instagram: https://www.instagram.com/YakinDoguUniversitesiOfficial/ | YouTube: https://www.youtube.com/channel/UCakoFxzp6LXKlbCf4IdQhVA/ | LinkedIn: https://www.linkedin.com/company/yakin-dogu-university
+
+Q: What is the NEU website?
+A: https://neu.edu.tr (English: https://neu.edu.tr/?lang=en)
+
+Q: Does NEU offer preparatory language courses?
+A: Yes. NEU has preparatory schools offering English and Turkish language preparation for students who need language support before starting their degree. Visit: https://neu.edu.tr/academic/preparatory-schools/?lang=en.
+
+Q: Does NEU have dentistry specialisations?
+A: Yes. The Faculty of Dentistry includes: Oral, Dental and Maxillofacial Surgery; Oral, Dental and Maxillofacial Radiology; Endodontics; Orthodontics; Pedodontics; Periodontology; Prosthesis; Restorative Dentistry; and Basic Medical Sciences.
+
+Q: What schools are on the NEU campus for K-12 students?
+A: Near East Kindergarten, Near East Primary School, and Near East College (middle and high school) are all on the NEU campus. Website: https://nec.k12.tr.
+
+Q: Does NEU have student counselling services?
+A: Yes. NEU offers counselling, career guidance, academic advising, and language support through the Student Deanship and related offices.
+
+Q: What is NEU's WhatsApp contact?
+A: General enquiries WhatsApp: +90 548 843 05 35. International Students Office WhatsApp: +90 548 818 08 18.
+
+Q: Does NEU use ECTS credits?
+A: Yes. NEU uses the European Credit Transfer System (ECTS). More info: https://neu.edu.tr/academic/ects-european-credit-transfer-system/?lang=en.
+
+Q: Where can I find the NEU academic calendar?
+A: https://neu.edu.tr/academic/academic-calendar/?lang=en.
+
+Q: What are the GPS coordinates of NEU?
+A: Latitude: 35.2274, Longitude: 33.3183. Google Maps: https://www.google.com/maps?ll=35.226735,33.326385&z=15.
+
+Q: Does NEU have an AI professor assistant?
+A: Yes. NEU has "Ai. Prof. DUX", an AI-powered academic assistant. Visit: https://neu.edu.tr/academic/ai-prof-dux/?lang=en.
+
+Q: What is Park Near East?
+A: Park Near East is a 220,000 m² recreation and events park opened on the NEU campus in 2014. It has hosted concerts for Deep Purple, Yüksek Sadakat, and performances by the Moscow State Ballet, as well as the annual Spring Fest and Rock 'n Cyprus Festival.
+
+---
+
+# HOSPITAL DEPARTMENTS — LOCATION & HOURS
+
+Q: Where is the Emergency Department at NEU Hospital?
+A: The Emergency Department is on the 1st Floor, West Block of NEU Hospital. It operates 24/7, every day of the year. It includes a resuscitation room, trauma room, minor procedure room, 3 examination rooms, 4 triage rooms, and a 12-bed observation area with bedside monitors. Phone: +90 392 444 0 535.
+
+Q: Where is the Cardiology Department at NEU Hospital?
+A: Cardiology outpatient clinic is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00. It includes a 24-hour 10-bed Coronary Intensive Care Unit, Cardiac Check-up Unit, Effort Test Laboratory, and Nuclear Cardiology Unit.
+
+Q: Where is Cardiovascular Surgery at NEU Hospital?
+A: Cardiovascular Surgery outpatient clinic is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00. The department has a 10-bed ward, a 4-bed ICU, and 2 dedicated operating theatres. Established 2010.
+
+Q: Where is the Neurology Department at NEU Hospital?
+A: Neurology outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00. Sub-clinics include: Headache Clinic, Parkinson's and Movement Disorders Clinic, Stroke Unit, Multiple Sclerosis Clinic, Dementia Clinic, Epilepsy Clinic, and a Video-EEG Monitoring Unit (the only one on the island).
+
+Q: Where is Brain and Neurosurgery (Neurosurgery) at NEU Hospital?
+A: Brain and Neurosurgery outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00. Emergency neurosurgical services are available 24/7. Head of department: Prof. Dr. Doğa GÜRKANLAR.
+
+Q: Where is the Gynaecology and Obstetrics Department at NEU Hospital?
+A: Gynaecology and Obstetrics outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00. The department sees approximately 1,500 patients, performs 50 gynaecological procedures, 1,000 ultrasounds, and 20 foetal echocardiograms per month. It includes a 17-bed Neonatal ICU.
+
+Q: Where is the Paediatrics (Children's Health) Department at NEU Hospital?
+A: Paediatrics outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00. Covers patients aged 0–18. Includes a Neonatal Intensive Care Unit (NICU). Sub-departments include paediatric allergy, immunology, neurology, haematology, chest diseases, nephrology, cardiology, gastroenterology, rheumatology, endocrinology, and oncology.
+
+Q: Where is Orthopaedics at NEU Hospital?
+A: Orthopaedics and Traumatology outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00. Established 2010. Specialist: Assoc. Prof. Dr. Deniz AYDIN.
+
+Q: Where is the Radiology Department at NEU Hospital?
+A: Radiology is on the 1st Floor, West Block, open Monday–Friday 08:00–17:00. Equipment includes a 1.5 Tesla 48-channel MRI (Siemens Magnetom Aera), 256-slice CT scanner, digital mammography, and digital angiography. Emergency imaging available 24/7.
+
+Q: Where is Nuclear Medicine at NEU Hospital?
+A: Nuclear Medicine is on the 1st Floor, West Block, open Monday–Friday 08:00–17:00. It houses Cyprus's first and only PET/CT system (GE Discovery STE 16), a dual-head SPECT gamma camera, and inpatient rooms for high-dose radionuclide therapy.
+
+Q: Where is the Biochemistry Laboratory at NEU Hospital?
+A: The Biochemistry Laboratory is on the Ground Floor, East Block, and operates 24/7 every day of the year. It performs over 700,000 tests per year across more than 200 test types.
+
+Q: Where is the Blood Bank at NEU Hospital?
+A: The Blood Bank is on the Ground Floor, East Block. Blood donations are accepted from 08:00 to 22:00 daily (emergency donations accepted outside these hours). Operational since June 2010.
+
+Q: Where is Psychiatry / Mental Health at NEU Hospital?
+A: Psychiatry outpatient clinic is on the 6th Floor, West Block, open Monday–Friday 08:00–17:00. Facilities include a Psychometry Laboratory and an ECT (Electroconvulsive Therapy) Unit.
+
+Q: Where is the Oncology Department at NEU Hospital?
+A: Medical Oncology is on the 2nd Floor, East Block (Mon–Fri 08:00–17:00). Radiation Oncology is on the Ground Floor, East Block (Mon–Fri 08:00–17:00), operational since April 2010, with RapidArc and Brachytherapy capabilities.
+
+Q: Where is the Sleep Laboratory at NEU Hospital?
+A: The Sleep Laboratory is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00 for consultations. Overnight polysomnography studies are conducted in private home-like rooms on-site.
+
+Q: Where is the Genetics / Medical Genetics Laboratory at NEU Hospital?
+A: Medical Genetics Diagnostic Laboratory is on the Ground Floor, East Block, open Monday–Friday 08:00–17:00. It is the only cytogenetics laboratory of its kind in Northern Cyprus.
+
+Q: Where is Dermatology at NEU Hospital?
+A: Dermatology is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Ophthalmology (Eye Diseases) at NEU Hospital?
+A: Ophthalmology is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is ENT (Ear, Nose and Throat) at NEU Hospital?
+A: ENT outpatient clinic is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00. The department sees approximately 10,000 patients and performs around 500 surgeries per year.
+
+Q: Where is Urology at NEU Hospital?
+A: Urology is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Nephrology at NEU Hospital?
+A: Nephrology is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00. Serves patients aged 16 and above.
+
+Q: Where is Internal Medicine at NEU Hospital?
+A: Internal Medicine is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is General Surgery at NEU Hospital?
+A: General Surgery outpatient clinic is on the 1st Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Pathology at NEU Hospital?
+A: Pathology is on the Ground Floor, East Block, open Monday–Friday 08:00–17:00. Performs surgical pathology, cytopathology (Pap smear), immunohistochemistry, and autopsies.
+
+Q: Where is the Intensive Care Unit (ICU) at NEU Hospital?
+A: NEU Hospital has 4 ICUs: General ICU (24/7), Cardiovascular Surgery ICU (2nd Floor, East Block, 4 beds), Coronary/Cardiology ICU (2nd Floor, East Block, 10 beds, 24/7), and Neonatal ICU (3rd Floor, East Block, 17 beds). Total ICU capacity: 30 beds.
+
+Q: Where is Allergy and Immunology at NEU Hospital?
+A: Allergy and Immunology outpatient clinic is on the 3rd Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Endocrinology at NEU Hospital?
+A: Endocrinology and Metabolic Diseases is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Haematology at NEU Hospital?
+A: Haematology is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Rheumatology at NEU Hospital?
+A: Rheumatology is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Physical Medicine and Rehabilitation at NEU Hospital?
+A: Physical Medicine and Rehabilitation is on the Ground Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Sports Medicine at NEU Hospital?
+A: Sports Medicine is on the Ground Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is the Smoking Cessation Clinic at NEU Hospital?
+A: The Smoking Cessation Clinic is on the 6th Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Nutrition and Dietetics at NEU Hospital?
+A: Nutrition and Dietetics is on the 6th Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Thoracic Surgery at NEU Hospital?
+A: Thoracic Surgery is on the 6th Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Plastic Surgery at NEU Hospital?
+A: Plastic, Reconstructive and Aesthetic Surgery is on the 2nd Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Infectious Diseases at NEU Hospital?
+A: Infectious Diseases and Clinical Microbiology is on the Ground Floor, East Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is Interventional Radiology at NEU Hospital?
+A: Interventional Radiology is on the 1st Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is the Oral and Dental Health department?
+A: The Dental Hospital is a separate building on the NEU campus (not in the main hospital block). It has 8 departments: Dental and Maxillofacial Radiology, Periodontology, Restorative Dentistry, Endodontics, Oral and Maxillofacial Surgery, Prosthodontics, Paedodontics, and Orthodontics. Open Monday–Friday 08:00–17:00.
+
+Q: What floor is Child and Adolescent Psychiatry at NEU Hospital?
+A: Child and Adolescent Psychiatry is on the 6th Floor, West Block, open Monday–Friday 08:00–17:00.
+
+Q: Where is the Molecular Microbiology Laboratory at NEU Hospital?
+A: The Molecular Microbiology Laboratory is on the 1st Floor, East Block, open Monday–Friday 08:00–17:00. Tests include PCR-based respiratory panels, STD panels, HIV, hepatitis B/C, and HPV genotyping.
+
+Q: Which hospital departments are open 24/7?
+A: Emergency Medicine (1st Floor, West Block), Biochemistry Laboratory (Ground Floor, East Block), and all Intensive Care Units are open 24 hours a day, 7 days a week. The Coronary ICU and Blood Bank also provide after-hours emergency services.
+
+---
+
+# CAMPUS SERVICES — SPECIFIC QUESTIONS
+
+Q: Where is the post office on the NEU campus?
+A: The post office is located on the Ground Floor of the Faculty of Economics and Administrative Sciences building.
+
+Q: Where can I buy textbooks on the NEU campus?
+A: The Book House (campus bookstore) is located inside the Grand Library. Contact: +90 (392) 444 0 938 / 477.
+
+Q: Is there a supermarket on the NEU campus?
+A: Yes. There is a supermarket located below Dormitory 1 (in the dormitory complex area). Hours: weekdays 08:00–24:00, weekends 10:00–24:00.
+
+Q: Which banks are on the NEU campus?
+A: Three banking services are available on campus: Near East Bank (full branch), Türkiye İş Bankası (full branch), and Ziraat Bankası (ATM only).
+
+Q: What cafes and restaurants are on the NEU campus?
+A: NEU has 42 canteens/cafes/restaurants with combined seating for 4,500 people. Named outlets include: Central Cafeteria, Teachers' Cafeteria, Hospital Cafeteria, Hospital Restaurant, 9th Floor Restaurant, Cafe Hastane 1 & 2, Cafe Bigla, Cafe Dental, Cafe Ecza, Cafe Saray, Chicken House, Cafe Library, Cafe Bridge, Cafe Veterinary, Gusto Cafe, Cafe Sağlık, Vitamin Cafe, Cafe 535, Cafe AKKM, Book Cafe, Cafe Laundry, Kebap House, Pizza Pizza, and The Kaffo.
+
+Q: Is there a cafe near the Dental Faculty at NEU?
+A: Yes — Cafe Dental is located near the Faculty of Dentistry.
+
+Q: Is there a cafe in the NEU Library?
+A: Yes — Cafe Library is located inside or immediately adjacent to the Grand Library.
+
+Q: Where is the hospital cafe at NEU?
+A: There are two hospital cafes: Cafe Hastane 1 and Cafe Hastane 2, both located in the NEU Hospital building. There is also a full Hospital Restaurant and a Hospital Cafeteria.
+
+Q: What is the 9th Floor Restaurant at NEU?
+A: The 9th Floor Restaurant is a restaurant located on the 9th floor of one of the main campus buildings, offering panoramic views. It is one of the named dining venues across the 42-outlet campus dining network.
+
+Q: How many dormitory blocks does NEU have?
+A: NEU has 13 dormitory blocks: 7 female dormitories and 6 male dormitories. Room types include single, double, triple, and quad rooms. Three accommodation types are available: standard dormitory, apartment dormitory, and residence. Total capacity is 5,500 beds.
+
+Q: What are the dormitory types at NEU?
+A: Three types: (1) Standard Dormitories — shared rooms for 1–4 students, 250–300 beds each; (2) Apartment Dormitories — apartment-style shared living; (3) Residences — residence-style accommodation. All have 24-hour security.
+
+Q: How do I apply for a dormitory at NEU?
+A: Apply online at https://neu.edu.tr/campus-life/dormitories/application/?lang=en. Check fees at https://neu.edu.tr/campus-life/dormitories/fees/?lang=en.
+
+Q: What shuttle routes does NEU offer?
+A: NEU offers free shuttles from 06:45–22:15 on routes: Campus ↔ Nicosia, Campus ↔ Kyrenia, Campus ↔ Famagusta, Campus ↔ Güzelyurt, and Dormitory Area ↔ Campus internal units. Full timetable: https://bus.neu.edu.tr/
+
+Q: What is the phone number for NEU Hospital?
+A: +90 392 444 0 535.
+
+Q: How large is NEU Hospital?
+A: NEU Hospital covers 55,000 m² and has 209 patient rooms (22 VIP), 8 operating theatres, 30 ICU beds, 17 NICU beds, and maximum capacity of 500 beds. It is structured in three blocks of 3, 4, and 9 floors.
+
+Q: Is NEU Hospital JCI accredited?
+A: Yes. NEU Hospital received Joint Commission International (JCI) accreditation in 2009, making it the only JCI-accredited hospital in Northern Cyprus.
+
+Q: What is the Faculty of Pharmacy website?
+A: https://eczacilik.neu.edu.tr
+
+Q: What is the Faculty of Engineering website?
+A: https://muhendislik.neu.edu.tr
+
+Q: What is the Faculty of Medicine website?
+A: https://medicine.neu.edu.tr
+
+Q: What is the Faculty of Law website?
+A: https://hukuk.neu.edu.tr
+
+Q: What is the Faculty of Dentistry website?
+A: https://dentistry.neu.edu.tr
+
+Q: What is the Faculty of Architecture website?
+A: https://mimarlik.neu.edu.tr
+
+Q: What is the NEU Grand Library website?
+A: https://neu.edu.tr/academic/grand-library/?lang=en
+
+Q: Where can I find the NEU phone directory?
+A: https://neu.edu.tr/phone-directory/?lang=en
+
+Q: Where can I find NEU weekly lesson/class programs?
+A: https://neu.edu.tr/weekly-lesson-programs/?lang=en
+
+Q: What events does NEU organise annually?
+A: Spring Fest (concerts, dance, sports competitions, board games), Rock 'n Cyprus Festival, NEU Nicosia Carnival, Cyprus Theatre Festival (international), and Photography Contest.
+
+Q: What is the Atatürk Culture and Congress Centre phone or contact?
+A: The AKKM is on the NEU main campus. Contact via NEU main number +90 (392) 223 64 64 or see https://neu.edu.tr/campus-life/ataturk-culture-and-congress-centre/?lang=en.
+
+Q: Does NEU have its own TV and radio station?
+A: Yes. Near East TV (television) and Near East FM (radio) are university-owned media outlets broadcasting from the NEU campus. Website: https://neu.edu.tr/campus-life/near-east-tv-near-east-fm/?lang=en
+
+Q: What is NEU's QS world ranking?
+A: NEU ranks in the QS World University Rankings subject rankings: Top 250 in Engineering and Top 250 in Computer Science. Overall QS WUR subject ranking 2026: #701–750.
+
+Q: What is DESAM at NEU?
+A: DESAM is the NEU Research Institute focusing on experimental and scientific research. Website: https://neu.edu.tr/research/desam-research-institute/?lang=en
+
+Q: What is the Herbarium at NEU?
+A: The Herbarium was established in 2006 by Salih Gucel and is a botanical research facility on the NEU campus cataloguing plant species, with focus on Cypriot and Eastern Mediterranean flora.
+
+Q: What is the RA 25 solar car?
+A: RA 25 is the first solar-powered car produced in Northern Cyprus, created by NEU. It competed in the 2014 South African Solar Challenge and finished 8th place. A follow-up model, RA 26, was developed for family automobile use.
+
+Q: What is GÜNSEL at NEU?
+A: GÜNSEL is NEU's electric vehicle project — a fully electric car developed on the NEU campus. Website: https://www.gunsel.com.tr/en
+
+Q: Where is the NERITA office at NEU?
+A: The NERITA (Innovation and Information Technology Centre) office is located on Near East Boulevard within the NEU campus. It is the home of NEU's R&D and Innovation activities.
+
+Q: Does NEU have veterinary programs?
+A: Yes. The Faculty of Veterinary Medicine offers DVM (Doctor of Veterinary Medicine), MSc, and PhD programs. Website: https://veterinary.neu.edu.tr
+
+Q: Does NEU have agriculture programs?
+A: Yes. The Faculty of Agriculture offers BSc and MSc programs in Plant Production and Technologies. Website: https://ziraat.neu.edu.tr
+
+Q: What connected institutions are affiliated with NEU?
+A: NEU is affiliated with: NEU Hospital (neareasthospital.com), University of Kyrenia (kyrenia.edu.tr), Dr. Suat Günsel University of Kyrenia Hospital, Near East Colleges K-12 (nec.k12.tr), Near East Bank (neareastbank.com), and GÜNSEL Electric Vehicle (gunsel.com.tr).
+
+---
+
+# PREVIOUSLY MISSING — NOW ANSWERED (Updated 2026-06-27)
+
+Q: What is the current semester timetable or weekly lesson program?
+A: Weekly lesson programs change each semester and are published online each term. See: https://neu.edu.tr/weekly-lesson-programs/?lang=en
+
+Q: What are the exact dates of the academic calendar this semester?
+A: NEU publishes calendars for each academic year. Available calendars include 2025-2026, 2024-2025, 2023-2024, and earlier years. See: https://neu.edu.tr/academic/academic-calendar/?lang=en
+
+Q: What are the current dormitory fees / prices?
+A: Dormitory fees vary by type and package. The fees page on the official site is updated each academic year. See current prices at: https://neu.edu.tr/campus-life/dormitories/fees/?lang=en. As a reference, 2023-2024 annual fees ranged from approximately €1,482 (4-person standard) to €5,635 (1-person special area, Girls Dorm 1).
+
+Q: How do I apply for a dormitory at NEU?
+A: Register via NEU representatives in Turkey or the Dormitory Registration Office (AKKM) on campus — but only after you have obtained your student number. Existing students can reserve for the next year in April-May by paying a 25% deposit. Application page: https://neu.edu.tr/campus-life/dormitories/application/?lang=en
+
+Q: What does the NEU dormitory offer in terms of room amenities and services?
+A: Room contents vary by dormitory type: Standard dorms (4,5,6,7,8,9,10,15) include bed, wardrobe, desk, bookshelf, chair, 100 Mbps internet, mini fridge, telephone and TV. Dorms 12, 14, 16 also include a private bathroom. Residences include toilet, bathroom, TV, fridge, internet, central heating, AC, 3 meals/day, and room cleaning. Apartment dormitories (1+1, 2+1, 3+1) include full kitchen appliances (stove, oven, fridge, washing machine), AC, and satellite TV. All dormitories share: laundry rooms, communal kitchens, study rooms, cafeteria until 00:00, vending machines, 24-hour security (cameras + card entry + guards), and central heating. Internal telephone format: +90 392 680 2020 + room number + dorm number. Full details: https://neu.edu.tr/campus-life/dormitories/what-we-offer/?lang=en
+
+Q: What are the current tuition fees at NEU?
+A: 2025-2026 approximate fees (verify at official site): Medicine: ~€6,740/semester (~€13,480/year, no automatic scholarship). Dentistry (English): ~€6,215/semester. Dentistry (Turkish): ~€5,060/semester. Pharmacy and Veterinary: ~€2,382/semester. Most other undergraduate programs: ~€1,595/semester (~€3,190/year) — this already includes the standard 50% international student scholarship. Master's programs: ~€2,500/year. PhD programs: ~€3,020/year. Additional fees: registration ~€105, social activity ~€200/year, health insurance ~€50, refundable deposit ~€500. Official fee tables: https://aday.neu.edu.tr/undergraduate-applications/programs-list-and-fees/?lang=en
+
+Q: What are the scholarship conditions and how do I apply?
+A: Most international undergraduate students receive an automatic 50% scholarship on standard programs (Engineering, Business, Law, etc.). Merit scholarships of up to 75% are available for high-achieving students. Medicine and Dentistry generally have no automatic scholarship. Higher scholarships (60-75%) require strong transcripts, valid English scores (IELTS/TOEFL), a CV, and ideally recommendation letters. Apply through: https://neu.edu.tr/students/scholarships/?lang=en
+
+Q: What is the room or office number of a specific professor at NEU?
+A: Individual professor office/room numbers are not published publicly. Contact the relevant faculty directly via the phone directory. Faculty extensions: Medicine/Engineering: 5214/5222; Economics/Architecture/Agriculture: 3131; Nursing/Health Sciences: 3448/3449; Dentistry/Pharmacy/AI: 5217/5377; Law/Arts/Communication: 5259/5566. Full directory: https://neu.edu.tr/phone-directory/?lang=en
+
+Q: What is the internal extension number of a specific department or staff member at NEU?
+A: The full phone directory listing all staff names, positions, and internal extension numbers is at: https://neu.edu.tr/phone-directory/?lang=en. Main switchboard: +90 (392) 223 64 64 / 680 20 00.
+
+Q: How do I register or manage my enrollment at NEU?
+A: Registration and enrollment management is handled through the Registrar's Office (Head: Ümit Serdaroğlu, ext. 5401). Online services including the Student Information System and Academic Information System are accessible at: https://neu.edu.tr/online-services/?lang=en. Registration page: https://neu.edu.tr/?page_id=267236&lang=en
+
+Q: What does the NEU Student Deanship offer and how do I reach them?
+A: The Student Deanship (Dean: Prof. Dr. Dudu Yavuz Özkum) supports students' personal, cultural, social, and professional development. It oversees student clubs, social activities, counselling, and campus life. Contact via main switchboard or see: https://neu.edu.tr/?page_id=267204&lang=en
+
+Q: How do I submit a complaint or feedback at NEU?
+A: Use the Student Satisfaction Center (Memnuniyet) available through the online portal or at: https://neu.edu.tr/?page_id=267199&lang=en
+
+Q: How do I book an appointment with a NEU student services office?
+A: Use the Student Appointment System (SAS) available online at: https://neu.edu.tr/?page_id=267195&lang=en
+
+Q: What online services are available for NEU students?
+A: NEU's online portal provides: Web Mail, Academic Information System, Student Information System, Human Resources portal, UZEBIM, NEU Online, Scientific Research Projects (BAP), Student Appointment System (SAS), and Student Satisfaction (Memnuniyet). Access at: https://neu.edu.tr/online-services/?lang=en
+
+Q: How do I get a visa or residence permit as an international student at NEU?
+A: The International Student Office provides full guidance on visa applications and residence permits. Contact: WhatsApp +90 548 818 08 18. Details: https://neu.edu.tr/students/international-student-office/?lang=en
+
+Q: What orientation programs are available for new international students at NEU?
+A: The International Student Office organises orientation programs for new international arrivals covering campus life, academic systems, visa procedures, and cultural integration. Contact: WhatsApp +90 548 818 08 18 or visit: https://neu.edu.tr/students/international-student-office/?lang=en
+
+Q: What is the full up-to-date shuttle timetable for NEU?
+A: Free shuttles run 06:45–22:15 between Campus and Nicosia city centre, and also to Kyrenia, Famagusta, and Güzelyurt. A dormitory-to-campus internal shuttle also operates. The live timetable (updated each semester) is at: https://bus.neu.edu.tr/
+
+Q: How do I book an appointment at NEU Hospital?
+A: Appointments can be booked by phone at +90 392 444 0 535 or online at: https://neareasthospital.com
+
+Q: Where is the Gastroenterology department at NEU Hospital?
+A: The exact floor is not listed on the department page. The department treats digestive system diseases including GI endoscopy, ERCP, colonoscopy, liver diseases, and IBD. Outpatient hours: Monday–Friday 08:00–17:00. Contact the hospital at +90 392 444 0 535 or see: https://neareasthospital.com/departments/gastroenterology/
+
+Q: Where is the Obesity, Diabetes and Reflux Surgery department at NEU Hospital?
+A: The exact floor is not listed on the department page. The department performs sleeve gastrectomy, gastric bypass, SADI-S, and anti-reflux surgery with a multidisciplinary team. Outpatient hours: Monday–Friday 08:00–17:00. Contact the hospital at +90 392 444 0 535 or see: https://neareasthospital.com/departments/obesity-diabetes-and-reflux-surgery/
+
+Q: What are the full academic regulations and bylaws at NEU?
+A: NEU's academic regulations cover enrollment, grading, examinations, disciplinary procedures, and graduation requirements. Full text published at: https://neu.edu.tr/academic/regulations/?lang=en
+
+Q: What graduate programs are available at NEU and what are their requirements?
+A: NEU offers 200+ Master's and Doctoral programs across all faculties. Annual fees are approximately €2,500 for Master's and €3,020 for PhD. Requirements and program listings: https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en
+
+Q: What are the conditions for a Double Major or Minor program at NEU?
+A: Students enrolled in an undergraduate program can earn a second diploma in another department (same faculty or any department) if they meet conditions set by the University Senate. Applications are submitted to the Rectorate with the application form on the date determined by the Senate. Minor programs work similarly as a secondary specialisation. Details: https://neu.edu.tr/academic/institute-of-graduate-studies/?lang=en
+
+Q: Where can I find the NEU course catalog or bulletin?
+A: The full NEU course catalog listing all programs, courses, and credits is at: https://bulletin.neu.edu.tr/
+
+Q: What student clubs exist at NEU and how do I join?
+A: NEU has 85 student clubs across categories including Sports, Engineering, Economics, Teaching, Architecture, Law, Medicine, Aeronautics, Technology, and Arts. New clubs launched in 2024-2025 include the Artificial Intelligence Club, Entrepreneurship and Start-up Club, Mathematics Club, Wildlife and Exotic Animals Club, and Technology and Medical Innovations Club. Any student can join any club or form a new one. Full list: https://neu.edu.tr/campus-life/student-clubs/?lang=en
+
+Q: What sports facilities and activities are available at NEU?
+A: NEU has an Olympic indoor swimming pool (2,700 m²; only one in Northern Cyprus), RA 25 Sports Hall, Health and Wellness Centre (2,000 m²), basketball courts, football pitches, tennis courts, volleyball courts, handball courts, horse riding facilities, athletics track, wrestling venue, and chess area. NEU received the "Sports-Friendly Campus" award from the Turkish Council of Higher Education (YÖK). Details: https://neu.edu.tr/campus-life/sports/?lang=en
+
+Q: What other campus services does NEU offer?
+A: Campus services include: Laundry rooms in all dormitories; Dorana Residence Nicosia (hotel on campus, 14 rooms, 134 beds, central heating/cooling, LED TV, mini bar, shower, free internet); Dorana Tourism (travel agency); Near East Fuel Station; Near East University Lake (recreational area); Education Palace; Amphitheatres; Supermarket (below Dormitory 1, weekdays 08:00–24:00, weekends 10:00–24:00). Details: https://neu.edu.tr/campus-life/other-services/?lang=en
+
+Q: What is life like in North Cyprus for students?
+A: Northern Cyprus (TRNC) is a safe and affordable destination. Living costs are typically €300–500/month. The island has a Mediterranean climate, beaches, and a mix of cultures. NEU provides a guide to living in Northern Cyprus for international students at: https://neu.edu.tr/campus-life/life-in-north-cyprus/?lang=en
+
+Q: What sustainability initiatives does NEU have?
+A: NEU has sustainability initiatives including green campus projects and environmental programs. NEU is included in the QS Sustainability Rankings (2025: 1201-1250 bracket). Details: https://sustainability.neu.edu.tr/
+
+Q: What is the NEU campus health centre and how do I use it?
+A: NEU has a campus health centre for emergency student health needs. Additionally, NEU Hospital (24/7, on campus) is fully available to students. Free psychological counselling is provided through the Psychological Counselling and Research Centre at the Law Faculty. Details: https://neu.edu.tr/campus-life/health/?lang=en
+
+Q: What career opportunities or jobs are available at NEU?
+A: NEU posts career openings for academic and administrative positions. Current openings: https://neu.edu.tr/career/career-opportunities/?lang=en
+
+Q: How do I apply for a job at NEU?
+A: Submit your application using the online form at: https://neu.edu.tr/career/application-form/?lang=en
+
+---
+
+# CAMPUS OFFICE & BUILDING LOCATIONS (Added 2026-06-27)
+
+Q: Where is the Post Office on the NEU campus?
+A: The Post Office (PTT branch) is on the Ground Floor of the Faculty of Economics and Administrative Sciences building. It serves all students and staff. Hours: Monday–Friday 08:00–17:00.
+
+Q: Where is the Book House (campus bookstore) on the NEU campus?
+A: The Book House is located inside the Grand Library building. It sells course books required for all programs. Contact: +90 (392) 444 0 938 / 477.
+
+Q: Where is the supermarket on the NEU campus?
+A: The campus supermarket is located below Dormitory 1, in the dormitory complex area. Hours: weekdays 08:00–24:00, weekends 10:00–24:00.
+
+Q: Where is the Dormitory Registration Office at NEU?
+A: Dormitory registrations on campus are handled at the Dormitory Registration Office located inside the Atatürk Culture and Congress Centre (AKKM) building.
+
+Q: Where is the Registrar's Office / Student Affairs at NEU?
+A: The Registrar's Office is on the main campus. It is reachable at internal extension 5401. Head: Ümit Serdaroğlu. Hours: Monday–Friday 08:30–16:30. Room number is not published publicly — call ext. 5401 or the main switchboard (+90 392 223 64 64) for directions.
+
+Q: Where is the International Student Office (ISO) at NEU?
+A: The ISO is on the main campus. Hours: Monday–Friday 08:00–17:00. Contact: ext. 5610, WhatsApp +90 548 818 08 18. The exact building and room number are not published — contact them via WhatsApp or phone for directions on arrival. Individual contacts: Engineering/Civil/Law registrations → Beliz Özdiren, ext. 5418; Architecture/Medicine/Health etc. → Mahmoud Anaqwah, ext. 5141; Masters/PhD → Muazzez İnce, ext. 5295.
+
+Q: Where is the Student Deanship at NEU?
+A: The Student Deanship is on the main campus. Dean: Prof. Dr. Dudu Yavuz Özkum. Hours: Monday–Friday 08:30–16:30. Room number not published — see https://neu.edu.tr/?page_id=267204&lang=en or call the switchboard.
+
+Q: Where is the General Secretariat at NEU?
+A: General Secretariat is on the main campus. Head: Prof. Dr. Yeter Tabur, ext. 3045/3029.
+
+Q: Where is the Security Directorate at NEU?
+A: The Security Directorate is on the main campus, reachable at ext. 5308 (Head: Talat Ürer). Campus security operates 24/7.
+
+Q: Where is the Grand Library at NEU?
+A: The Grand Library is a standalone building in the central area of the NEU campus, open 24/7, covering 15,000 m². It contains 12 study rooms, 4 amphitheatres, a children's library, Book House (bookstore), American Corner, CMC archive, and Rare Works section. Director: Emre Karahasan, ext. 5536.
+
+Q: Where is the Olympic Swimming Pool at NEU?
+A: The Olympic Indoor Swimming Pool (2,700 m²) is in its own separate building on campus. Director: Avni Cankurt. Phone: +90 (392) 680 2080 / 223 6464, ext. 5240.
+
+Q: Where is the Sports Tower at NEU?
+A: The Sports Tower is a dedicated sports building on the NEU campus. Director: Menteş Cenik, ext. 5771.
+
+Q: Where is the Atatürk Culture and Congress Centre (AKKM) at NEU?
+A: The AKKM is a large dedicated building on the NEU campus. Main hall capacity: 700 seats. Cafe AKKM is inside. The Dormitory Registration Office is also here. Director: Arif İşgüzar, ext. 5345/5344. Website: https://neu.edu.tr/campus-life/ataturk-culture-and-congress-centre/?lang=en
+
+Q: Where is the Near East TV / Near East FM at NEU?
+A: Near East TV (ext. 5348) and Near East FM (director: Sinem Kasımoğlu, ext. 5412/5413) are both on the main campus. The exact building is not published — contact via switchboard.
+
+Q: Where is the Cyprus Car Museum at NEU?
+A: The Museum of Classical and Sports Cars is in a separate museum building on the NEU campus (140+ vehicles, est. 2007). Director: Ulus Candanal. Phone: 0542 888 06 00, ext. 5536.
+
+Q: Where is the GÜNSEL Art Museum (Cyprus Modern Art Museum) at NEU?
+A: The GÜNSEL Art Museum is in a separate museum building on the NEU campus. Director: Görkem Bulunç, ext. 5656.
+
+Q: Where is the Herbarium at NEU?
+A: The Cyprus Herbarium and Natural History Museum is on the main campus. Director: Prof. Dr. Salih Gücel, ext. 5135. Established 2006.
+
+Q: Where is the NEU Dental Hospital?
+A: The NEU Dental Hospital is in a separate building on the NEU campus (not the main hospital). Chief Physician: Assoc. Prof. Dr. Onur Lokman Uyanık. Phone: +90 (392) 680 2030. Hours: Monday–Friday 08:00–17:00. Departments: Dental Radiology, Periodontology, Restorative Dentistry, Endodontics, Oral Surgery, Prosthodontics, Paedodontics, Orthodontics.
+
+Q: Where is the NEU Animal Hospital?
+A: The Near East Animal Hospital is on the NEU campus, associated with the Faculty of Veterinary Medicine. Chief: Dr. Mehmet İsfendiyaroğlu, ext. 3150/3145.
+
+Q: Where is the Psychological Counselling Centre at NEU?
+A: The Psychological Counselling and Research Centre is located in the Faculty of Law building. It provides free counselling to all NEU students.
+
+Q: Where is the Dorana Residence / hotel on campus?
+A: The Dorana Residence Nicosia is within the NEU campus. It has 14 rooms with 134 bed capacity. All rooms have central heating/cooling, LED TV, mini bar, shower, hair dryer, water heater, telephone, and free internet. Manager: Deniz Kaygan Kasap, ext. 3410/3442.
+
+Q: Where are the banks on the NEU campus?
+A: Three banking services are on campus: (1) Near East Bank — full branch; (2) Türkiye İş Bankası — full branch; (3) Ziraat Bankası — ATM only. Exact building locations are not published — they are accessible within the main campus area.
+
+Q: Where is the Office of Health, Culture and Sports at NEU?
+A: On the main campus. Head: Assoc. Prof. Dr. Hakan Atamtürk, ext. 5266.
+
+Q: Where is the Transportation Directorate at NEU?
+A: On the main campus. Head: Sezer Ekinci, ext. 5474. Also manages the free shuttle service (timetable: https://bus.neu.edu.tr/).
+
+Q: Does NEU publish room numbers for its offices?
+A: No. NEU does not publicly publish room numbers for any administrative office. To find a specific office, call the main switchboard at +90 (392) 223 64 64 or +90 (392) 680 20 00, use the internal extensions at https://neu.edu.tr/phone-directory/?lang=en, or ask at the building reception on campus.
+
+Q: Where is the NEU Hospital on campus?
+A: NEU Hospital is in a dedicated large building on the NEU campus. It has East Block (Ground–4th floor) and West Block (Ground–9th floor). Phone: +90 392 444 0 535. Open 24/7. For exact department floors see the hospital departments data. Website: https://neareasthospital.com
+
+Q: Where is the student residence permit office at NEU?
+A: Residence permit procedures are handled online and through the ISO. The online procedure is at: https://aday.neu.edu.tr/student-permit-procedure-online-immigration/?lang=en. Contact the ISO at ext. 5610 or WhatsApp +90 548 818 08 18 for guidance.
+
+---
+
+# FACULTY BUILDING LOCATIONS (Added 2026-06-27)
+
+Q: Where is the Faculty of Engineering at NEU?
+A: The Faculty of Engineering is located in the central-north area of the NEU main campus, near the Faculty of Architecture and the computer labs. Enter the main campus gate on Near East Boulevard and follow signboards for 'Faculty of Engineering' or 'Mühendislik Fakültesi'. Website: https://muhendislik.neu.edu.tr
+
+Q: Where is the Faculty of Medicine at NEU?
+A: The Faculty of Medicine is located directly adjacent to the NEU Hospital building on the main campus. Follow signs toward the hospital from the main gate; the Faculty of Medicine entrance is next to it. Website: https://medicine.neu.edu.tr
+
+Q: Where is the Faculty of Dentistry at NEU?
+A: The Faculty of Dentistry is housed in the NEU Dental Hospital, a separate dedicated building on the NEU campus near the Faculty of Medicine and NEU Hospital. Phone: +90 (392) 680 2030. Website: https://dentistry.neu.edu.tr
+
+Q: Where is the Faculty of Architecture at NEU?
+A: The Faculty of Architecture is in the main campus area, near the Faculty of Engineering and Fine Arts. Follow campus signboards for 'Architecture' or 'Mimarlık'. Website: https://mimarlik.neu.edu.tr
+
+Q: Where is the Faculty of Law at NEU?
+A: The Faculty of Law is on the main campus. The Psychological Counselling and Research Centre (free for all students) is also located in this building. Follow signs for 'Hukuk Fakültesi'. Website: https://hukuk.neu.edu.tr
+
+Q: Where is the Faculty of Economics at NEU?
+A: The Faculty of Economics and Administrative Sciences (İİBF) is on the main campus. The NEU Post Office is on the ground floor of this building. Follow signs for 'Economics' or 'İİBF'. Website: https://iktisat.neu.edu.tr
+
+Q: Where is the Faculty of Pharmacy at NEU?
+A: The Faculty of Pharmacy is on the main campus. Follow campus signs for 'Pharmacy' or 'Eczacılık'. Website: https://eczacilik.neu.edu.tr
+
+Q: Where is the Faculty of Nursing at NEU?
+A: The Faculty of Nursing is near the Faculty of Medicine and NEU Hospital on the main campus. Follow signs for 'Nursing' or 'Hemşirelik'. Website: https://hemsirelik.neu.edu.tr
+
+Q: Where is the Faculty of Arts and Sciences at NEU?
+A: The Faculty of Arts and Sciences (Fen-Edebiyat) is on the main campus. Follow signs for 'Arts and Sciences' or 'Fen-Edebiyat'. Website: https://fenedebiyat.neu.edu.tr
+
+Q: Where is the Faculty of Communication at NEU?
+A: The Faculty of Communication is on the main campus. Near East TV and Radio are also in this area. Follow signs for 'Communication' or 'İletişim'. Website: https://iletisim.neu.edu.tr
+
+Q: Where is the Faculty of Fine Arts and Design at NEU?
+A: The Faculty of Fine Arts and Design is on the main campus. Follow signs for 'Fine Arts' or 'Güzel Sanatlar'. Website: https://guzelsanatlar.neu.edu.tr
+
+Q: Where is the Faculty of Tourism at NEU?
+A: The Faculty of Tourism is on the main campus. Follow signs for 'Tourism' or 'Turizm'. Website: https://turizm.neu.edu.tr
+
+Q: Where is the Faculty of Civil and Environmental Engineering at NEU?
+A: The Faculty of Civil and Environmental Engineering is on the main campus near the engineering cluster. Follow signs for 'Civil Engineering' or 'İnşaat'. Website: https://insaatvecevre.neu.edu.tr
+
+Q: Where is the Faculty of Artificial Intelligence and Informatics at NEU?
+A: The Faculty of Artificial Intelligence and Informatics is on the main campus near the engineering faculties. Follow signs for 'AI and Informatics' or 'Yapay Zeka'. Website: https://aif.neu.edu.tr
+
+Q: Where is the Faculty of Veterinary Medicine at NEU?
+A: The Faculty of Veterinary Medicine is on the main campus. The Near East Animal Hospital is attached to the faculty building. Contact ext. 3150/3145. Website: https://veterinary.neu.edu.tr
+
+Q: Where is the Faculty of Sports Sciences at NEU?
+A: The Faculty of Sports Sciences is in the sports area of the campus, near the Olympic Swimming Pool and Sports Tower. Follow signs for 'Sports Sciences' or 'Spor Bilimleri'. Website: https://sporbilimleri.neu.edu.tr
+
+Q: Where is the Faculty of Agriculture at NEU?
+A: The Faculty of Agriculture is on the main campus. Follow signs for 'Agriculture' or 'Ziraat'. Website: https://ziraat.neu.edu.tr
+
+Q: Where is the Faculty of Theology at NEU?
+A: The Faculty of Theology is on the main campus. Follow signs for 'Theology' or 'İlahiyat'. Website: https://ilahiyat.neu.edu.tr
+
+Q: Where is the Faculty of Health Sciences at NEU?
+A: The Faculty of Health Sciences is on the main campus in the health cluster near the NEU Hospital. Follow signs for 'Health Sciences' or 'Sağlık Bilimleri'. Website: https://saglikbilimleri.neu.edu.tr
+
+Q: Where is the Atatürk Faculty of Education at NEU?
+A: The Atatürk Faculty of Education is on the main campus. Follow signs for 'Education Faculty' or 'Eğitim Fakültesi'. Website: https://egitim.neu.edu.tr
+
+Q: Where is the Park Near East?
+A: Park Near East is a 220,000 m² outdoor park on the NEU campus grounds, used for large concerts (Deep Purple, Moscow State Ballet, Spring Fest, Rock 'n Cyprus Festival). Follow signs for 'Park Near East'.
+
+Q: Where is the NEU Lake?
+A: The NEU Lake is an outdoor recreational area on the campus grounds, popular among students for relaxation.
+
+Q: How far is NEU from Nicosia city centre?
+A: NEU campus is approximately 5 km from central Nicosia and about 2 km from the Nicosia Fair Centre. Free shuttle buses run between campus and Nicosia city centre from 06:45 to 22:15.
+
+Q: How do I get to NEU from Nicosia city centre?
+A: Take the free NEU shuttle bus from 06:45–22:15, or use a public bus via Gönyeli. By car, follow Near East Boulevard (Yakın Doğu Bulvarı) from the Nicosia ring road. Full shuttle schedule: https://bus.neu.edu.tr/
+
+Q: Where is the RA 25 Sports Hall at NEU?
+A: The RA 25 Sports Hall is in the sports area of campus near the Olympic Swimming Pool, named after NEU's first solar-powered car. Follow signs for 'RA 25 Sports Hall'.
+
+Q: Where is the Health and Wellness Centre at NEU?
+A: The Health and Wellness Centre (2,000 m²) is on the main campus. Follow signs for 'Health and Wellness Centre' or 'Sağlık Merkezi'.

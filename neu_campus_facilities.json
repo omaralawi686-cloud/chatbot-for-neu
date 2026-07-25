@@ -1,0 +1,845 @@
+{
+  "_metadata": {
+    "source": "neu.edu.tr – official pages fetched June 2026",
+    "last_updated": "2026-06-27"
+  },
+  "campus": {
+    "name": "Near East University Main Campus",
+    "access": "Near East Boulevard, a few kilometres from central Nicosia, TRNC",
+    "distance_to_nicosia_centre_km": 5,
+    "distance_to_nicosia_fair_centre_km": 2,
+    "security": "24-hour on-campus security",
+    "emergency_assembly_point": "North-East area of the campus",
+    "transport": {
+      "free_shuttle": true,
+      "shuttle_operating_hours": "06:45–22:15",
+      "routes": [
+        "Campus ↔ Nicosia (city centre)",
+        "Campus ↔ Kyrenia",
+        "Campus ↔ Famagusta",
+        "Campus ↔ Güzelyurt",
+        "Dormitory area ↔ Campus internal units"
+      ],
+      "public_bus": "Frequent buses between campus and Nicosia city centre via Gönyeli",
+      "schedule_website": "https://bus.neu.edu.tr/"
+    }
+  },
+  "facilities": [
+    {
+      "id": "FAC01",
+      "name": "Near East University Grand Library",
+      "category": "Academic",
+      "location": "Main Campus – Central area",
+      "hours": "24/7 – Open every day, all hours",
+      "details": {
+        "area_m2": 15000,
+        "books": "2,250,000+",
+        "electronic_journals": "60,000+",
+        "electronic_resources": "650,000,000+",
+        "dvds": 10500,
+        "seating_capacity": 1000,
+        "movie_viewing_booths": 17,
+        "study_rooms": "12 individual and group study rooms",
+        "amphitheatres": 4,
+        "theatre_capacity": 350,
+        "special_collections": [
+          "Atila Türk special library",
+          "Kutlu Adalı special library",
+          "CMC archive room",
+          "Children's library",
+          "Rare works section",
+          "Audio-visual viewing cabins"
+        ],
+        "book_house": {
+          "description": "Campus bookstore inside the Grand Library selling course books",
+          "phone": "+90 (392) 444 0 938 / 477"
+        }
+      },
+      "website": "https://neu.edu.tr/academic/grand-library/?lang=en"
+    },
+    {
+      "id": "FAC02",
+      "name": "NEU Hospital (Near East Hospital)",
+      "category": "Healthcare",
+      "location": "Main Campus",
+      "hours": "24/7",
+      "details": {
+        "area_m2": 55000,
+        "inaugurated": 2009,
+        "accreditation": "Joint Commission International (JCI)",
+        "total_departments": 55,
+        "operating_theatres": 8,
+        "icu_beds": 30,
+        "nicu_beds": 17,
+        "patient_rooms": 209,
+        "vip_rooms": 22,
+        "max_bed_capacity": 500,
+        "note": "See neu_hospital_departments.json for full floor/block/hours detail on all 55 departments"
+      },
+      "website": "https://neareasthospital.com",
+      "phone": "+90 392 444 0 535"
+    },
+    {
+      "id": "FAC03",
+      "name": "Olympic Indoor Swimming Pool",
+      "category": "Sports",
+      "location": "Main Campus",
+      "details": {
+        "area_m2": 2700,
+        "type": "Olympic-size indoor pool",
+        "note": "Only Olympic indoor swimming pool in Northern Cyprus; NEU swimmers have won medals in Turkey and international competitions; over 12,000 people have attended swimming courses"
+      }
+    },
+    {
+      "id": "FAC04",
+      "name": "Atatürk Culture and Congress Centre (AKKM)",
+      "category": "Cultural",
+      "location": "Main Campus",
+      "details": {
+        "main_hall_capacity": 700,
+        "stage_area_m2": 163.85,
+        "additional_halls": 4,
+        "events": [
+          "Cyprus Theatre Festival (annual, international)",
+          "Congresses and academic events",
+          "Concerts",
+          "Dance shows",
+          "Cultural events"
+        ]
+      },
+      "website": "https://neu.edu.tr/campus-life/ataturk-culture-and-congress-centre/?lang=en",
+      "note": "Largest congress hall in North Nicosia; Cafe AKKM is located here"
+    },
+    {
+      "id": "FAC05",
+      "name": "RA 25 Sports Hall",
+      "category": "Sports",
+      "location": "Main Campus",
+      "established": 2014,
+      "details": {
+        "note": "Named after NEU's solar-powered car RA 25; multi-purpose indoor sports hall"
+      }
+    },
+    {
+      "id": "FAC06",
+      "name": "Health and Wellness Centre",
+      "category": "Sports / Health",
+      "location": "Main Campus",
+      "details": {
+        "area_m2": 2000
+      }
+    },
+    {
+      "id": "FAC07",
+      "name": "Park Near East",
+      "category": "Recreation",
+      "location": "Main Campus",
+      "established": 2014,
+      "details": {
+        "area_m2": 220000,
+        "notable_events": [
+          "Deep Purple concert",
+          "Yüksek Sadakat concert",
+          "Moscow State Ballet performance",
+          "Spring Fest",
+          "Rock 'n Cyprus Festival"
+        ]
+      }
+    },
+    {
+      "id": "FAC08",
+      "name": "Museum of Classical and Sports Cars",
+      "category": "Museum",
+      "location": "Main Campus",
+      "established": 2007,
+      "details": {
+        "vehicles_on_display": "140+",
+        "mobile_app": "Available in English and Turkish"
+      },
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "FAC09",
+      "name": "Communications Museum",
+      "category": "Museum",
+      "location": "Main Campus",
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "FAC10",
+      "name": "GÜNSEL Art Museum",
+      "category": "Museum",
+      "location": "Main Campus",
+      "website": "https://neu.edu.tr/campus-life/museums/?lang=en"
+    },
+    {
+      "id": "FAC11",
+      "name": "Student Dormitories",
+      "category": "Accommodation",
+      "location": "Main Campus – Dormitory Complex",
+      "hours": "24/7",
+      "details": {
+        "total_blocks": 13,
+        "female_dormitories": 7,
+        "male_dormitories": 6,
+        "room_types": [
+          "Single (1 person)",
+          "Double (2 person)",
+          "Triple (3 person)",
+          "Quad (4 person)"
+        ],
+        "accommodation_types": [
+          "Standard Dormitory",
+          "Apartment Dormitory",
+          "Residence"
+        ],
+        "bed_capacity_per_dormitory": "250–300",
+        "total_bed_capacity": 5500,
+        "security": "24-hour security",
+        "supermarket": {
+          "location": "Below Dormitory 1",
+          "hours_weekdays": "08:00–24:00",
+          "hours_weekends": "10:00–24:00"
+        },
+        "fees_note": "Fees vary by dormitory type and package. Check current fees at: https://neu.edu.tr/campus-life/dormitories/fees/?lang=en",
+        "how_to_apply": "Apply online via the application page.",
+        "room_amenities": "Each room includes bunkbed/bed, desk, bookshelf, wardrobe, chair, fridge, TV and TV receiver. Internal telephone service available in all rooms.",
+        "internal_phone_format": "Dial +90 392 680 2020 + room number + dorm number",
+        "study_rooms": "Study rooms and drawing tables available in all dormitories",
+        "maintenance": "24-hour maintenance-repair team for electricity, electronics, plumbing, construction and carpentry",
+        "room_amenities_by_type": {
+          "standard_dorms_4_5_6_7_8_9_10_15": "Bed, wardrobe, desk, bookshelf, chair, internet (100 Mbps), mini fridge, telephone, TV",
+          "dorms_12_14_16": "Bed, wardrobe, desk, bookshelf, chair, internet (100 Mbps), mini fridge, telephone, TV, private bathroom",
+          "residences": "Toilet, bathroom, TV, fridge, internet, central heating, air conditioning; 3 meals/day included; room cleaning provided; single and double options",
+          "apartment_dormitories": "1+1, 2+1, 3+1 options; sofa set, bed, armchair, desk, dining table, wardrobe, kitchen counters, inverter AC, fridge, electric stove/oven, washing machine, LCD TV, satellite (Türksat/D-Smart/Digitürk/Hotbird)"
+        },
+        "shared_facilities": [
+          "Laundry rooms in all dormitories",
+          "Kitchens with dinner tables, chairs, kitchen counters, cupboards, electrical burner",
+          "Study rooms and drawing tables in all dormitories",
+          "Cafeteria service until 00:00 daily",
+          "Food and drink vending machines in some dormitories",
+          "UTB cable network (satellite: Türksat, D-Smart, Digitürk, Hotbird, domestic channels)",
+          "Central heating",
+          "24-hour security (cameras, card entry, security guards)",
+          "General cleaning by cleaning personnel",
+          "Digital fault reporting system for maintenance"
+        ],
+        "internal_telephone": "Rooms have internal telephone service. Format: +90 392 680 2020 + room number + dorm number",
+        "application_process": "Register via NEU representatives in Turkey or Dormitory Registration Office (AKKM) on campus. Existing students: reserve in April-May by paying 25% deposit. Dormitory registration can only be done after obtaining a student number."
+      },
+      "website": "https://neu.edu.tr/campus-life/dormitories/?lang=en",
+      "sub_pages": {
+        "types": "https://neu.edu.tr/campus-life/dormitories/types-of-dormitories/?lang=en",
+        "advantages": "https://neu.edu.tr/campus-life/dormitories/dormitory-advantages/?lang=en",
+        "fees": "https://neu.edu.tr/campus-life/dormitories/fees/?lang=en",
+        "application": "https://neu.edu.tr/campus-life/dormitories/application/?lang=en",
+        "rules": "https://neu.edu.tr/campus-life/dormitories/rules/?lang=en",
+        "faq": "https://neu.edu.tr/campus-life/dormitories/faq/?lang=en"
+      }
+    },
+    {
+      "id": "FAC12",
+      "name": "Canteens and Cafeterias",
+      "category": "Dining",
+      "location": "Throughout Main Campus – 42 outlets total",
+      "details": {
+        "total_combined_seating": 4500,
+        "main_canteens": [
+          {
+            "name": "NEU Central Cafeteria",
+            "location": "Main Campus central area",
+            "type": "Full-service canteen"
+          },
+          {
+            "name": "Teachers' Cafeteria",
+            "location": "Main Campus",
+            "type": "Staff cafeteria"
+          },
+          {
+            "name": "Hospital Cafeteria / Hospital Restaurant",
+            "location": "NEU Hospital building",
+            "type": "Full-service restaurant"
+          },
+          {
+            "name": "9th Floor Restaurant",
+            "location": "Main building, 9th floor",
+            "type": "Restaurant with panoramic view"
+          }
+        ],
+        "named_cafes_and_outlets": [
+          "Cafe Hastane 1 (Hospital Cafe 1)",
+          "Cafe Hastane 2 (Hospital Cafe 2)",
+          "Cafe Bigla",
+          "Cafe Dental (near Dental Faculty)",
+          "Cafe Ecza (near Pharmacy Faculty)",
+          "Cafe Saray",
+          "Chicken House",
+          "Cafe Library (inside/near Grand Library)",
+          "Cafe Bridge",
+          "Cafe Veterinary (near Veterinary Faculty)",
+          "Gusto Cafe",
+          "Cafe Sağlık (near Health Sciences)",
+          "Vitamin Cafe",
+          "Cafe 535",
+          "Cafe AKKM (Atatürk Culture Centre)",
+          "Book Cafe",
+          "Kebap House",
+          "Pizza Pizza",
+          "The Kaffo"
+        ]
+      },
+      "food_menu_website": "https://test-neu.neu.edu.tr/category/menu-of-the-day/?lang=en",
+      "website": "https://neu.edu.tr/campus-life/canteens-and-cafeterias/?lang=en"
+    },
+    {
+      "id": "FAC13",
+      "name": "Near East TV and Near East FM",
+      "category": "Media",
+      "location": "Main Campus",
+      "description": "University-owned TV broadcasting and FM radio station",
+      "website": "https://neu.edu.tr/campus-life/near-east-tv-near-east-fm/?lang=en"
+    },
+    {
+      "id": "FAC14",
+      "name": "NEU-IBM Research Centre (Supercomputer)",
+      "category": "Research",
+      "location": "NERITA Office – Near East Boulevard, Main Campus",
+      "details": {
+        "supercomputer_world_rank": 13,
+        "supercomputer_regional_rank": 1,
+        "research_areas": [
+          "Medical sciences",
+          "Chemistry",
+          "Physics",
+          "Astronomy",
+          "Architecture",
+          "Engineering",
+          "Mathematics"
+        ],
+        "notable_projects": [
+          "Help Conquer Cancer project",
+          "CERN Large Hadron Collider experiment",
+          "Ebola virus disease research (joined 2014)",
+          "Solar car RA 25 / RA 26 development"
+        ]
+      }
+    },
+    {
+      "id": "FAC15",
+      "name": "Herbarium",
+      "category": "Research",
+      "location": "Main Campus",
+      "established": 2006,
+      "founder": "Salih Gucel"
+    },
+    {
+      "id": "FAC16",
+      "name": "Banks and ATMs",
+      "category": "Financial Services",
+      "location": "Various locations on Main Campus",
+      "details": {
+        "banks_on_campus": [
+          {
+            "name": "Near East Bank",
+            "type": "Full branch",
+            "website": "https://www.neareastbank.com"
+          },
+          {
+            "name": "Türkiye İş Bankası",
+            "type": "Full branch"
+          },
+          {
+            "name": "Ziraat Bankası",
+            "type": "ATM only"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FAC17",
+      "name": "Post Office",
+      "category": "Services",
+      "location": "Faculty of Economics and Administrative Sciences – Ground Floor",
+      "description": "Near East University branch post office providing postal services for students and staff"
+    },
+    {
+      "id": "FAC18",
+      "name": "Supermarket",
+      "category": "Services",
+      "location": "Below Dormitory 1 (Dormitory Complex area)",
+      "hours": {
+        "weekdays": "08:00–24:00",
+        "weekends": "10:00–24:00"
+      }
+    },
+    {
+      "id": "FAC19",
+      "name": "Travel Agency",
+      "category": "Services",
+      "location": "Main Campus"
+    },
+    {
+      "id": "FAC20",
+      "name": "Book House",
+      "category": "Services",
+      "location": "Inside the Grand Library",
+      "description": "Campus bookstore selling required course books for all programs",
+      "phone": "+90 (392) 444 0 938 / 477"
+    },
+    {
+      "id": "FAC21",
+      "name": "English Preparatory School Building",
+      "category": "Academic",
+      "location": "Main Campus – within NEU campus, 2km from Nicosia International Fair Centre",
+      "details": {
+        "building_area_m2": 9036.69,
+        "floors": 4,
+        "ground_floor": "Shops and classrooms (all equipped with computers and projectors)"
+      }
+    },
+    {
+      "id": "FAC22",
+      "name": "Near East TV / Near East FM Broadcasting Centre",
+      "category": "Media",
+      "location": "Main Campus",
+      "website": "https://neu.edu.tr/campus-life/near-east-tv-near-east-fm/?lang=en"
+    }
+  ],
+  "on_campus_schools": [
+    {
+      "name": "Near East Kindergarten",
+      "level": "Early childhood education",
+      "website": "https://nec.k12.tr"
+    },
+    {
+      "name": "Near East Primary School",
+      "level": "Primary education",
+      "website": "https://nec.k12.tr"
+    },
+    {
+      "name": "Near East College",
+      "level": "Middle school and High school",
+      "website": "https://nec.k12.tr"
+    }
+  ],
+  "sports_facilities": [
+    "Olympic Indoor Swimming Pool (2,700 m²) – only one in Northern Cyprus",
+    "RA 25 Sports Hall (multi-purpose indoor hall)",
+    "Health and Wellness Centre (2,000 m²)",
+    "Basketball courts",
+    "Football pitches",
+    "Tennis courts",
+    "Volleyball courts",
+    "Handball courts",
+    "Horse riding facilities",
+    "Athletics track",
+    "Wrestling venue",
+    "Chess area"
+  ],
+  "student_clubs_categories": [
+    "Sports",
+    "Engineering",
+    "Economics",
+    "Teaching",
+    "Architecture",
+    "Law",
+    "Medicine",
+    "Aeronautics"
+  ],
+  "annual_events": [
+    "Spring Fest (concerts, dance festivals, sports competitions, board games)",
+    "Rock 'n Cyprus Festival",
+    "NEU Nicosia Carnival (Dereboyu region)",
+    "Cyprus Theatre Festival (international, annual)",
+    "Photography Contest"
+  ],
+  "student_health": {
+    "description": "NEU Hospital provides preventive health checks for students; Campus Health Centre also available",
+    "website": "https://neu.edu.tr/campus-life/health/?lang=en",
+    "hospital_website": "https://neareasthospital.com",
+    "hospital_phone": "+90 392 444 0 535",
+    "campus_health_centre_note": "A campus health centre is available for emergency health needs. NEU Hospital (24/7) is also on campus."
+  },
+  "key_office_locations": {
+    "post_office": "Faculty of Economics and Administrative Sciences – Ground Floor",
+    "book_house": "Grand Library building",
+    "supermarket": "Below Dormitory 1",
+    "banks": "Near East Bank (full branch on campus); Türkiye İş Bankası (full branch); Ziraat Bankası (ATM)",
+    "international_student_office": "Main Campus – contact +90 548 818 08 18",
+    "student_deanship": "Main Campus – see https://neu.edu.tr/?page_id=267204&lang=en",
+    "registration_administration": "Main Campus – see https://neu.edu.tr/?page_id=267236&lang=en"
+  },
+  "student_clubs_categories_website": "https://neu.edu.tr/campus-life/student-clubs/?lang=en",
+  "student_clubs_note": "Full list of student clubs and joining instructions available at the website above.",
+  "sports_facilities_website": "https://neu.edu.tr/campus-life/sports/?lang=en",
+  "other_campus_services": {
+    "description": "Additional services available on the NEU campus",
+    "services": [
+      {
+        "name": "Laundry Services",
+        "details": "Laundry rooms available in all dormitories"
+      },
+      {
+        "name": "Dorana Residence Nicosia (Hotel)",
+        "details": "Located within NEU campus. 14 rooms, bed capacity 134. All rooms have central heating/cooling, LED TV, mini bar, shower, hair dryer, water heater, telephone and free internet.",
+        "website": "https://www.doranatourism.com/"
+      },
+      {
+        "name": "Dorana Tourism (Travel Agency)",
+        "details": "Travel agency on campus"
+      },
+      {
+        "name": "Near East Fuel Station",
+        "details": "Fuel station on campus"
+      },
+      {
+        "name": "Near East University Lake",
+        "details": "Recreational lake area on campus"
+      },
+      {
+        "name": "Education Palace",
+        "details": "Academic facility on campus"
+      },
+      {
+        "name": "Amphitheatres",
+        "details": "Multiple outdoor and indoor amphitheatres for events and lectures"
+      }
+    ],
+    "website": "https://neu.edu.tr/campus-life/other-services/?lang=en"
+  },
+  "life_in_north_cyprus": {
+    "description": "Information about living in Northern Cyprus for international students.",
+    "website": "https://neu.edu.tr/campus-life/life-in-north-cyprus/?lang=en"
+  },
+  "sustainability": {
+    "description": "NEU sustainability initiatives, green campus projects and environmental programs.",
+    "website": "https://sustainability.neu.edu.tr/"
+  },
+  "careers": {
+    "opportunities_website": "https://neu.edu.tr/career/career-opportunities/?lang=en",
+    "application_form_website": "https://neu.edu.tr/career/application-form/?lang=en",
+    "description": "Career opportunities at NEU for academic and administrative positions."
+  },
+  "student_clubs": {
+    "total_clubs": 85,
+    "categories": [
+      "Sports",
+      "Engineering",
+      "Economics",
+      "Teaching",
+      "Architecture",
+      "Law",
+      "Medicine",
+      "Aeronautics",
+      "Technology",
+      "Arts",
+      "Social Sciences"
+    ],
+    "new_clubs_2024_2025": [
+      "Artificial Intelligence Club",
+      "Entrepreneurship and Start-up Club",
+      "Electrical and Electronic Technology Club",
+      "Mathematics Club",
+      "Preschool Teaching Club",
+      "Wildlife and Exotic Animals Club",
+      "Technology and Medical Innovations Club"
+    ],
+    "how_to_join": "Every student can join any club of interest, or take the initiative to form a new club.",
+    "website": "https://neu.edu.tr/campus-life/student-clubs/?lang=en",
+    "social_cultural_clubs_website": "https://neu.edu.tr/campus-life/social-and-cultural-clubs/?lang=en"
+  },
+  "online_services": {
+    "description": "NEU online portal services available to students and staff",
+    "services": [
+      "Web Mail Service",
+      "Academic Information System Login",
+      "Student Information System Login",
+      "Human Resources",
+      "UZEBIM",
+      "NEU Online",
+      "Scientific Research Projects (BAP)",
+      "Student Appointment System (SAS)",
+      "Student Satisfaction (Memnuniyet)"
+    ],
+    "website": "https://neu.edu.tr/online-services/?lang=en"
+  },
+  "campus_office_locations": {
+    "_note": "NEU does not publish individual room numbers for administrative offices online. The locations below are every named building/floor location confirmed from official NEU pages.",
+    "offices": [
+      {
+        "name": "Post Office",
+        "building": "Faculty of Economics and Administrative Sciences (İktisadi ve İdari Bilimler Fakültesi)",
+        "floor": "Ground Floor",
+        "room": "Not published",
+        "hours": "Mon–Fri 08:00–17:00",
+        "notes": "PTT branch serving students and staff"
+      },
+      {
+        "name": "Book House (Campus Bookstore)",
+        "building": "Grand Library",
+        "floor": "Inside Grand Library",
+        "room": "Not published",
+        "phone": "+90 (392) 444 0 938 / 477",
+        "hours": "Library hours (24/7 building, bookstore hours vary)"
+      },
+      {
+        "name": "Supermarket",
+        "building": "Dormitory Complex",
+        "floor": "Below Dormitory 1 (underground/ground level)",
+        "room": "Not published",
+        "hours": "Weekdays 08:00–24:00 | Weekends 10:00–24:00"
+      },
+      {
+        "name": "Dormitory Registration Office (AKKM)",
+        "building": "Atatürk Culture and Congress Centre (AKKM)",
+        "floor": "Not published",
+        "room": "Not published",
+        "notes": "Where students register for dormitories on campus"
+      },
+      {
+        "name": "Registrar's Office (Student Affairs)",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "extension": "5401",
+        "head": "Ümit Serdaroğlu",
+        "hours": "Mon–Fri 08:30–16:30"
+      },
+      {
+        "name": "International Student Office (ISO)",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "extension": "5610",
+        "whatsapp": "+90 548 818 08 18",
+        "hours": "Mon–Fri 08:00–17:00",
+        "contacts": {
+          "International Director": "Asst. Prof. Dr. Rana Serdaroğlu Tezel — ext. 5610 — iso.director@neu.edu.tr",
+          "Engineering/Civil/Law registrations": "Beliz Özdiren — ext. 5418 — WA: +90 548 843 0948",
+          "Architecture/Medicine/Arts/Health registrations": "Mahmoud Anaqwah — ext. 5141 — WA: +90 548 843 0947",
+          "Masters/PhD registrations": "Muazzez İnce — ext. 5295 — WA: +90 548 848 0535",
+          "Africa Unit": "Muhabbat Akyön — ext. 5163 — WA: +90 548 847 0535",
+          "Middle East/Eurasia Unit": "Gozel Aknazarova — ext. 5143 — WA: +90 546 991 0119",
+          "Foundation School": "Sharon Nyarai Karinda — WA: +90 548 839 0536"
+        }
+      },
+      {
+        "name": "Student Deanship",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "dean": "Prof. Dr. Dudu Yavuz Özkum",
+        "hours": "Mon–Fri 08:30–16:30",
+        "website": "https://neu.edu.tr/?page_id=267204&lang=en"
+      },
+      {
+        "name": "General Secretariat",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "head": "Prof. Dr. Yeter Tabur",
+        "extension": "3045 / 3029"
+      },
+      {
+        "name": "Security Directorate",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "head": "Talat Ürer",
+        "extension": "5308",
+        "hours": "24/7"
+      },
+      {
+        "name": "Atatürk Culture and Congress Centre (AKKM)",
+        "building": "Atatürk Culture and Congress Centre",
+        "floor": "Main hall ground level",
+        "room": "Not published",
+        "director": "Arif İşgüzar",
+        "extension": "5345 / 5344",
+        "notes": "Cafe AKKM is located inside. Also houses Dormitory Registration Office."
+      },
+      {
+        "name": "Grand Library",
+        "building": "Grand Library (separate building, central campus)",
+        "floor": "Multiple floors, 15,000 m²",
+        "room": "Not published",
+        "director": "Emre Karahasan",
+        "extension": "5536",
+        "hours": "24/7",
+        "notes": "Contains: study rooms, amphitheatres, children's library, Book House (bookstore), American Corner, Rare Works section, CMC archive"
+      },
+      {
+        "name": "Olympic Indoor Swimming Pool",
+        "building": "Swimming Pool Building (separate)",
+        "floor": "Ground level",
+        "room": "Not published",
+        "director": "Avni Cankurt",
+        "extension": "5240",
+        "phone": "+90 (392) 680 2080 / 223 6464"
+      },
+      {
+        "name": "Sports Tower",
+        "building": "Sports Tower (separate building)",
+        "floor": "Not published",
+        "room": "Not published",
+        "director": "Menteş Cenik",
+        "extension": "5771"
+      },
+      {
+        "name": "Near East TV",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "extension": "5348"
+      },
+      {
+        "name": "Near East FM Radio",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "director": "Sinem Kasımoğlu",
+        "extension": "5412 / 5413"
+      },
+      {
+        "name": "Cyprus Car Museum (Museum of Classical and Sports Cars)",
+        "building": "Separate museum building on campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "director": "Ulus Candanal",
+        "phone": "0542 888 06 00",
+        "extension": "5536"
+      },
+      {
+        "name": "Cyprus Modern Art Museum (GÜNSEL Art Museum)",
+        "building": "Separate museum building on campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "director": "Görkem Bulunç",
+        "extension": "5656"
+      },
+      {
+        "name": "Cyprus Herbarium and Natural History Museum",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "director": "Prof. Dr. Salih Gücel",
+        "extension": "5135"
+      },
+      {
+        "name": "Transportation Directorate",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "head": "Sezer Ekinci",
+        "extension": "5474"
+      },
+      {
+        "name": "Dormitory Management",
+        "building": "Dormitory Complex",
+        "floor": "Not published",
+        "room": "Not published",
+        "head": "Recep Uğur Arslan"
+      },
+      {
+        "name": "Office of Health, Culture and Sports",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "head": "Assoc. Prof. Dr. Hakan Atamtürk",
+        "extension": "5266"
+      },
+      {
+        "name": "Dorana Residence Nicosia (Hotel on campus)",
+        "building": "Dorana Residence — within NEU campus",
+        "floor": "Not published",
+        "room": "14 rooms, 134 bed capacity",
+        "head": "Deniz Kaygan Kasap",
+        "extension": "3410 / 3442",
+        "amenities": "Central heating/cooling, LED TV, mini bar, shower, hair dryer, water heater, telephone, free internet"
+      },
+      {
+        "name": "Near East Animal Hospital",
+        "building": "Veterinary Faculty / Animal Hospital building on campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "chief": "Dr. Mehmet İsfendiyaroğlu",
+        "extension": "3150 / 3145"
+      },
+      {
+        "name": "NEU Dental Hospital",
+        "building": "Separate Dental Hospital building on NEU campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "chief": "Assoc. Prof. Dr. Onur Lokman Uyanık",
+        "phone": "+90 (392) 680 2030",
+        "departments": [
+          "Dental and Maxillofacial Radiology",
+          "Periodontology",
+          "Restorative Dentistry",
+          "Endodontics",
+          "Oral and Maxillofacial Surgery",
+          "Prosthodontics",
+          "Paedodontics",
+          "Orthodontics"
+        ]
+      },
+      {
+        "name": "NEU Hospital (Near East Hospital)",
+        "building": "NEU Hospital — separate large building on campus",
+        "floor": "Multiple (Ground to 9th floor West Block, Ground to 4th floor East Block)",
+        "room": "209 patient rooms (22 VIP)",
+        "phone": "+90 392 444 0 535",
+        "website": "https://neareasthospital.com",
+        "hours": "24/7",
+        "notes": "See neu_hospital_departments.json for exact floor/block of all 55 departments"
+      },
+      {
+        "name": "Student Residence Permit Office",
+        "building": "Handled through ISO / online procedure",
+        "floor": "Not published",
+        "room": "Not published",
+        "notes": "Residence permit procedure is handled online. See: https://aday.neu.edu.tr/student-permit-procedure-online-immigration/?lang=en"
+      },
+      {
+        "name": "Psychological Counselling and Research Centre",
+        "building": "Faculty of Law building",
+        "floor": "Not published",
+        "room": "Not published",
+        "notes": "Provides free counselling services to all NEU students"
+      },
+      {
+        "name": "Near East Bank (campus branch)",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published",
+        "website": "https://www.neareastbank.com"
+      },
+      {
+        "name": "Türkiye İş Bankası (campus branch)",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "Not published"
+      },
+      {
+        "name": "Ziraat Bankası (ATM only)",
+        "building": "Main Campus",
+        "floor": "Not published",
+        "room": "ATM only, no branch"
+      },
+      {
+        "name": "Fuel Station (Near East Fuel Station)",
+        "building": "On campus road/perimeter",
+        "floor": "Ground level",
+        "room": "Not published"
+      },
+      {
+        "name": "NEU Lake (Near East University Lake)",
+        "building": "Outdoor — on campus grounds",
+        "floor": "Outdoor",
+        "room": "N/A — recreational outdoor area"
+      }
+    ],
+    "room_numbers_note": "NEU does not publicly publish room numbers for any administrative office. To find a specific room, call the main switchboard (+90 392 223 64 64 / 680 20 00), use the internal extensions listed in the phone directory (https://neu.edu.tr/phone-directory/?lang=en), or ask at the reception of the relevant building on campus."
+  }
+}

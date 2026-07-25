@@ -1,0 +1,96 @@
+{
+  "research": {
+    "total_research_centers": 28,
+    "notable_centers": [
+      {
+        "name": "NEU-IBM Research Centre",
+        "description": "Houses NEU's supercomputer; conducts research across multiple disciplines",
+        "supercomputer": {
+          "world_rank": 13,
+          "regional_rank": 1,
+          "note": "Highest computation speed and capacity in the region"
+        },
+        "research_areas": [
+          "Medical sciences",
+          "Chemistry",
+          "Physics",
+          "Astronomy",
+          "Architecture",
+          "Engineering",
+          "Mathematics"
+        ],
+        "notable_projects": [
+          "Help Conquer Cancer project",
+          "CERN Large Hadron Collider experiment",
+          "Ebola virus research (2014)",
+          "Northern Cyprus Research Area (European Research Area framework)"
+        ]
+      },
+      {
+        "name": "DESAM Research Institute",
+        "website": "https://neu.edu.tr/research/desam-research-institute/?lang=en"
+      },
+      {
+        "name": "Near East Institute",
+        "website": "https://neu.edu.tr/research/near-east-institute/?lang=en"
+      },
+      {
+        "name": "Lifelong Education Centre",
+        "website": "https://neu.edu.tr/research/lifelong-education-centre/?lang=en"
+      },
+      {
+        "name": "Experimental Animals Research Centre",
+        "website": "https://neu.edu.tr/research/experimental-animals-research-centre/?lang=en"
+      },
+      {
+        "name": "Nuclear Medicine Research Centre",
+        "location": "NEU Hospital"
+      },
+      {
+        "name": "Herbarium",
+        "established": 2006,
+        "curator_founder": "Salih Gucel"
+      }
+    ],
+    "research_areas": [
+      "History and politics",
+      "Tissue engineering",
+      "Marine biodiversity (collaboration with Eastern Mediterranean University)",
+      "Water quality research",
+      "Genetic sequencing of marine organisms",
+      "Cancer research",
+      "Ebola virus disease",
+      "Solar energy and electric vehicles"
+    ],
+    "innovation_achievements": [
+      {
+        "name": "RA 25 Solar Car",
+        "year": 2014,
+        "description": "First solar-powered car produced in Northern Cyprus",
+        "achievement": "Competed in South African Solar Challenge, finished 8th place"
+      },
+      {
+        "name": "RA 26 Solar Car",
+        "description": "Advanced model under development; planned as a family automobile"
+      },
+      {
+        "name": "GÜNSEL Electric Vehicle",
+        "website": "https://www.gunsel.com.tr/en"
+      }
+    ],
+    "laboratories": {
+      "count": "40+",
+      "description": "State-of-the-art research laboratories across all departments",
+      "website": "https://neu.edu.tr/research/laboratories/?lang=en"
+    },
+    "links": {
+      "center_of_excellence": "https://neu.edu.tr/research/center-of-excellence/?lang=en",
+      "rd_and_innovation": "https://neu.edu.tr/research/rd-and-innovation/?lang=en",
+      "interdisciplinary_research": "https://neu.edu.tr/research/interdisciplinary-research/?lang=en",
+      "scientific_research_projects": "https://neu.edu.tr/research/scientific-research-projects/?lang=en",
+      "ethics_board": "https://neu.edu.tr/research/scientific-research-ethics-board/?lang=en",
+      "neu_publications": "https://neu.edu.tr/research/neu-publications/?lang=en",
+      "awards": "https://neu.edu.tr/research/awards/?lang=en"
+    }
+  }
+}
